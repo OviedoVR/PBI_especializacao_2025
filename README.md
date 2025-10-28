@@ -9,16 +9,16 @@ Repositório da disciplina de Power BI, ministrado em nov/2025 na UFN.
 - Power Query (transformação de dados e ETL)
 - **Dashboard RH**
 - Conectando a um banco de dados BigQuery
-- **Dashboard eletrônicos (BQ)**
 - Visuais (gráficos)
 - Visuais de IA
 - Dica de ferramenta
 - Drill-up e drill-down
+- **Dashboard vendas em uma Coffee Store**
 - Editar interações entre gráficos; botões.
 - Compartilhamento (público e opções)
 - Atualização com PBI Gateway
 - Funções DAX, tabela calendário e medidas rápidas 
-- **Dashboard genérico** e **Dashboard Curva ABC**
+- Exemplos DAX** e **Dashboard Curva ABC**
 - **Cartões com DAX** 
 - Compartilhamento com Senha
 - Layout de dashboards
