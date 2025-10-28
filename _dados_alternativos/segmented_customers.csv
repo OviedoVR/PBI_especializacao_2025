@@ -1,0 +1,2214 @@
+ID,Education,Age,DaysAsCustomer,Marital_Status,Kidhome,Teenhome,Country,Recency,Purchases, Income ,CampaingsAccepted,Complain,Spent,Cluster
+1826,Graduation,53,3392,Divorced,0,0,Spain,0,15,84835.0,0,0,1190,B
+1,Graduation,62,3393,Single,0,0,Canada,0,18,57091.0,1,0,577,C
+10476,Graduation,65,3426,Married,0,1,USA,0,11,67267.0,0,0,251,A
+1386,Graduation,56,3428,Together,1,1,Australia,0,4,32474.0,0,0,11,A
+5371,Graduation,34,3461,Single,1,0,Spain,0,8,21474.0,1,0,91,A
+7348,PhD,65,3483,Single,0,0,Spain,0,17,71691.0,0,0,1192,B
+4073,2n Cycle,69,3530,Married,0,0,Germany,0,28,63564.0,1,0,1215,B
+1991,Graduation,56,3541,Together,0,1,Spain,0,7,44931.0,0,0,96,A
+4047,PhD,69,3548,Married,0,1,USA,0,20,65324.0,0,0,544,C
+9477,PhD,69,3548,Married,0,1,India,0,20,65324.0,0,0,544,C
+2079,2n Cycle,76,3563,Married,0,0,USA,0,22,81044.0,0,0,1208,B
+5642,Master,44,3581,Together,1,0,Spain,0,12,62499.0,0,0,222,A
+10530,PhD,64,3583,Widow,0,0,India,0,16,67786.0,0,0,1156,B
+2964,Graduation,42,3635,Married,0,0,Canada,0,5,26872.0,0,0,72,A
+10311,Graduation,54,3646,Married,0,1,Spain,0,25,4428.0,0,0,359,C
+837,Graduation,46,3670,Married,1,1,Spain,0,12,54809.0,0,0,174,A
+10521,Graduation,46,3670,Married,1,1,Spain,0,12,54809.0,0,0,174,A
+10175,PhD,65,3711,Divorced,0,1,Spain,0,5,32173.0,0,0,22,A
+1473,2n Cycle,63,3720,Single,0,1,Canada,0,7,47823.0,0,0,72,A
+2795,Master,65,3742,Single,2,1,Canada,0,4,30523.0,0,0,13,A
+2285,Master,69,3776,Together,0,1,Saudi Arabia,0,15,36634.0,0,0,335,A
+115,Master,57,3839,Single,0,1,India,0,17,43456.0,0,0,393,C
+10470,Master,44,3850,Married,1,0,Germany,0,8,40662.0,0,0,92,A
+4065,PhD,47,3881,Married,1,0,Spain,0,16,49544.0,0,0,404,C
+10968,Graduation,54,3962,Single,0,1,India,0,26,57731.0,0,0,704,C
+5985,Master,58,4003,Single,0,1,Spain,0,10,33168.0,0,0,122,A
+5430,Graduation,67,4032,Together,1,1,Spain,0,31,54450.0,0,0,684,C
+8432,Graduation,67,4032,Together,1,1,Spain,0,31,54450.0,0,0,684,C
+453,PhD,67,3379,Widow,1,1,Spain,1,7,35340.0,0,0,45,A
+9687,Graduation,48,3408,Single,0,0,Canada,1,16,73170.0,0,0,726,C
+8890,PhD,52,3409,Divorced,1,1,Spain,1,14,65808.0,0,0,272,A
+9264,Graduation,37,3442,Married,0,0,Canada,1,22,79529.0,0,0,1638,D
+5824,PhD,51,3458,Together,2,1,Australia,1,4,34578.0,0,0,8,A
+5794,PhD,49,3483,Married,0,1,India,1,18,46374.0,2,0,446,C
+3068,Graduation,33,3622,Married,0,0,Spain,1,6,18351.0,0,0,43,A
+7962,PhD,36,3642,Single,0,0,Spain,1,12,95169.0,2,0,1901,D
+2681,2n Cycle,39,3711,Married,0,0,Spain,1,19,65370.0,0,0,461,C
+10141,Master,63,3794,Divorced,0,0,Saudi Arabia,1,4,39228.0,0,0,20,A
+3725,PhD,62,3795,Single,0,0,Spain,1,16,84865.0,4,0,1688,D
+3767,Graduation,55,3809,Married,0,1,Spain,1,24,61314.0,0,0,1008,B
+5585,Graduation,51,3814,Single,1,0,Canada,1,7,21359.0,0,0,48,A
+7030,PhD,68,3835,Married,0,1,Spain,1,35,66465.0,1,0,1485,D
+1524,2n Cycle,40,3864,Single,0,0,Spain,1,16,81698.0,1,0,1104,B
+3657,Graduation,37,3879,Single,1,0,Spain,1,11,39146.0,0,0,165,A
+5740,2n Cycle,53,3879,Divorced,1,1,Spain,1,7,25959.0,0,0,56,A
+9595,Graduation,62,3913,Together,0,0,Spain,1,14,64260.0,0,0,1574,D
+3158,Graduation,50,3921,Married,1,0,Spain,1,5,32300.0,0,0,39,A
+5114,Master,58,3936,Married,0,1,Australia,1,16,74806.0,0,0,965,B
+340,Graduation,53,3940,Divorced,0,1,Germany,1,19,72967.0,1,0,497,C
+8805,Graduation,63,3953,Single,0,1,USA,1,17,48904.0,0,0,371,C
+1241,2n Cycle,39,4029,Married,1,0,Germany,1,6,14796.0,0,0,51,A
+1402,Master,69,4035,Married,0,0,Germany,1,21,66991.0,0,0,1253,B
+7264,2n Cycle,45,3427,Single,2,1,Saudi Arabia,2,4,52195.0,0,0,17,A
+1619,Graduation,67,3441,Married,0,0,Spain,2,17,90369.0,0,0,1588,D
+6398,Basic,49,3471,Married,1,0,Spain,2,8,18393.0,0,0,50,A
+1857,Graduation,71,3494,Single,1,1,Spain,2,7,47139.0,0,0,83,A
+4877,Master,50,3496,Married,0,1,India,2,5,38576.0,0,0,41,A
+3066,PhD,48,3524,Together,0,1,Saudi Arabia,2,12,61905.0,0,0,231,A
+10286,Graduation,61,3525,Married,0,0,Saudi Arabia,2,24,83715.0,0,0,926,B
+1992,Graduation,59,3558,Married,0,1,Spain,2,16,60597.0,1,0,893,B
+4246,Master,41,3578,Single,0,0,Spain,2,2,6560.0,0,0,373,C
+10623,Master,62,3605,Together,0,1,Spain,2,5,48330.0,0,0,32,A
+4867,PhD,55,3661,Single,1,1,Spain,2,11,38236.0,0,0,88,A
+3112,Master,46,3676,Married,1,0,Spain,2,5,22701.0,0,0,24,A
+4865,Master,49,3681,Divorced,1,1,Australia,2,21,53367.0,0,0,400,C
+6287,Graduation,37,3713,Together,1,0,Spain,2,5,34728.0,0,0,36,A
+4405,Master,67,3713,Married,0,2,Australia,2,23,63915.0,0,0,789,C
+5332,2n Cycle,63,3716,Married,0,0,India,2,17,82504.0,0,0,1066,B
+1519,PhD,51,3751,Single,1,1,Spain,2,9,38578.0,0,0,73,A
+9080,PhD,51,3751,Single,1,1,Spain,2,9,38578.0,0,0,73,A
+1772,PhD,48,3913,Married,0,0,Canada,2,19,79174.0,2,0,2043,D
+5341,2n Cycle,61,3919,Divorced,0,1,Saudi Arabia,2,14,81975.0,1,0,1588,D
+5510,Master,46,3964,Married,0,1,Spain,2,16,43263.0,0,0,441,C
+3887,Graduation,53,3974,Single,1,0,India,2,7,27242.0,0,0,106,A
+7022,Graduation,52,4018,Married,1,0,Saudi Arabia,2,21,76445.0,0,0,1410,B
+9999,Graduation,58,4019,Together,0,0,Spain,2,23,75276.0,0,0,1040,B
+10352,Graduation,60,4039,Widow,1,1,Saudi Arabia,2,9,34213.0,0,0,117,A
+7919,PhD,47,4064,Together,0,0,Spain,2,23,72335.0,0,0,2092,D
+4114,Master,59,4066,Married,0,0,Australia,2,29,79143.0,0,0,1693,D
+7990,Graduation,76,4075,Married,0,0,Canada,2,4,27469.0,0,0,17,A
+9888,Graduation,54,3383,Together,0,0,Spain,3,16,68695.0,0,0,1091,B
+4399,Graduation,54,3383,Together,0,0,Canada,3,16,68695.0,0,0,1091,B
+4452,Graduation,66,3411,Single,0,1,Germany,3,17,50388.0,2,0,372,C
+4785,PhD,53,3455,Together,0,2,Saudi Arabia,3,22,77622.0,0,0,714,C
+8461,Graduation,61,3490,Divorced,2,1,Spain,3,4,46102.0,0,0,16,A
+3878,2n Cycle,43,3501,Single,1,0,Spain,3,5,31859.0,0,0,48,A
+9612,2n Cycle,36,3521,Single,0,0,Spain,3,5,23830.0,0,0,43,A
+4098,Graduation,50,3531,Married,1,1,Australia,3,9,24639.0,0,0,44,A
+158,PhD,78,3603,Together,0,0,Spain,3,17,71604.0,1,0,1196,B
+3896,Graduation,39,3613,Married,1,0,Spain,3,5,27255.0,0,0,37,A
+9970,Graduation,46,3634,Together,0,1,Canada,3,9,55375.0,0,0,162,A
+4002,PhD,63,3638,Married,0,1,Spain,3,27,77037.0,0,0,1123,B
+10914,Graduation,53,3639,Single,1,1,Spain,3,6,24163.0,0,0,17,A
+7279,PhD,54,3651,Together,0,0,USA,3,15,69476.0,0,0,1044,B
+10582,Graduation,44,3740,Married,0,1,Germany,3,21,72063.0,0,0,758,C
+4470,Master,61,3763,Married,0,1,Spain,3,8,58646.0,0,0,140,A
+6183,Master,61,3763,Married,0,1,Germany,3,8,58646.0,0,0,140,A
+6379,Master,74,3775,Widow,1,1,USA,3,9,47570.0,0,0,121,A
+8601,Graduation,43,3805,Married,0,1,Australia,3,21,80011.0,0,0,1395,B
+4827,PhD,67,3855,Single,0,1,Spain,3,20,54998.0,0,0,455,C
+6715,PhD,75,3922,Single,0,1,Spain,3,25,60200.0,0,0,685,C
+10676,Graduation,41,3983,Married,0,0,Spain,3,20,63211.0,0,0,1173,B
+1041,PhD,50,3998,Single,0,1,Saudi Arabia,3,19,48432.0,0,0,424,C
+492,PhD,50,3998,YOLO,0,1,Canada,3,19,48432.0,0,0,424,C
+11133,PhD,50,3998,YOLO,0,1,India,3,19,48432.0,0,0,424,C
+4491,Master,74,4015,Married,1,1,Spain,3,28,62845.0,1,0,1178,B
+873,Master,74,4015,Married,1,1,Spain,3,28,62845.0,1,0,1178,B
+1631,PhD,58,4043,Together,0,0,Germany,3,23,65220.0,0,0,1282,B
+8278,PhD,33,4051,Married,0,0,Spain,3,16,74214.0,0,0,1711,D
+6815,2n Cycle,43,3416,Married,0,0,Spain,4,21,96547.0,3,0,809,C
+254,Graduation,68,3422,Together,0,1,Spain,4,18,53863.0,1,0,473,C
+1349,Graduation,53,3448,Married,2,0,India,4,8,50447.0,0,0,148,A
+2534,Graduation,70,3448,Married,0,1,Australia,4,10,37716.0,0,0,188,A
+2130,Graduation,41,3477,Together,2,0,Saudi Arabia,4,8,45203.0,0,0,147,A
+2296,Master,48,3574,Married,1,0,Spain,4,4,37368.0,1,0,30,A
+3799,Graduation,68,3594,Married,0,1,USA,4,23,67225.0,0,0,868,B
+11084,Master,47,3606,Together,0,1,Canada,4,17,65104.0,0,0,1053,B
+5172,Master,47,3606,Together,0,1,Spain,4,17,65104.0,0,0,1053,B
+9504,Master,74,3614,Married,0,0,Spain,4,25,81698.0,0,0,1008,B
+850,Graduation,55,3645,Single,0,1,Spain,4,22,70566.0,0,0,757,C
+4477,Graduation,65,3654,Together,0,1,Germany,4,18,69096.0,0,0,653,C
+1945,Graduation,61,3663,Married,0,1,Spain,4,21,71434.0,2,0,1400,B
+7685,Graduation,45,3672,Married,1,0,Spain,4,7,33039.0,0,0,78,A
+6310,Graduation,45,3672,Married,1,0,Canada,4,7,33039.0,0,0,78,A
+10832,Graduation,65,3725,Together,0,0,Spain,4,14,46610.0,0,0,467,C
+3025,Graduation,65,3735,Single,0,1,Canada,4,15,49967.0,0,0,306,A
+2404,Graduation,47,3777,Married,1,1,USA,4,14,53359.0,0,0,257,A
+8581,Master,52,3860,Married,1,1,Spain,4,29,49505.0,0,0,751,C
+8755,Master,77,3873,Married,0,0,Australia,4,18,68657.0,0,0,1196,B
+10177,Graduation,69,3879,Divorced,0,1,Spain,4,20,72071.0,0,0,1338,B
+2429,Graduation,69,3879,Divorced,0,1,Canada,4,20,72071.0,0,0,1338,B
+8920,Master,56,3912,Single,1,0,India,4,28,59235.0,0,0,1128,B
+8430,Graduation,66,3931,Together,0,1,Australia,4,4,21994.0,0,0,22,A
+8619,Graduation,66,3931,Together,0,1,Spain,4,4,21994.0,0,0,22,A
+7233,Graduation,51,4029,Married,0,0,Canada,4,16,69209.0,1,0,1782,D
+6678,Graduation,34,3472,Together,1,0,India,5,9,31928.0,0,0,72,A
+830,PhD,36,3504,Single,0,0,India,5,15,74004.0,2,0,1658,D
+6365,2n Cycle,36,3679,Married,0,0,India,5,6,30390.0,0,0,80,A
+6770,Graduation,38,3692,Married,1,0,USA,5,7,21355.0,1,0,68,A
+2261,Graduation,54,3750,Married,1,0,Germany,5,4,26304.0,0,0,16,A
+1031,2n Cycle,34,3799,Married,0,0,India,5,26,85710.0,1,0,1062,B
+10089,Graduation,49,3829,Divorced,0,0,Saudi Arabia,5,29,102692.0,4,0,1112,B
+9256,Graduation,52,3920,Single,0,1,Spain,5,27,58350.0,0,0,1001,B
+10641,Graduation,45,3928,Single,1,1,Spain,5,10,7500.0,0,0,57,A
+624,Master,39,3975,Single,0,0,Saudi Arabia,5,4,18890.0,1,0,35,A
+4211,Basic,37,3987,Married,1,0,Canada,5,7,20425.0,0,0,57,A
+1407,Basic,37,3987,Married,1,0,Germany,5,7,20425.0,0,0,57,A
+10356,PhD,66,4024,Divorced,1,1,Spain,5,5,41437.0,0,0,32,A
+9323,Master,74,4039,Together,0,1,Mexico,5,26,49912.0,1,0,874,B
+1146,Master,74,4039,Together,0,1,Australia,5,26,49912.0,1,0,874,B
+6343,Graduation,64,3469,Married,0,1,Australia,6,23,79823.0,1,0,1518,D
+8545,Graduation,69,3479,Divorced,0,0,Spain,6,17,85683.0,4,0,1789,D
+8275,PhD,58,3519,Divorced,1,1,Spain,6,4,47025.0,0,0,20,A
+10673,PhD,47,3603,Married,0,1,Saudi Arabia,6,21,68397.0,0,0,1416,B
+8799,PhD,39,3658,Married,1,0,Spain,6,11,38175.0,0,0,153,A
+67,Master,51,3663,Single,1,1,Spain,6,9,46423.0,0,0,92,A
+9923,Master,51,3663,Single,1,1,Spain,6,9,46423.0,0,0,92,A
+2814,Master,47,3746,Together,1,0,Saudi Arabia,6,5,30560.0,0,0,31,A
+2711,Master,47,3746,Together,1,0,Canada,6,5,30560.0,0,0,31,A
+4320,Graduation,44,3837,Single,0,1,Spain,6,23,60152.0,0,0,943,B
+10451,Graduation,58,3853,Together,1,1,Saudi Arabia,6,4,29672.0,0,0,25,A
+4198,Graduation,58,3853,Together,1,1,Spain,6,4,29672.0,0,0,25,A
+10814,Graduation,76,3908,Together,0,0,Spain,6,25,70321.0,0,0,1376,B
+944,Graduation,61,3916,Married,0,1,Spain,6,14,56181.0,0,0,393,C
+8151,Basic,33,3926,Married,0,0,Spain,6,9,24279.0,0,0,263,A
+6184,PhD,54,3943,Married,0,0,Spain,6,15,68462.0,0,0,1670,D
+3498,PhD,47,3960,Married,0,1,Spain,6,25,55424.0,1,0,877,B
+2870,Graduation,50,4025,Married,0,1,Spain,6,20,49094.0,0,0,502,C
+7342,2n Cycle,62,4037,Widow,0,1,Spain,6,27,59184.0,0,0,1072,B
+1911,Graduation,36,4041,Together,0,0,Germany,6,29,67430.0,0,0,1364,B
+10862,Master,63,4060,Married,0,1,Spain,6,17,30522.0,0,0,326,A
+2546,2n Cycle,46,3386,Single,0,1,Spain,7,6,31878.0,0,0,70,A
+3005,Graduation,31,3438,Single,0,0,Spain,7,23,83528.0,2,0,1650,D
+8318,Graduation,44,3556,Together,0,0,Spain,7,19,90300.0,1,0,1738,D
+2930,Master,45,3574,Single,0,0,Saudi Arabia,7,20,68092.0,0,0,1281,B
+8216,Master,51,3640,Married,1,1,Australia,7,17,53761.0,0,0,325,A
+1212,Graduation,50,3699,Married,1,0,Spain,7,25,52845.0,1,0,936,B
+2541,Graduation,47,3764,Married,1,0,Spain,7,7,24027.0,0,0,48,A
+10659,2n Cycle,44,3797,Together,1,0,India,7,11,7500.0,0,0,53,A
+10905,Graduation,68,3987,Together,1,1,Spain,7,16,42586.0,0,0,252,A
+8910,Graduation,68,3987,Together,1,1,Spain,7,16,42586.0,0,0,252,A
+7349,Basic,50,4014,Together,1,0,Spain,7,11,9722.0,0,0,103,A
+7872,PhD,48,4034,Married,0,0,Spain,7,23,86836.0,3,0,557,C
+4290,Graduation,51,3481,Married,1,0,Canada,8,4,30467.0,0,0,24,A
+7408,PhD,71,3497,Married,0,1,Saudi Arabia,8,12,54549.0,0,0,233,A
+9986,Graduation,41,3506,Together,1,0,Saudi Arabia,8,10,19444.0,0,0,54,A
+8235,Master,67,3535,Together,0,1,Saudi Arabia,8,23,69245.0,0,0,843,C
+10949,PhD,60,3574,Divorced,0,0,Spain,8,19,72968.0,1,0,1958,D
+7284,Graduation,70,3586,Married,1,2,Spain,8,4,48686.0,0,0,20,A
+9529,Graduation,33,3592,Married,0,0,Saudi Arabia,8,22,73687.0,1,0,1627,D
+9930,PhD,79,3615,Single,0,0,Canada,8,28,82716.0,0,0,1167,B
+10270,2n Cycle,42,3648,Married,1,0,Germany,8,8,35523.0,0,0,66,A
+760,PhD,48,3703,Divorced,1,0,Saudi Arabia,8,23,60554.0,0,0,811,C
+5519,Graduation,67,3705,Together,0,1,Saudi Arabia,8,20,64090.0,0,0,797,C
+232,Graduation,58,3726,Single,0,1,Spain,8,17,61559.0,0,0,530,C
+3009,PhD,61,3734,Widow,0,0,Spain,8,15,71670.0,3,0,1766,D
+6518,PhD,72,3762,Widow,0,1,Australia,8,19,67680.0,0,0,606,C
+10669,Graduation,42,3787,Married,0,1,Spain,8,17,54386.0,0,0,470,C
+5682,PhD,70,3842,Single,0,1,Australia,8,30,64108.0,0,0,1099,B
+1570,PhD,72,3874,Together,0,1,Spain,8,26,69702.0,0,0,1039,B
+1497,Graduation,71,3905,Single,0,1,Saudi Arabia,8,16,47958.0,0,0,407,C
+9723,Graduation,63,3914,Married,0,1,Canada,8,28,67716.0,1,0,1016,B
+7261,Graduation,52,3923,Together,1,1,Spain,8,17,34600.0,0,0,318,A
+2452,Graduation,52,3923,Together,1,1,Spain,8,17,34600.0,0,0,318,A
+5621,Graduation,54,3943,Married,1,1,Spain,8,17,48752.0,0,0,316,A
+10995,2n Cycle,35,3973,Married,1,0,Saudi Arabia,8,10,15716.0,0,1,92,A
+7373,PhD,71,3987,Divorced,0,2,Australia,8,17,46610.0,0,0,302,A
+5331,Graduation,46,4035,Married,0,0,Germany,8,17,74985.0,0,0,1869,D
+263,PhD,78,3411,Single,0,0,Spain,9,8,45576.0,0,0,145,A
+4619,PhD,78,3411,Single,0,0,Spain,9,27,113734.0,0,0,277,A
+940,Graduation,36,3421,Single,1,0,Saudi Arabia,9,14,57100.0,0,0,311,A
+10084,Graduation,51,3421,Married,2,0,India,9,7,24434.0,0,0,50,A
+6019,PhD,52,3470,Married,1,0,Spain,9,6,37126.0,1,0,72,A
+1463,Graduation,65,3471,Single,1,1,Australia,9,4,45160.0,0,0,21,A
+6424,Graduation,46,3529,Together,1,0,Spain,9,5,33178.0,0,0,49,A
+8233,Master,73,3533,Widow,0,1,Canada,9,21,64866.0,1,0,556,C
+1515,Master,48,3537,Together,0,1,Canada,9,5,34176.0,0,0,28,A
+10855,Master,55,3537,Single,1,0,Spain,9,15,50014.0,0,0,396,C
+10909,Graduation,75,3544,Married,0,0,Australia,9,20,92344.0,2,0,1899,D
+3376,Master,53,3577,Divorced,1,0,Spain,9,11,55282.0,0,0,235,A
+10232,PhD,60,3615,Divorced,0,1,Spain,9,15,48799.0,0,0,331,A
+5547,PhD,41,3705,Married,0,0,Spain,9,20,84169.0,2,0,1919,D
+8362,PhD,41,3705,Married,0,0,Saudi Arabia,9,20,84169.0,2,0,1919,D
+3524,Master,52,3708,Single,1,0,Spain,9,10,39763.0,0,0,167,A
+10095,PhD,48,3803,Divorced,0,0,Canada,9,20,74165.0,0,0,1293,B
+8897,Graduation,58,3810,Single,1,1,Germany,9,25,42720.0,0,0,654,C
+466,Graduation,79,3831,Married,0,0,Spain,9,21,65275.0,0,0,746,C
+11025,Graduation,62,3890,Married,1,1,Spain,9,11,36443.0,0,0,138,A
+2387,Master,71,3890,Together,1,1,Saudi Arabia,9,17,43776.0,0,0,275,A
+1618,Graduation,58,3922,Together,0,0,Germany,9,21,56046.0,1,0,692,C
+25,Graduation,65,3969,Married,0,1,Canada,9,21,65148.0,0,0,1115,B
+3277,Graduation,68,4074,Divorced,0,1,Spain,9,15,49431.0,0,0,365,C
+8566,PhD,62,3393,Together,1,1,Spain,10,4,32583.0,0,0,9,A
+2634,Master,44,3451,Single,1,0,Spain,10,9,16653.0,0,0,69,A
+8036,2n Cycle,52,3451,Together,1,1,Spain,10,11,26850.0,0,0,63,A
+8159,Graduation,55,3468,Married,1,1,Spain,10,11,51287.0,0,0,182,A
+7628,2n Cycle,50,3482,Married,1,0,Spain,10,8,43050.0,0,0,76,A
+9597,Graduation,54,3518,Married,0,0,Canada,10,19,73448.0,0,0,725,C
+1384,Basic,31,3597,Married,1,0,USA,10,7,17256.0,1,0,62,A
+10150,Graduation,62,3599,Single,0,0,Saudi Arabia,10,18,86429.0,1,0,1449,D
+3885,PhD,40,3635,Married,1,0,Spain,10,5,33569.0,1,0,63,A
+11003,2n Cycle,43,3649,Together,1,0,Canada,10,7,25130.0,0,0,50,A
+8026,Graduation,71,3651,Married,0,1,Canada,10,19,62998.0,0,0,463,C
+577,2n Cycle,47,3692,Together,1,1,Spain,10,6,26907.0,0,0,22,A
+8702,2n Cycle,47,3692,Together,1,1,Australia,10,6,26907.0,0,0,22,A
+5429,PhD,75,3692,Married,0,1,Spain,10,10,45579.0,0,0,183,A
+977,Graduation,66,3711,Together,0,1,Canada,10,20,47320.0,0,0,414,C
+2793,PhD,47,3722,Divorced,0,1,Saudi Arabia,10,26,70179.0,0,0,1034,B
+1071,PhD,47,3722,Divorced,0,1,USA,10,26,70179.0,0,0,1034,B
+5074,Master,37,3735,Married,1,0,Canada,10,5,28072.0,0,0,47,A
+2632,Graduation,69,3755,Married,1,1,India,10,20,50501.0,1,0,500,C
+6404,Graduation,54,3841,Together,1,2,Saudi Arabia,10,16,58917.0,0,0,282,A
+10240,Graduation,74,3874,Together,0,0,Canada,10,21,69372.0,2,0,1381,B
+2521,Master,52,3914,Married,1,0,Spain,10,5,35178.0,1,0,59,A
+4301,Master,52,3914,Married,1,0,Australia,10,5,35178.0,1,0,59,A
+7381,Graduation,55,3949,Divorced,0,0,Spain,10,22,75693.0,3,0,1442,B
+2407,Graduation,41,3976,Married,0,0,USA,10,20,69109.0,1,0,1555,D
+9064,Graduation,41,3976,Married,0,0,Spain,10,20,69109.0,1,0,1555,D
+5067,Graduation,29,3514,Together,0,0,Spain,11,21,80134.0,4,0,1378,B
+10281,Graduation,53,3521,Divorced,1,0,Australia,11,19,64713.0,0,0,602,C
+11191,Graduation,37,3583,Divorced,0,0,Spain,11,8,41411.0,0,0,139,A
+2552,PhD,68,3629,Single,1,2,Spain,11,24,55521.0,1,0,446,C
+6720,Master,55,3635,Together,0,1,Spain,11,17,43795.0,1,0,492,C
+4557,Graduation,53,3647,Together,1,0,Saudi Arabia,11,8,22070.0,0,0,67,A
+1183,Master,74,3660,Married,1,1,Germany,11,4,36408.0,0,0,22,A
+4186,Graduation,73,3707,Together,1,1,Canada,11,9,34026.0,0,0,76,A
+1419,Graduation,73,3707,Together,1,1,Spain,11,9,34026.0,0,0,76,A
+967,Graduation,47,3722,Married,1,1,Spain,11,26,46049.0,0,0,515,C
+1048,Master,51,3729,Married,1,0,Saudi Arabia,11,10,35641.0,0,0,178,A
+9262,2n Cycle,39,3739,Together,0,0,Saudi Arabia,11,5,32414.0,1,0,52,A
+3427,PhD,68,3822,Married,0,1,Saudi Arabia,11,26,59821.0,0,0,734,C
+5892,Graduation,43,3824,Married,1,0,Saudi Arabia,11,17,34968.0,0,0,221,A
+8911,PhD,56,3826,Married,0,1,Spain,11,21,56320.0,0,0,702,C
+6606,Master,54,3834,Married,1,0,Spain,11,19,70091.0,1,0,1161,B
+2677,Graduation,67,3834,Together,0,1,Saudi Arabia,11,15,46097.0,0,0,241,A
+252,PhD,60,3848,Divorced,0,0,Saudi Arabia,11,17,41003.0,0,0,601,C
+9860,Graduation,64,3850,Together,0,1,Spain,11,12,44911.0,0,0,215,A
+1388,Graduation,48,3873,Single,1,0,Australia,11,8,33249.0,0,0,112,A
+979,Graduation,48,3873,Single,1,0,Spain,11,8,33249.0,0,0,112,A
+7494,PhD,73,3903,Divorced,1,1,Canada,11,15,42873.0,0,0,269,A
+10490,PhD,54,3945,Married,1,1,Australia,11,14,51039.0,0,0,417,C
+3403,PhD,65,4022,Together,0,1,Spain,11,21,78952.0,0,0,2092,D
+2715,Master,57,4071,Divorced,1,1,Canada,11,11,29435.0,0,0,180,A
+4828,Graduation,69,3390,Divorced,0,1,Saudi Arabia,12,21,79865.0,0,0,792,C
+92,Graduation,35,3427,Alone,1,0,Canada,12,11,34176.0,0,0,89,A
+3312,Graduation,35,3427,Single,1,0,India,12,11,34176.0,0,0,89,A
+11176,PhD,53,3427,Together,0,1,Canada,12,18,65968.0,0,0,495,C
+1446,Master,67,3464,Single,0,0,Saudi Arabia,12,28,86424.0,0,0,1226,B
+9699,Graduation,57,3569,Divorced,0,1,Spain,12,23,67272.0,0,0,733,C
+9790,Graduation,66,3597,Single,0,0,Canada,12,19,78499.0,1,0,1334,B
+2324,Graduation,51,3624,Together,0,1,Spain,12,31,77044.0,1,0,1065,B
+5080,Graduation,30,3630,Single,0,0,Mexico,12,17,70515.0,0,0,1258,B
+4992,Master,48,3662,Together,1,0,Spain,12,9,17459.0,0,0,69,A
+7849,PhD,53,3672,Married,0,0,Spain,12,25,80336.0,0,0,1052,B
+4808,Graduation,67,3676,Married,0,0,Spain,12,4,15759.0,0,0,17,A
+10401,2n Cycle,47,3677,Together,0,0,Germany,12,4,26326.0,0,1,18,A
+7793,Graduation,47,3681,Together,0,1,Spain,12,24,62061.0,1,0,800,C
+9303,Graduation,47,3713,Married,0,1,India,12,1,5305.0,0,0,32,A
+6853,Master,41,3739,Single,0,0,Australia,12,21,75777.0,2,0,1438,B
+7366,Master,41,3739,Single,0,0,India,12,21,75777.0,2,0,1438,B
+9780,Master,52,3748,Together,0,1,Spain,12,26,71499.0,0,0,795,C
+7573,PhD,45,3794,Single,1,0,Germany,12,6,31626.0,1,0,86,A
+1379,Master,31,3807,Together,0,0,Saudi Arabia,12,11,42670.0,0,0,241,A
+8923,Graduation,50,3816,Single,0,0,Spain,12,21,83917.0,0,0,1587,D
+3547,Master,54,3925,Together,1,0,Saudi Arabia,12,7,41021.0,0,0,64,A
+8707,Graduation,67,4055,Married,0,0,Spain,12,16,79456.0,0,0,1401,B
+1891,Master,43,4069,Divorced,0,0,Spain,12,16,78789.0,0,0,1754,D
+6271,PhD,71,3389,Married,0,1,Spain,13,6,50870.0,0,0,63,A
+9635,Master,40,3449,Married,0,0,Spain,13,8,35876.0,0,0,129,A
+9727,Graduation,66,3500,Married,0,0,Canada,13,7,23539.0,0,0,81,A
+6205,Master,56,3504,Single,1,0,Canada,13,9,32557.0,0,0,80,A
+10681,2n Cycle,53,3544,Married,0,1,Spain,13,26,62466.0,0,0,889,B
+5156,2n Cycle,53,3544,Married,0,1,Spain,13,26,62466.0,0,0,889,B
+3050,Graduation,57,3573,Married,1,1,Spain,13,16,54198.0,0,0,235,A
+8164,PhD,45,3595,Married,0,0,Saudi Arabia,13,19,82170.0,0,0,1908,D
+5626,PhD,59,3597,Single,0,0,Spain,13,16,61798.0,0,0,463,C
+7600,Basic,31,3623,Single,1,0,Canada,13,6,15253.0,0,0,29,A
+6406,Master,35,3623,Married,0,0,Germany,13,21,78285.0,0,0,1427,B
+7002,Graduation,68,3648,Single,0,1,Spain,13,14,62535.0,0,0,398,C
+8234,Basic,50,3697,Together,1,0,Spain,13,4,27190.0,1,0,18,A
+6116,2n Cycle,55,3738,Married,0,1,Spain,13,6,48985.0,0,0,75,A
+291,Graduation,53,3754,Married,0,0,Saudi Arabia,13,13,72940.0,0,0,981,B
+8779,2n Cycle,38,3757,Married,1,0,USA,13,12,36145.0,1,0,172,A
+4931,Graduation,46,3805,Together,0,0,Saudi Arabia,13,28,157146.0,0,0,1730,D
+1650,Master,63,3812,Married,0,0,Spain,13,27,81843.0,0,0,1643,D
+9701,Graduation,35,3846,Together,1,0,Canada,13,12,41883.0,0,0,312,A
+6431,PhD,59,3870,Married,1,1,India,13,7,45759.0,0,0,68,A
+10789,PhD,59,3870,Married,1,1,Spain,13,7,45759.0,0,0,68,A
+5302,Graduation,37,3878,Together,0,0,Spain,13,16,78394.0,0,0,1428,B
+4459,Graduation,34,3925,Single,1,0,Spain,13,5,30279.0,0,0,37,A
+10642,Graduation,34,3925,Single,1,0,Spain,13,5,30279.0,0,0,37,A
+9213,Graduation,53,3985,Widow,1,0,Spain,13,4,31880.0,0,0,15,A
+3678,Graduation,50,4009,Widow,1,1,Spain,13,29,60208.0,1,0,656,C
+3698,Graduation,40,4068,Together,0,0,Spain,13,19,78687.0,1,0,2130,D
+5929,PhD,50,3433,Married,1,0,Spain,14,7,37401.0,0,0,48,A
+10795,PhD,50,3433,Married,1,0,India,14,7,37401.0,0,0,48,A
+4390,Graduation,69,3454,Together,0,1,Saudi Arabia,14,23,75315.0,0,0,841,C
+9362,Graduation,58,3495,Single,0,1,Canada,14,18,69263.0,1,0,568,C
+1577,Graduation,77,3509,Married,0,0,Spain,14,15,78569.0,1,0,1736,D
+4609,PhD,57,3548,Married,0,1,Spain,14,18,57705.0,0,0,486,C
+7143,2n Cycle,68,3614,Together,0,1,Spain,14,26,74805.0,0,0,820,C
+1729,PhD,62,3649,Together,0,1,Spain,14,20,66426.0,0,0,1377,B
+10664,Master,74,3674,Widow,0,1,Spain,14,17,51529.0,0,0,467,C
+5029,Graduation,77,3706,Married,0,0,Spain,14,4,18100.0,0,0,14,A
+10507,2n Cycle,46,3718,Divorced,0,1,USA,14,15,59601.0,1,0,797,C
+3865,2n Cycle,46,3804,Together,0,0,Canada,14,7,20981.0,0,0,73,A
+6982,Graduation,47,3846,Married,0,0,India,14,24,74068.0,0,0,1581,D
+7042,Graduation,40,3864,Married,0,0,Spain,14,6,36790.0,0,0,66,A
+9668,Graduation,52,3912,Married,1,0,Saudi Arabia,14,9,18793.0,0,0,77,A
+6878,Graduation,69,3943,Widow,0,0,Spain,14,14,27421.0,0,0,324,A
+4099,Graduation,51,3973,Married,1,0,Spain,14,5,30675.0,0,0,62,A
+5031,Graduation,49,4024,Together,0,0,Spain,14,26,83145.0,1,0,1833,D
+1970,Master,55,4036,Together,0,1,Spain,14,7,34053.0,0,0,103,A
+5726,Master,40,3480,Single,1,0,Saudi Arabia,15,10,31788.0,0,1,60,A
+5231,2n Cycle,49,3501,Married,0,2,Spain,15,5,45894.0,0,0,51,A
+1307,Graduation,45,3519,Divorced,0,1,Spain,15,10,41986.0,0,0,63,A
+10609,PhD,61,3639,Married,0,1,Canada,15,8,42769.0,0,0,88,A
+5782,2n Cycle,41,3653,Together,0,1,Spain,15,22,58582.0,1,0,763,C
+7533,Graduation,59,3657,Married,1,1,Canada,15,13,49096.0,0,0,187,A
+9493,PhD,43,3799,Single,0,0,Canada,15,18,76412.0,2,0,1808,D
+2253,Graduation,33,3877,Married,0,0,Spain,15,6,18929.0,0,0,85,A
+2326,Graduation,33,3877,Married,0,0,Spain,15,6,18929.0,0,0,85,A
+1876,Graduation,33,3877,Married,0,0,India,15,6,18929.0,0,0,85,A
+7141,Master,37,3926,Single,1,0,Spain,15,12,21888.0,0,0,213,A
+7393,Graduation,45,3945,Together,1,1,Spain,15,9,41580.0,0,0,92,A
+4713,PhD,44,3963,Married,1,0,Spain,15,9,31605.0,0,0,125,A
+5093,PhD,49,4028,Divorced,1,0,Spain,15,9,25509.0,0,0,101,A
+8524,PhD,49,4028,Divorced,1,0,Spain,15,9,25509.0,0,0,101,A
+3766,Master,64,4061,Widow,0,0,Spain,15,21,33051.0,0,0,835,C
+9725,PhD,57,3403,Together,1,1,Spain,16,4,28764.0,1,0,12,A
+8933,2n Cycle,40,3427,Married,1,0,Canada,16,8,32146.0,0,0,66,A
+10779,Graduation,40,3456,Single,0,0,Spain,16,5,22148.0,0,0,49,A
+9289,Graduation,44,3459,Married,1,0,Spain,16,6,36781.0,0,0,63,A
+2613,Master,63,3466,Married,0,1,Spain,16,12,54197.0,0,0,237,A
+10133,Graduation,53,3516,Single,0,0,Canada,16,25,93790.0,3,0,2349,D
+8443,Graduation,51,3518,Single,1,0,Saudi Arabia,16,9,24762.0,1,0,86,A
+10796,Master,39,3537,Married,1,0,India,16,6,30477.0,0,0,66,A
+10241,2n Cycle,48,3575,Divorced,0,0,Spain,16,4,11448.0,0,0,14,A
+3388,Graduation,56,3621,Divorced,1,1,Germany,16,17,70844.0,0,0,294,A
+6507,Graduation,43,3647,Single,1,0,Australia,16,8,30828.0,0,0,56,A
+7446,Master,56,3672,Together,0,1,USA,16,22,62513.0,0,0,716,C
+87,2n Cycle,42,3686,Married,1,0,Germany,16,7,27733.0,0,0,57,A
+10477,PhD,50,3706,Together,1,0,Spain,16,7,39435.0,0,0,102,A
+6072,Master,53,3891,Single,0,0,Spain,16,20,75345.0,1,0,2087,D
+2518,2n Cycle,37,3899,Together,0,0,Germany,16,4,20491.0,0,0,30,A
+247,Graduation,52,3968,Married,1,0,Spain,16,19,36715.0,0,0,357,C
+9463,Graduation,64,3972,Together,0,1,Canada,16,25,71706.0,0,0,1443,B
+1459,PhD,57,3978,Married,0,1,Spain,16,14,69063.0,0,0,928,B
+9530,Graduation,35,3984,Married,1,0,Saudi Arabia,16,4,24645.0,0,0,17,A
+9653,Graduation,48,4000,Married,0,1,Saudi Arabia,16,7,35797.0,0,0,68,A
+10785,Graduation,54,3389,Married,1,1,Saudi Arabia,17,7,44078.0,0,0,41,A
+9392,Graduation,52,3431,Single,1,0,Spain,17,4,26954.0,0,0,17,A
+10146,PhD,51,3498,Together,1,0,Australia,17,5,38887.0,0,0,42,A
+4741,2n Cycle,49,3529,Married,1,0,Spain,17,19,65463.0,1,0,562,C
+1880,PhD,64,3529,Together,1,1,India,17,8,53537.0,0,0,93,A
+6471,Master,52,3634,Single,1,0,Spain,17,7,36230.0,0,0,59,A
+5718,Graduation,73,3697,Married,0,0,Saudi Arabia,17,23,80763.0,2,0,1415,B
+3478,PhD,52,3749,Married,1,1,Canada,17,30,60585.0,0,0,736,C
+7848,Graduation,49,3760,Single,0,1,India,17,13,49166.0,0,0,368,C
+7999,PhD,68,3811,Together,0,0,Spain,17,17,75261.0,2,0,1743,D
+11101,Graduation,32,3819,Together,0,0,Australia,17,26,89891.0,1,0,836,C
+9212,Master,61,3879,Married,0,1,Spain,17,28,72828.0,0,0,1678,D
+10983,Graduation,71,3895,Together,0,0,Saudi Arabia,17,23,75278.0,0,0,930,B
+3629,Graduation,45,3936,Single,1,0,Canada,17,9,38557.0,0,0,145,A
+4673,PhD,60,3986,Married,0,1,Spain,17,21,81300.0,1,0,1241,B
+796,2n Cycle,58,3993,Divorced,0,1,Canada,17,26,60161.0,0,0,1071,B
+618,PhD,46,4018,Married,0,1,Australia,17,22,69389.0,0,0,797,C
+380,Graduation,69,4036,Divorced,0,1,Saudi Arabia,17,29,64497.0,1,0,1804,D
+1092,Graduation,43,4066,Married,0,1,India,17,20,61014.0,0,0,1147,B
+8962,Master,48,3452,Married,1,1,Saudi Arabia,18,7,44319.0,0,0,37,A
+8207,2n Cycle,66,3482,Married,0,1,Canada,18,5,53233.0,0,0,40,A
+6521,Graduation,69,3482,Together,0,0,Saudi Arabia,18,20,77972.0,0,0,1101,B
+535,Graduation,36,3503,Divorced,0,0,Germany,18,27,81361.0,0,0,778,C
+4608,Graduation,36,3503,Divorced,0,0,Saudi Arabia,18,27,81361.0,0,0,778,C
+11086,Basic,39,3541,Single,1,0,Spain,18,5,25707.0,0,0,21,A
+1064,PhD,52,3579,Married,1,0,Spain,18,5,42403.0,0,0,42,A
+7000,2n Cycle,51,3638,Single,0,0,Germany,18,23,65704.0,0,0,817,C
+1581,Graduation,43,3641,Married,1,0,Spain,18,4,37406.0,0,0,17,A
+7384,Master,72,3722,Together,0,0,Spain,18,17,39767.0,0,0,485,C
+10552,2n Cycle,44,3784,Married,0,1,Spain,18,14,54210.0,0,0,367,C
+6409,Graduation,56,3786,Divorced,0,0,Saudi Arabia,18,20,57136.0,0,0,1179,B
+9507,Graduation,48,3827,Married,0,1,Spain,18,16,40794.0,0,0,434,C
+9560,Graduation,58,3862,Together,0,0,Spain,18,22,83003.0,1,0,1674,D
+10991,Master,63,3948,Married,0,0,Canada,18,14,89058.0,0,0,850,B
+4712,2n Cycle,32,3957,Together,0,0,Spain,18,7,20193.0,0,0,82,A
+11056,Graduation,49,3989,Married,0,0,Spain,18,18,72099.0,0,0,1188,B
+7414,Graduation,52,4031,Married,1,1,Spain,18,12,43824.0,0,0,186,A
+3076,Graduation,48,4039,Together,1,1,Australia,18,22,66653.0,0,0,612,C
+6355,Graduation,45,3391,Married,1,1,Spain,19,9,44359.0,0,0,45,A
+7959,Graduation,62,3410,Married,0,0,Spain,19,11,79410.0,0,0,1370,B
+5512,Master,46,3416,Married,0,1,Spain,19,17,55842.0,0,0,518,C
+10102,Graduation,57,3427,Widow,0,0,Saudi Arabia,19,22,79946.0,0,0,1478,D
+9369,2n Cycle,44,3481,Single,0,1,Germany,19,32,88194.0,2,0,1274,B
+3711,Master,79,3499,Married,0,0,Spain,19,20,80184.0,2,0,1902,D
+6931,Graduation,56,3513,Divorced,0,0,Spain,19,16,76982.0,1,0,1062,B
+9596,PhD,43,3567,Single,0,0,USA,19,20,65295.0,0,0,664,C
+2727,Graduation,50,3586,Together,0,0,Saudi Arabia,19,13,57100.0,0,0,409,C
+8416,Graduation,42,3591,Married,1,0,USA,19,7,29009.0,0,0,44,A
+3967,PhD,52,3626,Married,0,0,Canada,19,24,78931.0,0,0,943,B
+2139,Master,48,3649,Married,1,0,Australia,19,8,7500.0,0,0,31,A
+2162,Graduation,47,3663,Married,0,1,Spain,19,18,56939.0,0,0,561,C
+9242,Graduation,33,3695,Single,0,0,Saudi Arabia,19,19,64509.0,1,0,1722,D
+10595,Graduation,33,3735,Married,0,0,Spain,19,6,30093.0,0,0,69,A
+4855,PhD,49,3767,Together,1,0,USA,19,6,30351.0,0,0,46,A
+5049,PhD,49,3767,Together,1,0,Spain,19,6,30351.0,0,0,46,A
+4967,PhD,63,3836,Together,0,1,Saudi Arabia,19,15,38201.0,0,0,268,A
+9215,PhD,43,3943,Married,1,0,Canada,19,21,43974.0,0,0,551,C
+3525,Graduation,53,3948,Together,1,1,Spain,19,4,38200.0,0,0,17,A
+3619,2n Cycle,63,4023,Divorced,0,0,Australia,19,17,87305.0,1,0,1152,B
+4415,Graduation,62,4034,Married,1,1,Spain,19,8,16860.0,0,0,38,A
+3645,PhD,51,4047,Single,1,0,Spain,19,9,27213.0,0,0,70,A
+4692,Graduation,47,4076,Married,1,0,Australia,19,12,7500.0,1,0,71,A
+3955,Graduation,58,3386,Divorced,0,0,Saudi Arabia,20,0,4861.0,0,0,6,A
+5313,Master,52,3451,Married,1,1,Spain,20,9,38196.0,0,0,44,A
+7196,PhD,73,3520,Married,1,1,Canada,20,4,41145.0,0,0,13,A
+1381,PhD,41,3531,Single,1,0,Spain,20,17,38513.0,0,0,324,A
+10951,Graduation,55,3534,Married,0,1,Spain,20,14,45688.0,1,0,306,A
+4322,PhD,65,3593,Together,0,0,Spain,20,20,77863.0,0,0,1291,B
+7444,Master,54,3632,Married,1,1,Spain,20,6,42169.0,0,0,30,A
+2942,Graduation,59,3797,Single,0,1,Spain,20,15,45906.0,1,0,486,C
+2874,2n Cycle,35,3858,Divorced,1,0,Saudi Arabia,20,5,35388.0,0,0,32,A
+3667,Graduation,54,3865,Married,0,0,Germany,20,25,80952.0,3,0,1757,D
+3697,Graduation,69,3881,Together,0,1,Canada,20,9,39898.0,0,0,134,A
+9955,Graduation,69,3881,Together,0,1,Spain,20,9,39898.0,0,0,134,A
+5320,Master,50,3895,Divorced,1,1,Saudi Arabia,20,12,44051.0,0,0,171,A
+6422,Graduation,69,3907,Married,0,0,India,20,17,86718.0,0,0,1270,B
+3690,Master,37,3913,Married,0,0,Spain,20,22,80141.0,1,0,2091,D
+2408,Graduation,47,3965,Married,1,1,India,20,32,58597.0,0,0,733,C
+9260,PhD,78,3980,Married,0,0,Canada,20,27,70356.0,0,0,1706,D
+9648,Graduation,56,3982,Single,1,1,Spain,20,14,46904.0,0,0,253,A
+4939,Graduation,77,4046,Together,0,0,USA,20,13,37760.0,0,0,317,A
+8652,Graduation,77,4046,Together,0,0,Saudi Arabia,20,13,37760.0,0,0,317,A
+4702,Graduation,59,4065,Single,0,0,Spain,20,17,61839.0,0,0,1895,D
+2587,PhD,51,3424,Married,1,0,Australia,21,7,29791.0,0,0,20,A
+2811,PhD,60,3457,Single,1,1,Spain,21,7,48918.0,0,0,62,A
+9150,PhD,60,3457,Single,1,1,Spain,21,7,48918.0,0,0,62,A
+10127,Graduation,58,3463,Married,0,1,Canada,21,15,58692.0,0,0,395,C
+5493,Graduation,47,3481,Married,1,1,Spain,21,4,39356.0,1,0,23,A
+2666,Master,51,3522,Married,0,1,Canada,21,23,76234.0,1,0,907,B
+10099,Graduation,39,3646,Married,1,0,Saudi Arabia,21,24,55434.0,0,0,882,B
+10562,Master,77,3653,Married,0,0,India,21,24,66835.0,0,0,1033,B
+7881,Master,77,3653,Married,0,0,Spain,21,24,66835.0,0,0,1033,B
+6721,Graduation,72,3714,Married,0,1,Canada,21,17,71965.0,0,0,1213,B
+5204,Graduation,52,3744,Together,0,0,Spain,21,22,74538.0,1,0,1461,D
+5209,Graduation,69,3756,Divorced,0,1,Saudi Arabia,21,19,50002.0,0,0,638,C
+10128,Graduation,65,3765,Together,0,1,Canada,21,27,53977.0,0,0,907,B
+9284,Graduation,65,3765,Together,0,1,Spain,21,27,53977.0,0,0,907,B
+8643,Graduation,52,3778,Together,0,0,India,21,22,69930.0,0,0,1662,D
+1685,PhD,56,3848,Together,0,0,Canada,21,23,62981.0,1,0,1482,D
+2877,Master,49,3903,Together,1,1,Saudi Arabia,21,26,46014.0,0,0,541,C
+8369,Graduation,36,3977,Together,1,0,Spain,21,4,18227.0,0,0,28,A
+6233,Graduation,47,4039,Married,0,1,Spain,21,27,65991.0,0,0,971,B
+195,Graduation,51,4051,Single,1,0,Spain,21,14,38808.0,1,0,246,A
+1501,PhD,41,4073,Married,0,0,USA,21,44,160803.0,0,0,1717,D
+10846,Master,45,3410,Married,1,0,Canada,22,22,43783.0,1,0,629,C
+8341,PhD,54,3439,Married,1,0,Spain,22,6,30396.0,1,0,34,A
+10766,PhD,59,3458,Married,0,1,Spain,22,17,65526.0,0,0,506,C
+9971,PhD,59,3458,Married,0,1,Saudi Arabia,22,17,65526.0,0,0,506,C
+1740,Graduation,79,3462,Married,0,0,Spain,22,16,55956.0,1,0,999,B
+8737,Graduation,45,3464,Divorced,0,1,Spain,22,6,55563.0,0,0,43,A
+6466,PhD,58,3488,Married,1,1,Spain,22,10,57236.0,0,0,121,A
+10430,Graduation,50,3642,Divorced,1,1,Australia,22,14,89694.0,3,0,1472,D
+8773,Master,52,3748,Together,0,1,USA,22,15,57420.0,1,0,322,A
+2371,Graduation,51,3821,Married,1,1,Germany,22,9,33622.0,0,0,81,A
+7786,PhD,37,3880,Single,1,0,Spain,22,12,29999.0,0,0,160,A
+4088,PhD,61,3949,Together,0,1,Spain,22,10,31497.0,0,0,155,A
+4971,PhD,61,3949,Together,0,1,Saudi Arabia,22,10,31497.0,0,0,155,A
+10560,PhD,43,3392,Single,1,0,Spain,23,5,36802.0,0,0,20,A
+6892,Graduation,55,3405,Divorced,0,1,Spain,23,28,61671.0,2,0,732,C
+1818,PhD,52,3475,Together,1,0,Canada,23,5,29732.0,0,0,38,A
+9485,PhD,37,3490,Married,0,0,Saudi Arabia,23,10,45921.0,0,0,199,A
+6646,Graduation,39,3499,Together,1,0,Canada,23,5,16529.0,0,0,22,A
+4248,Master,63,3511,Single,0,0,Spain,23,19,98777.0,1,0,2008,D
+7451,Master,63,3511,Single,0,0,Spain,23,19,98777.0,1,0,2008,D
+7861,Master,71,3523,Married,0,1,Spain,23,19,77027.0,0,0,1175,B
+5232,Graduation,58,3532,Married,0,1,Spain,23,11,69139.0,0,0,227,A
+3011,Graduation,58,3532,Married,0,1,Saudi Arabia,23,11,69139.0,0,0,227,A
+5758,Graduation,41,3545,Married,0,0,Spain,23,28,65169.0,4,0,1189,B
+2173,Graduation,71,3635,Widow,0,1,Spain,23,5,40049.0,0,0,32,A
+10711,Graduation,78,3649,Married,0,0,Saudi Arabia,23,22,69755.0,0,0,894,B
+2782,PhD,62,3732,Married,0,1,Spain,23,17,54456.0,0,0,404,C
+9432,Graduation,46,3771,Together,1,0,Saudi Arabia,23,11,666666.0,0,0,62,A
+5872,Graduation,72,3772,Single,0,1,USA,23,22,60689.0,0,0,639,C
+11187,Basic,45,3784,Single,1,0,Canada,23,9,26487.0,0,0,69,A
+2428,Graduation,53,3800,Married,1,0,Germany,23,9,28164.0,0,0,78,A
+1726,Graduation,53,3847,Single,0,0,Spain,23,5,22585.0,1,0,81,A
+1802,Graduation,52,3907,Married,0,1,Spain,23,21,64795.0,0,0,680,C
+1162,PhD,36,3914,Single,0,0,Spain,23,20,42000.0,0,0,653,C
+10643,PhD,36,3914,Single,0,0,Australia,23,20,42000.0,0,0,653,C
+11112,Graduation,57,3952,Together,0,1,Spain,23,25,70713.0,0,0,1477,D
+2114,PhD,77,3961,Single,0,0,USA,23,26,82800.0,2,0,1315,B
+4261,PhD,77,3961,Single,0,0,Saudi Arabia,23,26,82800.0,2,0,1315,B
+2457,Basic,48,3990,Married,0,1,Spain,23,6,30801.0,0,0,45,A
+2495,Master,49,3388,Married,0,1,Spain,24,22,83891.0,0,0,816,C
+6983,Master,73,3438,Divorced,1,1,India,24,7,38054.0,0,0,45,A
+3436,Graduation,54,3533,Married,1,0,Spain,24,5,14045.0,0,0,20,A
+7505,PhD,66,3540,Married,1,1,Spain,24,5,44155.0,0,0,46,A
+4286,PhD,53,3550,Single,0,1,India,24,22,57642.0,1,0,679,C
+7224,Graduation,46,3561,Married,1,1,India,24,6,31353.0,0,0,31,A
+6215,Graduation,46,3561,Married,1,1,Saudi Arabia,24,6,31353.0,0,0,31,A
+968,Master,55,3564,Divorced,1,0,Australia,24,12,41335.0,0,0,187,A
+4096,Master,55,3564,Divorced,1,0,USA,24,12,41335.0,0,0,187,A
+3153,PhD,66,3582,Single,2,1,Saudi Arabia,24,4,40737.0,0,0,17,A
+6504,2n Cycle,48,3600,Together,1,0,Spain,24,9,19789.0,1,0,78,A
+5329,PhD,74,3654,Divorced,1,1,Australia,24,4,35946.0,0,0,11,A
+1175,Master,40,3661,Married,0,0,Spain,24,12,36262.0,1,0,426,C
+1377,Master,69,3681,Widow,0,1,Saudi Arabia,24,12,44551.0,0,0,285,A
+4607,Graduation,64,3689,Together,0,0,Spain,24,17,71367.0,0,0,777,C
+4944,Graduation,64,3689,Together,0,0,Spain,24,17,71367.0,0,0,777,C
+9483,Graduation,64,3693,Together,0,1,Canada,24,25,57957.0,0,1,637,C
+1378,2n Cycle,51,3719,Together,0,1,Saudi Arabia,24,23,50334.0,0,0,694,C
+5991,Master,74,3765,Married,0,1,Germany,24,13,48150.0,0,0,266,A
+2807,Graduation,54,3877,Married,0,1,Spain,24,27,56796.0,0,0,1001,B
+1052,Graduation,54,3877,Married,0,1,Australia,24,27,56796.0,0,0,1001,B
+9760,PhD,60,3899,Widow,0,1,Saudi Arabia,24,31,52278.0,0,0,1198,B
+7101,PhD,60,3899,Widow,0,1,Spain,24,31,52278.0,0,0,1198,B
+9909,2n Cycle,27,3976,Married,0,0,Australia,24,10,7500.0,0,0,122,A
+5907,Master,71,3982,Married,1,1,Spain,24,4,33444.0,0,0,18,A
+793,Graduation,50,4010,Married,1,0,Australia,24,6,20895.0,0,0,45,A
+8832,Master,47,4034,Together,1,0,Germany,24,9,37509.0,0,0,123,A
+2535,Master,45,4059,Married,1,0,Spain,24,20,88097.0,3,0,844,C
+1523,Graduation,50,3432,Married,1,1,Saudi Arabia,25,8,59041.0,0,0,96,A
+1839,Graduation,49,3448,Single,0,0,India,25,8,43322.0,0,0,141,A
+9972,PhD,68,3456,Together,1,1,Saudi Arabia,25,5,46015.0,2,0,46,A
+2945,PhD,68,3456,Together,1,1,Canada,25,5,46015.0,2,0,46,A
+9291,Master,64,3477,Married,0,1,Spain,25,4,34242.0,0,0,15,A
+2829,Graduation,68,3490,Married,0,1,Canada,25,22,65210.0,2,0,731,C
+8594,PhD,65,3531,Widow,0,1,Spain,25,9,50520.0,0,0,135,A
+1592,Graduation,53,3535,Married,0,0,Canada,25,15,90765.0,2,0,1724,D
+4310,Graduation,79,3537,Married,0,0,Australia,25,21,80589.0,1,0,1428,B
+6950,Master,65,3575,Married,1,1,Canada,25,7,49572.0,0,0,54,A
+8492,Graduation,45,3611,Together,0,0,Spain,25,23,75437.0,1,0,1493,D
+5684,Master,52,3640,Divorced,1,1,Spain,25,7,44635.0,0,0,68,A
+5909,Graduation,59,3662,Married,0,1,Germany,25,20,58512.0,0,0,1171,B
+9855,PhD,71,3687,Single,0,1,Spain,25,26,62000.0,1,0,1020,B
+975,Graduation,67,3776,Single,1,1,Australia,25,15,54252.0,0,0,264,A
+8754,PhD,49,3788,Together,0,1,Spain,25,4,45068.0,0,0,20,A
+1456,Graduation,44,3833,Single,0,1,India,25,31,60474.0,0,0,1180,B
+2849,Graduation,44,3833,Single,0,1,Canada,25,31,60474.0,0,0,1180,B
+9984,2n Cycle,42,3838,Married,1,1,Spain,25,22,56337.0,2,0,724,C
+5527,Graduation,36,3880,Together,1,0,Spain,25,7,22434.0,0,0,58,A
+5628,Graduation,41,3885,Together,0,0,USA,25,24,61416.0,1,0,1665,D
+7627,Master,48,3943,Married,0,0,Spain,25,21,92163.0,2,0,2086,D
+1351,Master,67,4026,Together,0,1,Spain,25,32,58656.0,1,0,1220,B
+10395,Basic,37,4055,Single,1,0,Spain,25,10,8940.0,0,0,101,A
+6961,Graduation,49,3417,Married,2,0,Spain,26,4,26751.0,0,0,11,A
+10196,Graduation,45,3488,Married,2,0,USA,26,20,71427.0,0,0,614,C
+6182,Graduation,39,3518,Together,1,0,USA,26,8,26646.0,0,0,53,A
+10432,Graduation,49,3529,Divorced,1,0,Canada,26,5,19346.0,0,0,22,A
+1542,Graduation,48,3560,Single,1,2,USA,26,20,56243.0,0,0,396,C
+4220,PhD,53,3618,Married,0,1,Canada,26,7,59892.0,0,0,87,A
+4141,Graduation,58,3691,Together,0,0,USA,26,21,71613.0,0,0,776,C
+1940,Graduation,37,3731,Married,1,0,Australia,26,4,25252.0,0,0,18,A
+1506,Graduation,48,3745,Single,1,1,Spain,26,11,42160.0,0,0,140,A
+6347,Basic,44,3746,Single,1,0,Spain,26,5,15862.0,0,0,36,A
+1361,Master,49,3769,Married,0,0,Spain,26,16,82584.0,2,0,1435,B
+9422,Graduation,34,3773,Married,1,0,Australia,26,9,38360.0,0,0,131,A
+1081,PhD,66,3838,Married,1,2,Saudi Arabia,26,25,75283.0,0,0,1019,B
+7458,Master,67,3859,Together,1,1,Australia,26,8,34941.0,0,0,97,A
+1012,Graduation,71,3875,Single,0,1,Australia,26,24,61823.0,0,0,884,B
+5453,Master,67,4020,Married,0,0,Saudi Arabia,26,24,90226.0,1,0,2352,D
+6818,Graduation,49,4034,Married,0,1,Spain,26,16,44989.0,0,0,369,C
+7807,Graduation,49,4034,Married,0,1,Spain,26,16,44989.0,0,0,369,C
+7532,Graduation,43,4047,Married,0,1,Germany,26,10,43586.0,0,0,132,A
+8346,Graduation,49,4058,Single,1,0,Spain,26,12,32233.0,1,0,296,A
+5564,Graduation,54,4068,Together,0,1,Australia,26,20,62882.0,0,0,1338,B
+3267,Master,60,3383,Together,0,1,Canada,27,20,57288.0,1,0,608,C
+3091,2n Cycle,42,3437,Together,1,0,Saudi Arabia,27,21,75774.0,0,0,823,C
+762,2n Cycle,42,3437,Together,1,0,Spain,27,21,75774.0,0,0,823,C
+8029,Master,35,3440,Single,0,0,USA,27,15,90247.0,3,0,1621,D
+4376,2n Cycle,63,3513,Single,0,0,Spain,27,7,32218.0,1,0,93,A
+10981,Graduation,35,3526,Married,0,0,Saudi Arabia,27,18,84219.0,0,0,1198,B
+486,Graduation,35,3526,Married,0,0,Canada,27,18,84219.0,0,0,1198,B
+1158,Graduation,57,3554,Divorced,0,1,Spain,27,8,48877.0,0,0,144,A
+9119,Graduation,73,3585,Together,0,1,USA,27,15,60905.0,0,0,392,C
+6694,Graduation,59,3595,Married,0,1,Spain,27,25,75236.0,0,0,1068,B
+10573,Graduation,70,3602,Divorced,0,0,India,27,18,62551.0,1,0,421,C
+10140,PhD,40,3653,Together,0,0,India,27,17,70123.0,2,0,1727,D
+2286,Graduation,61,3671,Single,1,1,Canada,27,8,50785.0,0,0,114,A
+8420,2n Cycle,53,3709,Married,0,0,Spain,27,8,15315.0,0,0,64,A
+10065,2n Cycle,53,3709,Married,0,0,Spain,27,8,15315.0,0,0,64,A
+1029,PhD,53,3711,Together,0,1,Spain,27,12,64413.0,0,0,279,A
+4207,PhD,42,3803,Married,0,0,Spain,27,25,87171.0,2,0,1298,B
+10277,Graduation,62,3872,Single,0,1,Spain,27,5,30081.0,0,0,42,A
+4436,Graduation,47,3873,Single,0,0,Spain,27,8,20180.0,0,0,137,A
+2929,Graduation,47,3873,Single,0,0,Spain,27,8,20180.0,0,0,137,A
+6281,Graduation,57,3879,Divorced,0,1,Spain,27,16,55686.0,1,0,982,B
+10390,2n Cycle,64,3883,Married,0,1,Spain,27,5,26887.0,0,0,30,A
+2574,PhD,46,3893,Married,0,1,Spain,27,21,61996.0,3,0,1230,B
+709,Graduation,71,3946,Divorced,0,1,Saudi Arabia,27,18,51537.0,0,0,1103,B
+5955,Graduation,61,3968,Together,0,0,Spain,27,16,72025.0,0,0,1932,D
+8486,Master,52,4015,Together,1,0,Spain,27,17,30538.0,0,0,367,C
+10343,2n Cycle,32,4017,Single,0,0,India,27,19,61618.0,0,0,1345,B
+6652,Graduation,58,3399,Married,0,0,Canada,28,17,77343.0,0,0,1134,B
+8746,Graduation,34,3464,Married,1,0,Spain,28,19,75433.0,2,0,1188,B
+4686,PhD,61,3467,Widow,0,0,Spain,28,24,82571.0,1,0,1686,D
+3551,Master,69,3471,Together,0,1,Spain,28,10,60033.0,0,0,198,A
+4338,Graduation,40,3475,Single,1,0,Spain,28,5,39062.0,1,0,44,A
+4444,Graduation,51,3476,Married,1,0,Spain,28,6,30023.0,0,0,61,A
+498,Graduation,53,3526,Single,1,0,Spain,28,7,30015.0,0,0,57,A
+8230,Graduation,43,3536,Married,1,0,Spain,28,6,33228.0,0,0,71,A
+2826,Graduation,56,3623,Married,2,1,Spain,28,7,22574.0,0,0,37,A
+6222,Graduation,56,3623,Married,2,1,Spain,28,7,22574.0,0,0,37,A
+7352,Graduation,66,3630,Married,0,1,Canada,28,17,55267.0,0,0,405,C
+10928,Graduation,65,3665,Together,0,1,Spain,28,17,66886.0,0,0,599,C
+10736,Graduation,52,3669,Single,0,1,Canada,28,22,72258.0,0,0,1525,D
+10163,PhD,39,3671,Single,0,0,Spain,28,20,82733.0,0,0,1323,B
+6168,Graduation,60,3728,Divorced,1,1,India,28,6,45146.0,0,0,53,A
+4656,2n Cycle,33,3835,Single,1,0,Saudi Arabia,28,24,51250.0,1,0,710,C
+626,Graduation,72,3856,Married,1,1,USA,28,5,32871.0,0,0,43,A
+3870,2n Cycle,45,3884,Together,0,0,Germany,28,24,63855.0,0,0,1006,B
+6299,PhD,55,3922,Divorced,0,1,Canada,28,24,42564.0,1,0,813,C
+7798,2n Cycle,51,3941,Together,0,1,Canada,28,17,46344.0,0,0,429,C
+9973,Graduation,60,3999,Married,0,2,Spain,28,19,50437.0,0,0,490,C
+4299,Graduation,63,4025,Together,0,1,Spain,28,34,70971.0,0,0,1825,D
+10971,Graduation,46,4043,Single,2,0,Spain,28,16,37774.0,1,1,473,C
+9931,PhD,60,3385,Married,1,1,Spain,29,15,4023.0,0,0,9,A
+6679,Graduation,57,3396,Single,0,0,Spain,29,4,33279.0,0,0,16,A
+5961,Graduation,45,3401,Married,1,0,Spain,29,5,42693.0,0,0,57,A
+6255,Master,71,3405,Together,0,1,Australia,29,13,70545.0,0,0,334,A
+8614,Graduation,66,3427,Widow,0,1,Australia,29,17,65486.0,0,0,507,C
+7828,Master,42,3439,Together,0,0,Saudi Arabia,29,12,77882.0,0,0,818,C
+1277,Graduation,63,3460,Together,0,0,USA,29,28,78468.0,1,0,1004,B
+3595,Graduation,60,3500,Together,0,1,Spain,29,28,77226.0,0,0,1138,B
+5735,Master,32,3515,Single,0,0,Spain,29,18,90638.0,1,0,2525,D
+5350,Master,32,3515,Single,0,0,Saudi Arabia,29,18,90638.0,1,0,2525,D
+4137,Graduation,75,3584,Together,0,0,Australia,29,16,70666.0,0,0,1076,B
+6357,2n Cycle,64,3603,Divorced,0,1,Saudi Arabia,29,18,59052.0,0,0,491,C
+9316,Basic,71,3618,Together,0,0,USA,29,5,13084.0,0,0,29,A
+3578,Graduation,74,3631,Divorced,0,1,Spain,29,12,49160.0,0,0,236,A
+153,Graduation,70,3634,Divorced,0,0,Spain,29,5,23272.0,0,0,46,A
+10524,Master,60,3753,Divorced,0,1,Canada,29,22,49476.0,0,0,795,C
+1518,Master,58,3756,Married,1,1,Spain,29,24,62694.0,0,0,749,C
+2036,PhD,50,3762,Together,0,1,India,29,17,57906.0,0,0,401,C
+9495,Graduation,41,3796,Together,0,0,Spain,29,17,71853.0,0,0,1149,B
+2631,Graduation,41,3796,Together,0,0,Spain,29,17,71853.0,0,0,1149,B
+6312,Graduation,64,3848,Married,0,1,Germany,29,30,65031.0,0,0,863,B
+615,Graduation,63,3854,Together,0,0,Spain,29,11,30507.0,0,0,343,C
+4406,Graduation,53,3908,Together,0,1,Canada,29,25,67419.0,0,0,1471,D
+10061,Graduation,73,3919,Married,0,1,USA,29,25,59462.0,0,0,1088,B
+10619,Graduation,29,3952,Single,0,0,Saudi Arabia,29,18,95529.0,1,0,1990,D
+4945,Graduation,70,3978,Widow,0,0,Spain,29,28,53653.0,0,0,1210,B
+1777,Basic,43,4039,Married,0,0,Spain,29,6,25965.0,0,0,74,A
+4023,Graduation,53,4040,Married,1,0,Spain,29,10,22979.0,0,0,115,A
+7922,PhD,72,4065,Single,0,1,Saudi Arabia,29,25,64950.0,1,0,966,B
+10699,Graduation,38,3392,Married,1,0,Saudi Arabia,30,8,44322.0,0,0,92,A
+7516,Graduation,40,3417,Married,1,0,Germany,30,6,30096.0,0,0,45,A
+3129,Graduation,40,3417,Married,1,0,Spain,30,6,30096.0,0,0,45,A
+5121,Graduation,46,3479,Single,0,1,Canada,30,20,56628.0,1,0,761,C
+2186,2n Cycle,46,3490,Together,0,0,Spain,30,22,82326.0,3,0,2257,D
+10548,Graduation,28,3491,Single,0,0,Germany,30,24,71163.0,0,0,960,B
+6384,Graduation,45,3517,Divorced,0,1,USA,30,21,71022.0,1,0,1453,D
+2625,2n Cycle,69,3603,Single,0,1,Saudi Arabia,30,14,42607.0,0,0,350,C
+1676,Graduation,48,3621,Married,0,1,Spain,30,15,43057.0,0,0,266,A
+5534,Master,48,3631,Married,0,1,Spain,30,10,47808.0,1,0,224,A
+6859,Graduation,36,3643,Single,1,0,Spain,30,9,29236.0,0,0,99,A
+271,Graduation,54,3649,Widow,1,1,Canada,30,15,40590.0,1,0,258,A
+7699,Graduation,54,3649,Widow,1,1,Canada,30,15,40590.0,1,0,258,A
+7832,Master,64,3684,Married,0,1,Spain,30,23,77520.0,3,0,1526,D
+938,Graduation,42,3713,Married,1,1,Spain,30,7,40211.0,1,0,87,A
+7873,PhD,50,3737,Together,1,1,Canada,30,16,63516.0,0,0,300,A
+9967,Graduation,49,3774,Divorced,1,1,USA,30,22,53034.0,0,0,447,C
+1087,Master,48,3782,Together,1,0,Spain,30,10,22669.0,0,0,173,A
+8314,Graduation,41,3829,Married,0,0,Spain,30,19,79908.0,1,0,1772,D
+3762,PhD,37,3832,Single,0,0,Saudi Arabia,30,17,69867.0,1,0,925,B
+10383,Graduation,57,3832,Divorced,0,0,Australia,30,21,70287.0,0,0,1093,B
+6798,Graduation,57,3845,Single,1,1,Saudi Arabia,30,23,37070.0,0,0,433,C
+4168,Graduation,57,3845,Single,1,1,Spain,30,23,37070.0,0,0,433,C
+6690,Master,57,3851,Married,1,1,Saudi Arabia,30,11,38179.0,0,0,90,A
+10602,Graduation,40,3879,Married,1,0,India,30,9,39922.0,0,0,156,A
+3220,Graduation,40,3879,Married,1,0,Germany,30,9,39922.0,0,0,156,A
+5424,Graduation,40,3879,Married,1,0,Saudi Arabia,30,9,39922.0,0,0,156,A
+7488,Master,60,3902,Single,0,1,Spain,30,24,64191.0,0,0,825,C
+5289,2n Cycle,48,3976,Single,1,1,Australia,30,6,41658.0,0,0,72,A
+347,Graduation,47,4038,Divorced,0,1,Canada,30,17,40780.0,0,0,377,C
+5236,Graduation,44,4052,Together,0,1,Spain,30,21,77568.0,3,0,2194,D
+9478,Graduation,38,4063,Single,1,0,Spain,30,15,66503.0,0,0,401,C
+477,Graduation,37,3391,Married,0,0,Spain,31,22,83512.0,4,0,2157,D
+7411,PhD,59,3403,Married,1,1,Saudi Arabia,31,6,31686.0,0,0,17,A
+3107,Graduation,47,3437,Together,0,1,Australia,31,13,71322.0,0,0,350,C
+7437,Graduation,35,3441,Single,1,0,Australia,31,6,27938.0,0,0,29,A
+255,Graduation,72,3470,Divorced,1,1,Spain,31,6,22263.0,0,1,21,A
+3790,Graduation,67,3536,Together,2,1,Saudi Arabia,31,4,34633.0,0,0,15,A
+749,Graduation,42,3601,Together,1,0,Spain,31,9,42162.0,1,0,145,A
+1503,PhD,47,3770,Together,1,1,Spain,31,1,162397.0,0,0,107,A
+8650,Graduation,45,3847,Widow,1,1,Spain,31,5,54162.0,0,0,42,A
+607,2n Cycle,68,3880,Divorced,0,1,India,31,22,41769.0,0,0,521,C
+1008,PhD,42,3934,Together,0,0,Germany,31,24,44953.0,1,0,1021,B
+9396,PhD,45,3962,Married,1,0,Saudi Arabia,31,4,37717.0,0,0,25,A
+933,PhD,45,3962,Married,1,0,Spain,31,4,37717.0,0,0,25,A
+5710,Graduation,53,4006,Together,0,1,Australia,31,9,40548.0,1,0,120,A
+2882,2n Cycle,48,4015,Divorced,0,1,Saudi Arabia,31,16,67893.0,0,0,995,B
+2379,Graduation,70,4024,Single,0,0,Saudi Arabia,31,14,69267.0,0,0,1635,D
+5342,Basic,47,4069,Divorced,1,0,Canada,31,6,9548.0,0,0,29,A
+3262,Graduation,65,4070,Single,0,0,Spain,31,25,68281.0,0,0,1655,D
+5832,2n Cycle,63,3449,Together,0,0,Spain,32,21,92556.0,0,0,1263,B
+5025,Graduation,44,3566,Single,1,0,Spain,32,8,48526.0,0,0,135,A
+569,Graduation,32,3576,Single,0,0,Spain,32,19,90273.0,3,0,1991,D
+3102,2n Cycle,42,3635,Together,1,0,Canada,32,5,19414.0,0,0,32,A
+9449,PhD,65,3647,Single,0,1,Saudi Arabia,32,19,79761.0,0,0,605,C
+8104,PhD,72,3703,Married,0,0,Spain,32,12,53312.0,0,0,278,A
+75,2n Cycle,41,3718,Together,0,0,USA,32,15,41039.0,0,0,467,C
+6421,Graduation,62,3740,Together,0,0,Spain,32,21,88347.0,1,0,2116,D
+3037,PhD,40,3753,Married,0,0,Canada,32,16,50150.0,0,0,410,C
+4698,PhD,40,3753,Married,0,0,Spain,32,16,50150.0,0,0,410,C
+948,Graduation,52,3789,Single,1,0,Spain,32,8,10245.0,0,0,41,A
+6177,PhD,38,3796,Married,1,0,USA,32,10,33454.0,0,0,169,A
+3517,Graduation,71,3798,Single,1,1,Spain,32,10,40887.0,0,0,161,A
+3491,Graduation,48,3805,Together,0,1,USA,32,29,55914.0,0,0,1260,B
+7610,Graduation,40,3816,Together,1,0,Spain,32,19,37292.0,0,0,460,C
+4377,Graduation,52,3917,Married,0,1,Canada,32,15,52914.0,1,0,575,C
+9850,2n Cycle,51,3956,Married,1,0,Spain,32,4,24884.0,0,0,19,A
+5544,Graduation,53,3975,Single,0,1,Spain,32,22,67384.0,1,0,1490,D
+6497,Graduation,63,3978,Married,0,1,Australia,32,17,51651.0,0,0,433,C
+4543,Graduation,43,3985,Married,0,0,Saudi Arabia,32,19,82497.0,1,0,1919,D
+5117,2n Cycle,60,4075,Married,0,0,Spain,32,18,32632.0,0,0,576,C
+1448,Master,60,3383,Married,1,2,India,33,9,33562.0,0,0,51,A
+6887,Graduation,56,3445,Single,1,1,Germany,33,19,79146.0,0,0,564,C
+7500,Graduation,56,3445,Single,1,1,Spain,33,19,79146.0,0,0,564,C
+2724,Master,42,3470,Single,1,0,Spain,33,4,36143.0,0,0,19,A
+2256,Master,50,3471,Married,1,1,Spain,33,6,27159.0,0,0,21,A
+1100,Master,63,3476,Together,1,2,Canada,33,11,41275.0,0,0,61,A
+7725,2n Cycle,58,3492,Married,0,0,India,33,16,76800.0,0,0,641,C
+2612,Graduation,36,3566,Married,0,0,Saudi Arabia,33,25,75794.0,1,0,1682,D
+113,Graduation,72,3727,Married,1,1,Spain,33,6,30833.0,0,0,28,A
+2868,PhD,74,3826,Single,1,1,USA,33,8,26518.0,0,0,57,A
+4216,Graduation,42,3871,Single,0,0,Spain,33,26,91065.0,2,0,1474,D
+199,Master,61,3904,Single,0,0,Canada,33,13,45183.0,1,0,315,A
+359,Graduation,73,3911,Together,0,1,Spain,33,19,48070.0,0,1,504,C
+8842,Graduation,52,3930,Widow,1,1,Spain,33,8,30372.0,0,0,44,A
+2154,Graduation,52,3930,Widow,1,1,Spain,33,8,30372.0,0,0,44,A
+6050,2n Cycle,48,3944,Married,0,1,India,33,26,57036.0,1,0,1513,D
+9204,Graduation,53,4034,Widow,0,1,Spain,33,17,66731.0,0,0,1029,B
+4472,PhD,53,3381,Divorced,1,0,Australia,34,6,35682.0,0,0,57,A
+6864,Master,34,3417,Divorced,0,0,Australia,34,8,10979.0,0,0,30,A
+10617,Master,34,3417,Divorced,0,0,Spain,34,8,10979.0,0,0,30,A
+3924,PhD,58,3483,Divorced,0,1,Saudi Arabia,34,28,57912.0,1,0,916,B
+5654,Graduation,51,3484,Married,2,1,Australia,34,7,36026.0,0,0,61,A
+9216,Graduation,52,3536,Married,1,1,Canada,34,7,35788.0,0,0,44,A
+8086,Graduation,64,3579,Married,1,1,Saudi Arabia,34,7,42243.0,0,0,55,A
+9097,Graduation,67,3617,Divorced,0,1,Spain,34,16,46086.0,0,0,343,C
+7631,Master,45,3645,Together,1,0,India,34,23,61346.0,0,0,989,B
+7275,Master,52,3647,Single,1,1,USA,34,10,33316.0,0,0,131,A
+8334,Master,52,3647,Single,1,1,Spain,34,10,33316.0,0,0,131,A
+1987,Basic,36,3656,Single,1,0,Spain,34,7,21063.0,0,0,59,A
+2281,Graduation,53,3666,Single,1,0,Germany,34,4,33697.0,1,0,28,A
+7034,2n Cycle,45,3680,Married,1,0,Canada,34,7,25804.0,0,0,55,A
+2797,Graduation,46,3692,Married,0,1,Spain,34,26,72117.0,0,0,1073,B
+3934,Graduation,57,3710,Married,0,1,India,34,18,61286.0,0,0,608,C
+2493,Graduation,57,3710,Married,0,1,Germany,34,18,61286.0,0,0,608,C
+3759,Graduation,65,3718,Together,0,2,Spain,34,26,65196.0,1,0,1155,B
+965,Graduation,52,3972,Divorced,0,1,USA,34,21,55635.0,0,0,590,C
+7378,Master,42,4046,Together,1,0,Spain,34,22,42021.0,1,0,573,C
+1859,Master,51,4050,Married,0,0,Germany,34,19,75251.0,0,0,1890,D
+6263,Graduation,55,4055,Together,1,2,Spain,34,9,35322.0,0,0,106,A
+2072,PhD,54,4061,Together,0,1,Canada,34,21,53374.0,1,0,1064,B
+8908,Graduation,64,3431,Married,0,0,Canada,35,20,87195.0,0,0,1097,B
+738,2n Cycle,42,3465,Single,1,1,India,35,12,42395.0,0,0,182,A
+10129,Graduation,57,3488,Together,0,0,Spain,35,21,82427.0,1,0,1456,D
+807,Master,54,3513,Together,1,1,India,35,17,44602.0,0,0,292,A
+3334,Graduation,72,3516,Married,0,0,Spain,35,21,94642.0,2,0,2211,D
+5423,Graduation,40,3624,Together,1,0,Saudi Arabia,35,4,28359.0,0,0,16,A
+4426,Graduation,48,3659,Single,1,1,USA,35,21,55801.0,1,0,527,C
+10489,Graduation,50,3693,Married,0,0,Saudi Arabia,35,23,92955.0,2,0,1778,D
+2570,Graduation,55,3720,Together,0,1,Spain,35,25,56534.0,2,0,815,C
+3834,Graduation,61,3848,Single,0,1,USA,35,23,69627.0,0,0,861,B
+590,Master,53,3933,Divorced,0,0,Spain,35,16,78579.0,0,0,1812,D
+4791,Graduation,43,3939,Together,1,1,Australia,35,5,44964.0,0,0,41,A
+5304,PhD,49,4003,Single,1,0,Saudi Arabia,35,6,30899.0,0,0,33,A
+2426,PhD,59,4032,Divorced,0,0,Spain,35,29,78825.0,0,0,895,B
+35,Graduation,36,4038,Married,1,0,Spain,35,10,25545.0,0,0,210,A
+8041,PhD,52,4038,Widow,0,1,Saudi Arabia,35,21,47111.0,0,0,1092,B
+3584,PhD,68,4057,Single,0,0,Canada,35,22,49667.0,1,0,1396,B
+7718,Master,76,3449,Together,0,0,Spain,36,10,66000.0,0,0,711,C
+8605,PhD,59,3477,Together,1,1,Spain,36,7,46910.0,0,0,68,A
+1646,Basic,51,3484,Married,1,0,Canada,36,7,25224.0,0,0,46,A
+9206,Graduation,55,3552,Together,0,1,Spain,36,26,77382.0,1,0,1121,B
+10757,PhD,56,3566,Divorced,1,0,Spain,36,4,28420.0,0,0,13,A
+6885,Graduation,46,3589,Divorced,1,0,Canada,36,6,32952.0,0,0,55,A
+907,Graduation,48,3591,Married,0,1,Spain,36,18,46149.0,0,0,362,C
+3867,PhD,76,3681,Together,0,1,Spain,36,26,73059.0,0,0,1095,B
+3859,PhD,76,3681,Together,0,1,Saudi Arabia,36,26,73059.0,0,0,1095,B
+3265,Graduation,64,3846,Married,0,0,Spain,36,5,35701.0,0,0,46,A
+4418,Master,40,3868,Single,0,0,Canada,36,25,89616.0,0,0,1644,D
+4611,Graduation,53,3903,Together,0,0,Spain,36,30,105471.0,2,0,1724,D
+4530,Master,75,3992,Widow,0,0,Germany,36,23,78427.0,1,0,1930,D
+7736,Graduation,37,3994,Married,1,0,Spain,36,7,22518.0,1,0,61,A
+9949,Graduation,47,3998,Married,0,2,Canada,36,15,59809.0,0,0,877,B
+942,Graduation,41,4069,Single,1,0,Spain,36,14,39660.0,0,0,299,A
+6181,2n Cycle,73,4077,Together,0,0,USA,36,27,52203.0,0,0,939,B
+7660,PhD,50,3420,Alone,1,1,Canada,37,6,35860.0,1,0,49,A
+2055,PhD,50,3420,Divorced,1,1,Spain,37,6,35860.0,1,0,49,A
+5107,PhD,50,3420,Divorced,1,1,Spain,37,6,35860.0,1,0,49,A
+1626,PhD,50,3420,Divorced,1,1,Saudi Arabia,37,6,35860.0,1,0,49,A
+6428,PhD,73,3436,Widow,0,0,Spain,37,17,76842.0,0,0,1130,B
+9617,Graduation,72,3453,Single,0,0,Saudi Arabia,37,5,15033.0,0,0,19,A
+4339,PhD,53,3559,Married,0,1,Australia,37,28,67353.0,0,0,913,B
+7235,2n Cycle,48,3581,Married,1,0,Germany,37,9,17003.0,0,0,38,A
+8527,Master,58,3583,Together,1,1,Spain,37,19,65735.0,0,0,395,C
+1968,Graduation,52,3588,Widow,1,0,Saudi Arabia,37,4,45684.0,0,0,28,A
+9862,Graduation,54,3606,Together,1,0,Canada,37,7,21918.0,0,0,33,A
+11075,Graduation,45,3622,Married,1,1,Canada,37,15,51267.0,0,0,270,A
+6658,Graduation,51,3721,Together,0,1,Spain,37,32,59868.0,0,0,1194,B
+4552,Graduation,32,3751,Married,0,0,Spain,37,12,51373.0,0,0,393,C
+10377,Master,65,3767,Together,0,1,Spain,37,15,46692.0,0,0,397,C
+5336,Master,52,3769,Together,1,0,Spain,37,2,157733.0,0,0,59,A
+10350,PhD,73,3795,Married,2,1,Spain,37,5,54432.0,0,0,38,A
+11071,Graduation,39,3813,Single,0,0,Canada,37,16,79607.0,0,0,1923,D
+11100,Graduation,51,3823,Divorced,1,1,Canada,37,7,51813.0,0,0,63,A
+6516,Basic,34,3847,Married,1,0,Australia,37,4,17487.0,0,0,18,A
+1734,PhD,55,3907,Together,2,1,Saudi Arabia,37,11,40706.0,0,0,81,A
+2131,PhD,64,3925,Divorced,0,1,Spain,37,23,62859.0,0,0,1307,B
+6439,Graduation,65,4060,Married,0,1,Saudi Arabia,37,31,61074.0,0,0,1102,B
+10591,Graduation,54,4071,Widow,0,1,Spain,37,11,43638.0,0,0,201,A
+9797,Graduation,67,3456,Married,0,1,Spain,38,16,58116.0,0,0,443,C
+9336,PhD,54,3478,Widow,0,1,Spain,38,21,62187.0,0,0,636,C
+2174,Graduation,69,3492,Single,1,1,USA,38,6,46344.0,0,0,27,A
+3197,Graduation,43,3574,Married,0,1,Spain,38,20,77353.0,0,0,670,C
+9185,PhD,57,3623,Single,0,0,Spain,38,18,69759.0,0,0,1029,B
+905,Graduation,37,3629,Divorced,1,0,Saudi Arabia,38,11,21846.0,0,0,84,A
+10858,Graduation,48,3672,Together,1,1,Spain,38,25,76532.0,0,0,820,C
+8925,Master,58,3740,Married,0,1,Spain,38,26,70053.0,0,0,1012,B
+2499,2n Cycle,65,3798,Single,0,1,Spain,38,18,75342.0,0,0,563,C
+1109,Master,41,3811,Together,1,0,Spain,38,4,27590.0,0,0,12,A
+326,Graduation,50,3875,Married,1,1,India,38,16,51148.0,0,0,315,A
+10967,Graduation,60,3887,Divorced,1,1,Saudi Arabia,38,9,33378.0,0,0,99,A
+5370,PhD,50,3908,Married,1,0,Spain,38,18,32644.0,1,0,413,C
+2098,PhD,54,3916,Married,2,0,Spain,38,4,33581.0,0,0,17,A
+1773,2n Cycle,45,3951,Married,0,0,Saudi Arabia,38,6,12393.0,0,0,57,A
+5036,PhD,39,3957,Single,1,0,Spain,38,14,42710.0,0,0,406,C
+4856,2n Cycle,66,3979,Married,0,0,India,38,25,82347.0,2,0,1853,D
+8722,2n Cycle,66,3979,Married,0,0,Canada,38,25,82347.0,2,0,1853,D
+2156,PhD,68,3982,Married,1,1,Spain,38,10,22554.0,0,0,41,A
+2569,Graduation,36,4006,Married,0,0,USA,38,5,17323.0,0,0,46,A
+10151,Graduation,63,4034,Divorced,0,2,Spain,38,22,62204.0,0,0,946,B
+10473,PhD,67,4036,Widow,0,1,Spain,38,20,78028.0,2,0,528,C
+7079,Graduation,61,4038,Divorced,0,1,Saudi Arabia,38,32,63887.0,0,0,1245,B
+6875,PhD,58,4049,Together,0,0,Canada,38,17,32727.0,0,0,529,C
+6728,Graduation,38,4050,Together,1,0,Spain,38,6,29103.0,0,0,48,A
+2471,Graduation,58,3381,Married,0,0,Saudi Arabia,39,12,61482.0,0,0,299,A
+49,Graduation,53,3428,Single,1,0,Canada,39,5,20587.0,0,0,25,A
+4973,Graduation,53,3428,Single,1,0,Canada,39,5,20587.0,0,0,25,A
+6387,PhD,47,3431,Together,1,1,Saudi Arabia,39,9,52190.0,1,0,77,A
+5866,Graduation,49,3480,Together,1,0,Spain,39,12,48186.0,0,0,219,A
+8523,Graduation,55,3576,Married,1,0,Canada,39,10,19329.0,0,0,60,A
+7901,Master,52,3614,Married,0,1,Australia,39,4,34109.0,0,0,22,A
+898,Graduation,37,3630,Married,1,0,Spain,39,10,23477.0,0,0,147,A
+10242,PhD,57,3665,Together,1,1,Spain,39,8,47472.0,0,0,75,A
+5835,PhD,47,3741,Divorced,1,0,Spain,39,9,14849.0,0,0,65,A
+6919,2n Cycle,45,3769,Married,1,0,Spain,39,9,26224.0,0,0,63,A
+6197,PhD,61,3814,Single,1,1,Spain,39,9,27238.0,0,0,57,A
+4201,Graduation,61,3862,Single,0,1,India,39,19,57967.0,0,0,468,C
+5092,PhD,74,3881,Widow,0,1,Spain,39,19,51569.0,1,0,467,C
+6566,PhD,69,3977,Married,1,1,Australia,39,28,72550.0,0,0,1319,B
+6613,Master,53,4004,Married,1,0,Australia,39,26,44511.0,0,0,727,C
+9094,2n Cycle,68,4074,Married,0,1,Spain,39,16,62972.0,0,0,587,C
+9847,2n Cycle,68,4074,Married,0,1,Spain,39,16,62972.0,0,0,587,C
+10767,PhD,34,3423,Together,0,0,USA,40,21,77845.0,2,0,1346,B
+7943,PhD,48,3444,Married,1,0,Saudi Arabia,40,6,36663.0,0,0,35,A
+1055,Master,47,3480,Married,1,1,Germany,40,5,53204.0,0,0,45,A
+1458,Master,41,3552,Married,1,0,Spain,40,9,21059.0,0,0,44,A
+8402,Master,70,3573,Married,0,1,Australia,40,22,67087.0,0,0,794,C
+6246,Graduation,70,3607,Single,0,0,Canada,40,23,73892.0,0,0,1507,D
+4654,Graduation,31,3613,Together,0,0,Saudi Arabia,40,19,75114.0,0,0,1253,B
+6103,Graduation,75,3675,Married,0,0,Australia,40,7,42192.0,0,0,100,A
+8147,Graduation,63,3737,Married,1,1,Spain,40,8,31454.0,0,0,48,A
+10207,Graduation,45,3754,Together,1,0,Saudi Arabia,40,4,22775.0,0,0,15,A
+4838,Graduation,45,3754,Together,1,0,India,40,4,22775.0,0,0,15,A
+10219,Graduation,51,3755,Together,1,0,Canada,40,5,31590.0,0,0,38,A
+2176,Graduation,51,3784,Married,1,0,Saudi Arabia,40,16,80134.0,3,0,1690,D
+9121,Graduation,51,3784,Married,1,0,Australia,40,16,80134.0,3,0,1690,D
+5802,Basic,51,3865,Married,0,0,Germany,40,7,14188.0,0,0,75,A
+10790,PhD,38,3874,Married,1,0,Spain,40,4,18169.0,0,0,21,A
+178,Graduation,67,3875,Married,0,1,Spain,40,26,62503.0,0,0,973,B
+2308,Graduation,69,3967,Married,0,1,Spain,40,14,46734.0,0,0,330,A
+7431,PhD,32,3975,Single,0,0,Canada,40,17,68126.0,1,0,1820,D
+9405,PhD,69,4001,Married,1,1,Saudi Arabia,40,11,52869.0,0,0,172,A
+10525,Graduation,37,4003,Single,1,0,Spain,40,4,26576.0,1,0,27,A
+7503,Graduation,47,4004,Single,0,0,Germany,40,22,75825.0,1,0,2209,D
+8783,Graduation,73,4038,Married,0,1,Australia,40,18,57045.0,0,0,454,C
+1403,2n Cycle,48,4040,Together,1,1,Spain,40,6,34984.0,0,0,38,A
+4643,Graduation,50,4051,Married,1,0,Australia,40,9,27803.0,0,0,176,A
+3463,PhD,48,3394,Married,0,1,India,41,27,69283.0,0,0,904,B
+4055,Basic,31,3410,Single,1,0,Spain,41,8,18746.0,0,0,64,A
+7010,2n Cycle,58,3462,Married,0,0,Spain,41,20,70924.0,1,0,1363,B
+4767,2n Cycle,58,3462,Married,0,0,Spain,41,20,70924.0,1,0,1363,B
+1927,2n Cycle,50,3477,Together,0,1,Germany,41,17,69401.0,0,0,690,C
+437,Master,47,3534,Divorced,0,0,Australia,41,23,75012.0,0,0,1027,B
+4331,Master,45,3536,Together,0,0,Spain,41,21,85738.0,2,0,1371,B
+4084,Graduation,48,3542,Together,0,1,Canada,41,23,60934.0,0,0,873,B
+8135,Master,37,3623,Married,1,0,Saudi Arabia,41,5,27161.0,0,0,52,A
+9750,PhD,62,3886,Divorced,0,1,Spain,41,23,64325.0,0,0,1307,B
+6682,Basic,50,3944,Married,1,0,Spain,41,5,18978.0,0,0,37,A
+10581,Graduation,46,3985,Married,1,0,Spain,41,21,41124.0,0,0,506,C
+3710,PhD,39,4004,Single,1,0,Spain,41,7,39684.0,0,1,81,A
+5207,PhD,60,4022,Married,1,1,Spain,41,29,53378.0,0,0,793,C
+9360,Graduation,41,4069,Married,0,0,USA,41,12,37040.0,0,0,316,A
+4679,Master,46,3416,Married,0,1,Spain,42,28,78710.0,0,0,1092,B
+1340,Graduation,37,3445,Married,0,0,Spain,42,27,92910.0,3,0,1795,D
+10839,Graduation,47,3455,Together,1,1,Canada,42,6,36283.0,0,0,29,A
+5303,PhD,49,3461,Together,0,0,Saudi Arabia,42,20,79632.0,0,0,1113,B
+9829,Graduation,45,3516,Together,1,0,Spain,42,9,28587.0,0,0,78,A
+10469,Graduation,42,3523,Together,0,0,India,42,18,88325.0,0,0,1623,D
+3602,Master,65,3559,Married,0,1,Spain,42,11,51412.0,0,0,195,A
+4756,2n Cycle,71,3570,Divorced,0,0,Spain,42,25,63998.0,0,0,1168,B
+8181,2n Cycle,45,3668,Single,1,0,Spain,42,11,38593.0,0,0,177,A
+6958,Master,46,3738,Married,1,0,Australia,42,5,27889.0,0,0,26,A
+10856,2n Cycle,43,3741,Single,0,1,Canada,42,5,45889.0,0,0,46,A
+3321,PhD,56,3799,Together,0,2,Canada,42,20,56575.0,0,0,542,C
+5394,Basic,44,3848,Single,1,1,Spain,42,10,16014.0,0,0,38,A
+433,Master,65,3855,Alone,1,1,Canada,42,23,61331.0,0,0,632,C
+6320,Master,47,3887,Single,0,0,Spain,42,23,70893.0,0,0,1508,D
+5376,Graduation,44,3918,Married,1,0,USA,42,43,2447.0,0,0,1730,D
+1867,Graduation,66,3972,Single,0,0,Spain,42,19,64849.0,0,0,1336,B
+4324,Graduation,34,3987,Married,1,0,Spain,42,21,42387.0,0,0,684,C
+3661,2n Cycle,28,4004,Single,0,0,India,42,19,80617.0,0,0,1435,B
+521,Graduation,38,4028,Together,1,0,Spain,42,18,54006.0,0,0,581,C
+10403,Graduation,45,3390,Together,1,0,Canada,43,9,16531.0,0,0,44,A
+7186,PhD,57,3413,Together,1,1,India,43,6,30843.0,1,0,35,A
+4329,PhD,39,3416,Married,1,0,Australia,43,6,18988.0,0,0,16,A
+4394,PhD,58,3416,Married,0,0,Spain,43,23,81051.0,2,0,1501,D
+1717,Graduation,35,3456,Single,1,0,Saudi Arabia,43,13,39747.0,0,0,273,A
+1016,PhD,64,3470,Single,0,1,Canada,43,7,34554.0,0,0,55,A
+3783,PhD,64,3476,Married,1,1,Saudi Arabia,43,9,52854.0,0,0,116,A
+5848,Graduation,53,3546,Together,0,0,India,43,19,81205.0,3,0,2009,D
+10727,PhD,53,3601,Married,1,0,Spain,43,25,69084.0,0,0,1586,D
+5299,PhD,53,3601,Married,1,0,Spain,43,25,69084.0,0,0,1586,D
+6872,PhD,49,3691,Married,0,1,Saudi Arabia,43,16,65352.0,0,0,405,C
+1143,Graduation,51,3704,Married,1,0,Canada,43,7,22063.0,0,0,55,A
+10381,Graduation,44,3738,Single,0,1,Spain,43,4,47691.0,0,0,21,A
+11007,PhD,55,3795,Married,1,0,Spain,43,5,29187.0,0,0,34,A
+9145,Graduation,51,3828,Single,0,1,Canada,43,22,72504.0,0,0,1478,D
+5267,Graduation,53,3851,Divorced,1,0,Spain,43,5,33986.0,0,0,44,A
+9738,Master,37,3911,Together,1,0,Saudi Arabia,43,7,42386.0,0,0,100,A
+10212,Master,37,3911,Together,1,0,India,43,7,42386.0,0,0,100,A
+10010,PhD,70,4040,Divorced,1,1,Australia,43,11,36957.0,0,0,152,A
+10069,Basic,35,4046,Together,1,0,Saudi Arabia,43,5,13724.0,1,0,58,A
+2694,Graduation,56,3482,Married,0,1,Spain,44,5,42664.0,0,0,24,A
+10613,PhD,65,3502,Together,1,1,Spain,44,11,37334.0,0,0,62,A
+4646,2n Cycle,72,3589,Married,0,0,Canada,44,25,78497.0,1,0,978,B
+6935,2n Cycle,72,3589,Married,0,0,India,44,25,78497.0,1,0,978,B
+5596,2n Cycle,67,3639,Together,0,1,Saudi Arabia,44,21,58821.0,0,0,728,C
+1044,Graduation,70,3790,Together,0,0,Australia,44,20,58398.0,0,0,596,C
+9274,Master,62,3837,Married,0,0,Saudi Arabia,44,23,80950.0,1,0,1213,B
+9076,PhD,43,3919,Married,1,0,Saudi Arabia,44,13,30732.0,0,0,185,A
+4947,2n Cycle,57,4031,Single,0,0,Spain,44,24,89572.0,2,0,2059,D
+10176,Graduation,55,4053,Single,0,1,Spain,44,23,57107.0,2,0,416,C
+3507,Graduation,53,4060,Single,1,0,USA,44,14,76467.0,0,0,1575,D
+10341,Graduation,75,3505,Together,0,0,Australia,45,10,51315.0,0,0,222,A
+2639,Graduation,57,3549,Single,1,1,Saudi Arabia,45,9,43602.0,0,0,68,A
+6201,Graduation,45,3591,Single,1,1,Spain,45,7,38643.0,0,1,49,A
+7397,Graduation,72,3724,Single,0,1,Spain,45,21,49090.0,0,0,688,C
+2181,Graduation,53,3750,Married,0,0,Spain,45,14,70617.0,0,0,1280,B
+1204,PhD,53,3782,Married,0,1,Saudi Arabia,45,30,67536.0,1,0,1829,D
+1170,Graduation,48,3840,Married,1,0,Spain,45,14,27573.0,0,0,244,A
+8812,2n Cycle,44,3855,Divorced,1,0,Spain,45,7,13533.0,0,0,48,A
+4690,Graduation,70,3880,Married,0,1,Canada,45,21,50725.0,0,0,586,C
+1715,Graduation,45,3882,Together,1,0,Australia,45,7,25851.0,0,0,48,A
+10821,Graduation,45,3887,Married,1,1,Spain,45,16,57113.0,0,0,263,A
+6543,Master,78,3909,Together,0,0,Canada,45,14,62847.0,0,0,1612,D
+7119,Graduation,41,3912,Single,0,0,Saudi Arabia,45,12,68627.0,0,0,825,C
+3518,Graduation,40,3950,Married,1,0,India,45,5,25271.0,0,0,50,A
+1245,Graduation,57,3974,Single,0,1,Spain,45,23,63810.0,1,0,1371,B
+2561,Graduation,57,3974,Single,0,1,Germany,45,23,63810.0,1,0,1371,B
+9624,PhD,65,3395,Together,0,0,Spain,46,14,65488.0,0,0,963,B
+10509,Master,68,3406,Single,1,1,USA,46,8,36927.0,0,0,71,A
+7629,Graduation,46,3431,Married,1,1,Spain,46,7,22108.0,0,0,31,A
+7875,Graduation,74,3440,Married,0,0,Australia,46,26,72025.0,3,0,1677,D
+2815,Graduation,48,3504,Married,1,0,Spain,46,9,33183.0,0,0,120,A
+2936,Master,41,3586,Together,1,0,Saudi Arabia,46,5,23661.0,0,0,23,A
+3665,2n Cycle,46,3613,Together,1,0,Spain,46,9,25315.0,0,0,54,A
+10888,Graduation,62,3617,Single,0,0,USA,46,20,45938.0,0,0,636,C
+6637,Graduation,35,3618,Single,0,0,India,46,15,66951.0,0,0,1117,B
+5077,Graduation,44,3618,Together,0,1,Canada,46,24,77298.0,0,0,969,B
+6173,Graduation,44,3618,Together,0,1,Spain,46,24,77298.0,0,0,969,B
+3969,Master,49,3619,Together,0,1,Germany,46,7,43018.0,0,0,133,A
+4580,Graduation,54,3626,Married,0,0,Saudi Arabia,46,26,75759.0,3,0,2486,D
+663,PhD,34,3670,Single,0,0,Spain,46,6,33996.0,0,0,71,A
+8299,PhD,34,3670,Single,0,0,Saudi Arabia,46,6,33996.0,0,0,71,A
+8945,Graduation,53,3696,Divorced,0,1,Saudi Arabia,46,11,54137.0,0,0,203,A
+10870,Graduation,56,3760,Married,0,1,Saudi Arabia,46,18,61223.0,0,0,1341,B
+1184,PhD,55,3782,Divorced,0,2,Saudi Arabia,46,25,69674.0,0,0,845,C
+6141,Master,51,3809,Single,1,0,Canada,46,14,49494.0,0,0,385,C
+8825,Graduation,61,3833,Together,1,1,Saudi Arabia,46,24,51195.0,0,0,564,C
+2217,2n Cycle,48,3836,Married,1,1,India,46,4,37284.0,0,0,23,A
+4102,2n Cycle,48,3836,Married,1,1,Spain,46,4,37284.0,0,0,23,A
+4653,Graduation,45,3839,Together,1,0,Saudi Arabia,46,12,42011.0,0,0,189,A
+10092,Graduation,69,3875,Divorced,0,1,Spain,46,26,70044.0,0,0,1504,D
+5788,Graduation,51,3876,Together,1,0,Germany,46,12,46053.0,0,0,209,A
+4669,Basic,42,3882,Married,1,0,Saudi Arabia,46,10,24480.0,0,0,102,A
+6295,Graduation,46,3889,Married,0,1,Spain,46,26,54233.0,0,0,981,B
+7453,Graduation,69,3891,Single,0,1,Spain,46,21,36130.0,1,0,488,C
+10841,PhD,48,3930,Together,0,1,Spain,46,18,56559.0,0,0,484,C
+821,Master,31,3997,Single,0,0,Canada,46,22,92859.0,0,0,2077,D
+3933,Graduation,43,4003,Together,1,0,Saudi Arabia,46,24,44010.0,0,0,662,C
+1225,Graduation,60,3382,Married,0,0,Saudi Arabia,47,19,80124.0,1,0,1495,D
+7059,Graduation,60,3382,Married,0,0,Spain,47,19,80124.0,1,0,1495,D
+5633,Graduation,43,3383,Married,1,1,Saudi Arabia,47,17,50183.0,0,0,231,A
+843,Graduation,52,3413,Married,1,0,Spain,47,25,64722.0,0,0,805,C
+6211,PhD,47,3437,Together,1,0,Spain,47,5,37395.0,0,0,39,A
+7007,Master,55,3468,Married,2,0,Spain,47,8,29543.0,0,0,63,A
+9671,Graduation,55,3533,Married,1,1,Spain,47,10,19514.0,1,0,69,A
+8975,Graduation,55,3533,Married,1,1,Spain,47,10,19514.0,1,0,69,A
+6616,Graduation,48,3628,Together,0,1,Spain,47,16,59481.0,0,0,461,C
+6248,Master,76,3634,Single,0,0,Spain,47,27,91712.0,1,0,2217,D
+7428,Graduation,48,3651,Together,0,0,Australia,47,19,80144.0,0,0,1367,B
+3075,PhD,51,3670,Married,0,0,Spain,47,15,59973.0,0,0,382,C
+2937,PhD,49,3684,Single,0,1,Canada,47,25,68352.0,0,0,871,B
+203,Master,48,3820,Single,0,0,Spain,47,22,81169.0,0,0,2089,D
+2021,Graduation,48,3838,Married,0,1,Spain,47,33,61456.0,0,0,1388,B
+880,Basic,57,3908,Together,0,0,Spain,47,6,22634.0,0,0,96,A
+524,Basic,57,3908,Together,0,0,Australia,47,6,22634.0,0,0,96,A
+10837,Graduation,48,3988,Married,1,0,Canada,47,6,23957.0,0,0,68,A
+7011,Graduation,50,4004,Married,1,0,Saudi Arabia,47,10,33471.0,0,0,93,A
+4184,PhD,73,3401,Together,0,1,Spain,48,12,52157.0,0,0,265,A
+7679,PhD,38,3420,Single,0,0,Spain,48,6,30298.0,0,0,28,A
+7485,PhD,73,3432,Widow,1,1,Saudi Arabia,48,10,56551.0,0,0,138,A
+7530,PhD,73,3432,Widow,1,1,Spain,48,10,56551.0,0,0,138,A
+4369,Master,66,3549,Absurd,0,0,Canada,48,17,65487.0,0,0,1169,B
+10652,Master,66,3549,Together,0,0,Canada,48,17,65487.0,0,0,1169,B
+286,Graduation,71,3591,Single,1,1,Spain,48,12,44213.0,0,0,152,A
+5922,PhD,49,3638,Married,0,1,Spain,48,12,40344.0,0,0,218,A
+7250,Graduation,45,3650,Together,1,0,Canada,48,25,57867.0,0,0,612,C
+2478,Graduation,50,3681,Married,1,0,Spain,48,6,25410.0,0,0,38,A
+1160,Graduation,53,3689,Married,1,1,Spain,48,10,13260.0,0,0,49,A
+9214,Graduation,32,3696,Married,0,0,Spain,48,13,42691.0,0,0,358,C
+273,Master,53,3727,Married,1,1,Germany,48,13,36138.0,1,0,151,A
+851,Master,51,3734,Married,1,1,Canada,48,26,57136.0,0,0,642,C
+9729,Graduation,68,3771,Widow,1,1,Germany,48,23,58275.0,0,0,615,C
+9665,PhD,66,3807,Divorced,0,1,Saudi Arabia,48,16,54237.0,0,0,361,C
+2620,PhD,49,3821,Married,1,0,Saudi Arabia,48,4,34596.0,0,0,23,A
+8254,PhD,49,3821,Married,1,0,Germany,48,4,34596.0,0,0,23,A
+3852,Master,62,3857,Together,1,1,India,48,27,74881.0,0,0,964,B
+1000,Master,62,3857,Together,1,1,Spain,48,27,74881.0,0,0,964,B
+3099,Graduation,53,3868,Divorced,1,1,Spain,48,16,44267.0,0,0,310,A
+6318,Graduation,35,3911,Married,0,0,Canada,48,30,68487.0,0,0,1366,B
+5396,Graduation,35,3911,Married,0,0,Australia,48,30,68487.0,0,0,1366,B
+7966,Graduation,64,3916,Single,1,1,Spain,48,30,80982.0,0,1,1191,B
+454,Graduation,43,3971,Together,1,0,Saudi Arabia,48,28,69508.0,0,0,1135,B
+309,PhD,62,4000,Together,0,1,Saudi Arabia,48,19,63342.0,1,0,1101,B
+3571,PhD,62,4000,Together,0,1,Spain,48,19,63342.0,1,0,1101,B
+8395,Graduation,62,4057,Single,0,0,Saudi Arabia,48,22,82014.0,0,0,1511,D
+2591,Graduation,64,3386,Widow,0,1,USA,49,15,76320.0,0,0,932,B
+1640,Graduation,69,3386,Divorced,1,1,Spain,49,8,64587.0,0,0,108,A
+810,Graduation,48,3427,Married,0,1,Spain,49,19,74190.0,0,0,641,C
+9423,Master,44,3505,Married,1,0,Spain,49,8,32765.0,0,0,46,A
+89,2n Cycle,48,3581,Married,1,0,Saudi Arabia,49,8,22212.0,0,0,69,A
+5294,Graduation,34,3600,Single,1,0,Spain,49,10,18358.0,0,0,57,A
+1321,Graduation,49,3616,Married,1,0,Canada,49,9,26067.0,0,0,56,A
+2686,Basic,54,3630,Together,0,0,Australia,49,4,22390.0,0,0,26,A
+1215,Graduation,45,3643,Together,0,0,Spain,49,23,70440.0,1,0,1572,D
+9283,Graduation,45,3669,Single,1,2,Canada,49,4,60199.0,0,0,18,A
+3120,Graduation,42,3684,Together,1,0,Canada,49,4,38547.0,0,1,22,A
+5868,Graduation,43,3690,Married,1,0,Canada,49,6,19107.0,0,0,46,A
+8143,PhD,38,3713,Single,0,0,Spain,49,13,37929.0,2,0,265,A
+3479,Graduation,73,3724,Single,0,0,Canada,49,6,16813.0,1,0,50,A
+7214,Graduation,66,3738,Married,0,0,Spain,49,18,62187.0,0,0,1283,B
+5543,Graduation,57,3749,Together,0,1,Spain,49,25,57811.0,1,0,802,C
+9347,Master,67,3752,Together,0,1,Spain,49,5,50943.0,0,0,46,A
+10160,Master,67,3752,Together,0,1,Spain,49,5,50943.0,0,0,46,A
+1406,Graduation,48,3881,Single,1,1,Spain,49,22,53201.0,0,0,415,C
+7019,Graduation,60,3901,Together,1,1,Saudi Arabia,49,13,54414.0,0,0,211,A
+2157,Graduation,51,3912,Together,1,1,Canada,49,10,26290.0,0,0,77,A
+8939,Graduation,64,3939,Divorced,0,1,Spain,49,25,61250.0,0,0,730,C
+10250,Basic,76,3965,Together,0,0,Spain,49,4,28389.0,0,0,28,A
+1272,Master,58,3995,Single,0,1,Australia,49,26,55250.0,0,0,903,B
+3007,Graduation,57,4012,Together,1,1,India,49,6,37758.0,0,0,40,A
+5513,Graduation,57,4012,Together,1,1,Spain,49,6,37758.0,0,0,40,A
+679,PhD,66,4026,Married,1,1,Spain,49,6,37633.0,0,0,38,A
+8876,PhD,60,4069,Together,1,1,Spain,49,13,33629.0,0,0,152,A
+10827,PhD,56,4070,Married,1,1,Australia,49,11,36947.0,0,0,146,A
+7300,Graduation,71,3379,Divorced,0,1,India,50,19,69142.0,1,0,535,C
+4268,Graduation,64,3399,Married,0,1,USA,50,9,53154.0,0,0,158,A
+4603,PhD,63,3528,Married,0,1,Spain,50,21,65695.0,0,0,656,C
+8659,PhD,71,3538,Together,0,1,Germany,50,27,69805.0,0,0,1038,B
+10708,2n Cycle,45,3562,Single,1,0,Spain,50,5,36975.0,0,0,33,A
+1176,Graduation,50,3659,Married,1,0,Spain,50,4,26228.0,0,0,25,A
+10380,Master,51,3661,Married,1,0,India,50,7,37787.0,0,0,106,A
+7037,PhD,49,3701,Married,1,0,Saudi Arabia,50,17,37087.0,0,0,401,C
+11096,2n Cycle,71,3704,Together,0,1,Spain,50,12,57247.0,0,0,232,A
+6374,PhD,69,3787,Married,0,1,Spain,50,16,36930.0,0,0,297,A
+5552,Master,60,3791,Divorced,1,1,Saudi Arabia,50,17,48721.0,0,0,293,A
+2245,Master,54,3812,Married,1,1,Spain,50,10,43641.0,0,0,139,A
+6200,Graduation,72,3826,Married,0,1,Spain,50,23,75903.0,0,0,901,B
+9904,Graduation,67,3836,Married,0,1,Canada,50,28,71391.0,0,0,1043,B
+10031,PhD,47,3883,Married,1,1,Saudi Arabia,50,12,16927.0,0,0,53,A
+6642,Graduation,62,3901,Divorced,2,1,Saudi Arabia,50,11,27215.0,0,0,102,A
+10882,Graduation,47,3976,Married,0,1,Spain,50,17,53858.0,0,0,915,B
+5636,Graduation,60,3976,Single,0,0,India,50,8,30983.0,0,0,167,A
+8692,Graduation,71,4034,Together,1,1,Spain,50,16,43462.0,0,0,240,A
+8091,Graduation,67,4044,Married,0,1,India,50,17,63943.0,0,0,1106,B
+8080,Graduation,37,4060,Single,0,0,India,50,4,26816.0,0,0,22,A
+8370,2n Cycle,47,4075,Together,0,1,Canada,50,18,75484.0,0,0,1159,B
+4550,Master,57,3384,Together,0,1,Spain,51,6,33564.0,0,0,71,A
+3381,Master,70,3400,Married,1,1,Canada,51,8,54348.0,0,0,90,A
+10556,Graduation,64,3415,Married,0,1,Spain,51,17,54984.0,1,0,358,C
+9467,Graduation,39,3428,Single,1,0,Spain,51,5,34738.0,0,0,20,A
+2891,Graduation,60,3633,Divorced,0,1,USA,51,23,68118.0,0,0,928,B
+5011,Graduation,60,3633,Divorced,0,1,Spain,51,23,68118.0,0,0,928,B
+8140,Graduation,50,3648,Together,1,0,Australia,51,10,22682.0,0,0,95,A
+11039,Graduation,48,3664,Married,0,1,Spain,51,13,51948.0,0,0,311,A
+78,Graduation,54,3666,Married,1,0,Spain,51,5,25293.0,0,0,37,A
+5517,Graduation,54,3666,Married,1,0,Australia,51,5,25293.0,0,0,37,A
+5290,PhD,59,3698,Married,1,1,Canada,51,16,41551.0,0,0,279,A
+4128,PhD,61,3723,Together,0,1,Saudi Arabia,51,20,56067.0,0,0,725,C
+8534,Graduation,71,3727,Married,0,2,Spain,51,28,67433.0,1,0,992,B
+9592,Graduation,40,3743,Together,1,0,Spain,51,7,22010.0,0,0,33,A
+8957,2n Cycle,71,3763,Single,1,1,Saudi Arabia,51,22,64831.0,0,0,1120,B
+9308,Graduation,69,3793,Married,0,0,Saudi Arabia,51,14,62820.0,0,0,976,B
+544,Graduation,69,3793,Married,0,0,Spain,51,14,62820.0,0,0,976,B
+5989,2n Cycle,64,3818,Divorced,0,1,Canada,51,24,78353.0,0,0,1576,D
+635,Master,57,3846,Married,1,1,Spain,51,25,57183.0,0,0,610,C
+6673,Graduation,58,3846,Single,0,0,USA,51,7,23478.0,0,0,129,A
+1710,Graduation,45,3858,Single,1,0,Spain,51,18,30168.0,0,0,279,A
+523,Graduation,34,3893,Married,1,0,Spain,51,7,37155.0,0,0,74,A
+8977,Basic,38,3912,Single,0,0,Spain,51,4,16581.0,0,0,24,A
+9736,Graduation,43,3931,Married,1,1,USA,51,9,41850.0,0,0,96,A
+1544,Master,56,3933,Divorced,0,0,Canada,51,17,81380.0,0,0,1893,D
+6575,Graduation,42,3989,Together,1,1,Saudi Arabia,51,25,56386.0,0,0,612,C
+6147,Graduation,52,3998,Divorced,1,0,Germany,51,4,25818.0,0,0,28,A
+6354,Graduation,39,4046,Together,1,0,Spain,51,6,15345.0,0,0,47,A
+4769,Master,46,3390,Together,1,1,Spain,52,23,57954.0,1,0,493,C
+7540,Graduation,71,3414,Married,0,1,Spain,52,13,50300.0,0,0,270,A
+5247,PhD,68,3429,Married,1,1,Spain,52,7,38725.0,0,0,45,A
+5987,2n Cycle,34,3435,Together,1,0,Spain,52,7,10404.0,0,0,43,A
+9960,Basic,32,3439,Single,1,0,Saudi Arabia,52,4,26868.0,0,0,14,A
+10972,Graduation,74,3490,Widow,0,0,Spain,52,14,72298.0,2,0,939,B
+1399,Graduation,65,3538,Married,0,0,Spain,52,20,72905.0,1,0,1515,D
+2698,Graduation,47,3613,Single,0,1,USA,52,17,47025.0,0,0,415,C
+6340,Graduation,38,3624,Single,1,0,Saudi Arabia,52,6,29938.0,0,0,26,A
+4107,PhD,75,3643,Together,0,2,Spain,52,16,46681.0,0,0,425,C
+10906,PhD,75,3643,Together,0,2,Saudi Arabia,52,16,46681.0,0,0,425,C
+2557,Master,53,3683,Single,1,0,Spain,52,5,29548.0,1,0,29,A
+8786,Master,67,3778,Married,0,1,Germany,52,18,62058.0,0,0,450,C
+6119,PhD,60,3794,Single,1,1,Spain,52,4,36736.0,0,0,17,A
+2980,Master,71,3843,Single,1,1,Canada,52,10,8820.0,0,0,35,A
+3850,Basic,60,3948,Together,0,1,India,52,5,14918.0,0,0,43,A
+1077,Graduation,49,3950,Together,0,0,Spain,52,15,56715.0,0,0,1020,B
+9733,Basic,45,4037,Together,1,0,India,52,5,24882.0,1,0,80,A
+8462,Basic,45,4037,Together,1,0,Spain,52,5,24882.0,1,0,80,A
+4764,Master,71,4058,Together,1,1,Saudi Arabia,52,12,40442.0,0,0,169,A
+2223,2n Cycle,58,4074,Divorced,0,1,Spain,52,33,64176.0,0,0,1826,D
+7788,PhD,40,3404,Married,1,0,Spain,53,4,23536.0,0,0,10,A
+5827,Graduation,65,3453,Divorced,1,1,Saudi Arabia,53,11,35246.0,0,0,62,A
+2958,Graduation,45,3504,Married,2,0,Spain,53,10,28442.0,0,0,57,A
+4954,Graduation,67,3538,Married,1,1,Spain,53,17,48195.0,0,0,265,A
+3139,2n Cycle,41,3560,Single,0,0,Saudi Arabia,53,19,74116.0,1,0,2052,D
+9952,Master,76,3579,Together,0,0,Saudi Arabia,53,17,78093.0,0,0,1105,B
+8180,Master,71,3605,Divorced,1,1,USA,53,15,59354.0,0,0,310,A
+3276,2n Cycle,47,3626,Together,1,0,Saudi Arabia,53,7,36301.0,0,0,78,A
+4994,Master,80,3650,Single,0,0,Spain,53,26,77598.0,1,0,1735,D
+3598,Graduation,51,3781,Married,0,1,Spain,53,22,62710.0,0,0,606,C
+945,Graduation,58,3782,Together,0,1,Spain,53,9,36317.0,0,0,133,A
+5048,PhD,52,3793,Single,2,0,Saudi Arabia,53,7,42767.0,0,0,131,A
+6214,Master,41,3829,Married,1,0,Spain,53,6,43815.0,0,0,79,A
+6230,Graduation,52,3878,Divorced,1,1,Spain,53,14,44421.0,0,0,189,A
+2968,PhD,80,3892,Divorced,0,0,Australia,53,24,48948.0,1,0,902,B
+8800,PhD,80,3892,Divorced,0,0,Saudi Arabia,53,24,48948.0,1,0,902,B
+1907,Master,73,4018,Divorced,0,1,Spain,53,26,63120.0,0,0,1477,D
+10478,PhD,73,4019,Married,1,1,Saudi Arabia,53,23,55517.0,0,0,633,C
+4188,Graduation,66,4064,Single,0,1,Australia,53,14,36864.0,0,0,354,C
+2225,Graduation,46,3401,Divorced,0,0,Australia,54,21,82582.0,2,0,1617,D
+4790,Graduation,65,3406,Divorced,0,1,Spain,54,13,79803.0,0,0,868,B
+1131,PhD,56,3464,Single,0,1,Saudi Arabia,54,7,52569.0,0,0,95,A
+202,PhD,75,3464,Widow,0,0,India,54,17,82032.0,0,0,1234,B
+9589,PhD,75,3464,Widow,0,0,India,54,17,82032.0,0,0,1234,B
+3900,Graduation,51,3471,Married,0,1,Canada,54,21,65685.0,0,0,769,C
+9958,Graduation,51,3471,Married,0,1,Australia,54,21,65685.0,0,0,769,C
+8955,PhD,66,3512,Together,0,2,Spain,54,5,40451.0,1,0,49,A
+10033,2n Cycle,50,3515,Divorced,1,0,Germany,54,5,31163.0,0,0,38,A
+5751,2n Cycle,50,3515,Divorced,1,0,Canada,54,5,31163.0,0,0,38,A
+3308,Graduation,71,3556,Married,1,1,Saudi Arabia,54,9,35704.0,0,0,94,A
+7297,Graduation,50,3564,Single,1,0,Saudi Arabia,54,11,7500.0,0,0,57,A
+8008,Graduation,40,3581,Together,1,0,Spain,54,7,36075.0,0,0,119,A
+1232,PhD,41,3626,Together,0,0,Germany,54,17,70038.0,0,0,1244,B
+2345,PhD,41,3626,Together,0,0,Australia,54,17,70038.0,0,0,1244,B
+1628,Graduation,52,3627,Together,0,0,Saudi Arabia,54,17,71796.0,0,0,960,B
+5081,2n Cycle,56,3631,Together,1,1,Spain,54,5,47821.0,0,0,47,A
+839,PhD,48,3656,Married,1,0,Spain,54,9,45503.0,0,0,170,A
+3706,Graduation,45,3691,Single,1,0,Spain,54,7,28647.0,1,0,94,A
+5154,Master,51,3701,Divorced,1,0,Spain,54,6,37760.0,0,0,54,A
+8584,PhD,71,3765,Together,0,0,Spain,54,17,85431.0,0,0,1165,B
+6583,2n Cycle,68,3770,Married,0,0,Spain,54,21,72635.0,1,0,981,B
+3433,2n Cycle,68,3770,Married,0,0,Spain,54,21,72635.0,1,0,981,B
+10486,Graduation,75,3775,Married,0,0,Spain,54,17,77142.0,0,0,990,B
+8687,Graduation,45,3798,Together,0,1,India,54,16,53172.0,0,0,486,C
+7842,Graduation,55,3834,Single,1,1,Spain,54,9,36065.0,0,0,74,A
+3749,Graduation,50,3863,Together,0,0,Canada,54,24,73926.0,0,0,1580,D
+1331,Graduation,46,3922,Single,1,0,Australia,54,7,35790.0,0,0,72,A
+5995,Graduation,61,3937,Divorced,1,1,Spain,54,20,39552.0,0,0,384,C
+8985,2n Cycle,59,3981,Together,0,1,Spain,54,32,68316.0,0,0,1211,B
+2798,PhD,46,3983,Together,0,0,Saudi Arabia,54,26,102160.0,3,0,1240,B
+7108,Master,58,4038,Widow,1,1,Saudi Arabia,54,18,51390.0,0,0,353,C
+2781,Graduation,42,3385,Single,0,0,Saudi Arabia,55,17,72066.0,2,0,1792,D
+3623,Graduation,47,3397,Together,1,0,India,55,10,21675.0,0,0,45,A
+194,Graduation,58,3399,Married,1,1,Spain,55,5,48006.0,0,0,41,A
+10833,Graduation,48,3415,Married,0,1,Spain,55,27,65106.0,1,0,973,B
+2315,Graduation,63,3449,Divorced,0,1,Spain,55,6,58401.0,0,0,96,A
+6336,Graduation,63,3463,Married,1,1,Saudi Arabia,55,10,29315.0,0,0,48,A
+10738,Master,72,3683,Single,1,1,Australia,55,6,49389.0,0,0,65,A
+8286,PhD,58,3692,Together,0,1,Saudi Arabia,55,8,51717.0,1,0,122,A
+2166,2n Cycle,63,3731,Widow,1,1,Saudi Arabia,55,4,46779.0,0,0,23,A
+10691,Master,63,3759,Married,1,1,Spain,55,5,28520.0,0,0,43,A
+9739,Graduation,60,3905,Single,0,1,Spain,55,8,34377.0,0,0,114,A
+1829,PhD,62,3905,Divorced,0,1,Spain,55,21,54959.0,1,0,1232,B
+6260,Master,68,3966,Together,0,0,Australia,55,27,82384.0,1,0,1957,D
+10448,Graduation,67,3994,Single,0,1,Spain,55,18,46998.0,1,0,377,C
+1343,Graduation,55,4020,Together,1,1,USA,55,22,58554.0,0,0,586,C
+4749,Graduation,55,4020,Together,1,1,India,55,22,58554.0,0,0,586,C
+531,PhD,69,4024,Divorced,0,1,Spain,55,33,57333.0,0,0,1662,D
+6905,Graduation,29,4055,Together,0,0,Spain,55,21,80685.0,0,0,1004,B
+1045,Graduation,58,4061,Together,0,1,Spain,55,13,52117.0,0,0,279,A
+4012,PhD,51,4066,Together,0,1,Germany,55,23,62220.0,0,0,1226,B
+5529,PhD,77,3398,Together,2,1,Canada,56,22,64014.0,1,0,444,C
+4001,PhD,77,3398,Together,2,1,Saudi Arabia,56,22,64014.0,1,0,444,C
+10420,Master,68,3434,Divorced,0,1,USA,56,10,46390.0,0,0,222,A
+7723,Graduation,44,3437,Together,0,0,Germany,56,21,75507.0,0,0,1440,B
+2963,Graduation,44,3437,Together,0,0,Australia,56,21,75507.0,0,0,1440,B
+10634,Master,72,3450,Married,0,0,Spain,56,15,59412.0,0,0,406,C
+5180,PhD,55,3451,Divorced,0,1,Spain,56,10,50616.0,0,0,149,A
+6866,Master,54,3477,Together,1,1,Saudi Arabia,56,5,35924.0,0,0,34,A
+1328,2n Cycle,41,3512,Married,0,1,Saudi Arabia,56,20,57937.0,0,0,683,C
+1139,PhD,39,3522,Married,0,0,Spain,56,22,73356.0,3,0,1512,D
+4961,Master,49,3538,Together,1,0,Spain,56,11,21255.0,0,0,61,A
+5177,Master,49,3578,Married,0,1,Saudi Arabia,56,16,58494.0,0,0,396,C
+2075,Graduation,54,3606,Married,0,0,Saudi Arabia,56,16,72460.0,0,0,1047,B
+3428,PhD,32,3645,Together,0,0,Spain,56,24,68682.0,0,0,1598,D
+4500,PhD,32,3645,Together,0,0,Spain,56,24,68682.0,0,0,1598,D
+7369,Master,42,3649,Married,1,0,Spain,56,7,36959.0,0,0,62,A
+4381,PhD,52,3694,Married,1,1,Spain,56,17,46463.0,0,0,235,A
+9964,Graduation,44,3705,Single,0,1,Spain,56,15,61825.0,0,0,424,C
+1630,Graduation,44,3705,Single,0,1,Spain,56,15,61825.0,0,0,424,C
+5012,Graduation,34,3739,Married,1,0,Spain,56,5,28691.0,0,0,34,A
+6918,Graduation,34,3739,Married,1,0,Spain,56,5,28691.0,0,0,34,A
+7822,Graduation,47,3769,Together,0,1,Spain,56,20,54058.0,0,0,662,C
+10156,Graduation,48,3770,Single,0,1,Spain,56,20,84196.0,0,0,1237,B
+3033,Master,60,3793,Together,0,0,Australia,56,11,38620.0,0,0,318,A
+4119,Master,60,3793,Together,0,0,Germany,56,11,38620.0,0,0,318,A
+11110,Graduation,50,3821,Single,1,0,India,56,0,3502.0,0,0,5,A
+332,Graduation,66,3843,Married,0,1,Spain,56,14,47743.0,1,0,275,A
+737,PhD,74,3862,Married,0,0,Spain,56,15,80360.0,3,0,2231,D
+10319,Graduation,52,3867,Married,0,1,Spain,56,22,66303.0,1,0,1286,B
+2683,Graduation,54,3891,Married,0,2,Canada,56,26,52413.0,0,0,910,B
+3445,Graduation,67,3907,Single,0,0,Saudi Arabia,56,23,60714.0,0,0,957,B
+10913,Master,39,3950,Single,1,0,Spain,56,4,31385.0,1,0,27,A
+4427,2n Cycle,28,4028,Single,0,0,Spain,56,28,83257.0,2,1,1365,B
+8717,PhD,48,4034,Married,0,1,India,56,28,80427.0,0,0,1835,D
+2066,Graduation,74,4047,Together,0,1,Spain,56,7,38823.0,0,0,114,A
+3340,Graduation,46,4060,Married,1,0,Canada,56,20,42014.0,0,0,436,C
+8685,Graduation,46,4060,Married,1,0,Saudi Arabia,56,20,42014.0,0,0,436,C
+4149,PhD,75,3426,Together,0,0,Spain,57,21,76140.0,0,0,1348,B
+8726,2n Cycle,59,3440,Divorced,1,1,Canada,57,13,41713.0,0,0,174,A
+2295,PhD,69,3526,Married,0,1,Saudi Arabia,57,22,62670.0,0,0,825,C
+3283,2n Cycle,51,3540,Married,0,1,Spain,57,22,70932.0,0,0,909,B
+1915,PhD,72,3578,Married,0,0,Germany,57,20,78939.0,0,0,1507,D
+800,Graduation,63,3682,Together,1,1,Saudi Arabia,57,6,44512.0,0,0,32,A
+9166,Graduation,55,3703,Married,0,1,Spain,57,23,63967.0,0,0,882,B
+5147,Graduation,75,3714,Single,0,0,Spain,57,27,90842.0,0,0,1424,B
+13,PhD,76,3721,Widow,0,1,Saudi Arabia,57,6,25358.0,0,0,32,A
+8724,Graduation,41,3756,Single,1,0,Spain,57,7,28567.0,0,0,46,A
+9381,Graduation,45,3761,Married,1,1,Australia,57,23,66373.0,0,0,606,C
+9384,Graduation,45,3761,Married,1,1,Australia,57,23,66373.0,0,0,606,C
+3560,Graduation,71,3792,Together,0,0,Germany,57,20,83844.0,1,0,1574,D
+241,Graduation,71,3792,Together,0,0,Spain,57,20,83844.0,1,0,1574,D
+7521,Graduation,71,3792,Together,0,0,Canada,57,20,83844.0,1,0,1574,D
+9799,PhD,55,3796,Divorced,1,1,Spain,57,19,83664.0,0,0,1173,B
+5123,Master,72,3819,Married,0,0,Spain,57,7,27450.0,0,0,143,A
+448,PhD,45,3864,Single,1,0,Spain,57,21,54880.0,0,0,795,C
+4837,PhD,58,3877,Married,0,1,Spain,57,28,71322.0,0,0,1305,B
+9365,PhD,47,3933,Single,0,1,Spain,57,24,60000.0,0,0,1277,B
+8932,Master,54,3987,Together,0,1,Saudi Arabia,57,25,65176.0,0,0,1531,D
+7055,PhD,71,4007,Together,0,1,Canada,57,26,61010.0,0,0,1021,B
+3537,Graduation,42,4060,Together,1,0,Spain,57,10,31089.0,0,0,79,A
+9081,Graduation,35,3421,Single,1,0,Spain,58,5,20518.0,0,0,25,A
+4988,PhD,75,3435,Married,1,1,Saudi Arabia,58,9,34469.0,0,0,62,A
+1050,Graduation,71,3439,Married,0,0,Germany,58,8,28332.0,0,0,65,A
+5610,Graduation,58,3448,Together,1,1,India,58,6,33456.0,0,0,36,A
+3526,PhD,55,3532,Married,1,1,Spain,58,6,38443.0,0,0,38,A
+5136,Graduation,50,3542,Single,0,1,Canada,58,28,65333.0,2,0,798,C
+1411,Graduation,71,3610,Divorced,0,0,Spain,58,16,82623.0,0,0,940,B
+701,Graduation,52,3614,Married,0,1,Spain,58,18,73691.0,1,0,1179,B
+6203,Graduation,76,3688,Together,0,0,Spain,58,26,74485.0,0,0,1734,D
+7192,Graduation,68,3819,Together,0,1,Spain,58,18,65748.0,0,1,545,C
+5181,Basic,41,3845,Single,1,0,Spain,58,4,24367.0,0,0,24,A
+9220,Graduation,52,3907,Single,0,0,Spain,58,20,91700.0,0,0,1968,D
+7734,Graduation,30,3936,Absurd,0,0,Australia,58,22,79244.0,2,0,1216,B
+10446,PhD,66,3978,Married,0,0,Canada,58,17,82017.0,3,0,729,C
+5524,Graduation,66,4042,Single,0,0,USA,58,25,58138.0,0,0,1617,D
+3830,Master,70,3445,Married,0,2,Canada,59,16,59354.0,0,0,459,C
+5186,PhD,68,3488,Married,0,1,Canada,59,22,58482.0,1,0,731,C
+8514,Graduation,47,3542,Together,1,0,Spain,59,5,29478.0,0,0,20,A
+7165,Graduation,51,3629,Together,0,1,Spain,59,22,64474.0,0,0,823,C
+10236,Master,48,3665,Single,1,0,Saudi Arabia,59,7,31160.0,0,0,64,A
+2392,Graduation,51,3714,Married,1,1,Spain,59,8,40321.0,0,0,102,A
+1920,Graduation,51,3714,Married,1,1,Spain,59,8,40321.0,0,0,102,A
+3673,Graduation,52,3729,Single,0,1,Saudi Arabia,59,26,55239.0,0,0,779,C
+1453,PhD,80,3737,Widow,0,0,Spain,59,27,57513.0,0,0,1060,B
+4518,Graduation,44,3814,Together,0,1,Canada,59,27,85693.0,0,0,1169,B
+8969,Graduation,46,3908,Married,0,1,Saudi Arabia,59,25,71855.0,0,0,1141,B
+387,Basic,47,3972,Married,0,0,USA,59,6,7500.0,0,0,61,A
+1079,PhD,52,4000,Married,0,1,India,59,19,71969.0,1,0,1086,B
+164,PhD,46,4003,Married,0,0,Spain,59,13,28973.0,0,0,269,A
+3434,Graduation,72,3427,Single,0,0,Spain,60,19,80872.0,0,0,1336,B
+5721,PhD,67,3428,Married,0,0,Canada,60,24,84117.0,1,0,1566,D
+8418,2n Cycle,65,3470,Single,1,1,Germany,60,7,38741.0,0,0,61,A
+5300,Master,50,3560,Married,1,0,Spain,60,6,38961.0,0,0,70,A
+10424,Graduation,55,3581,Single,0,0,Saudi Arabia,60,18,75922.0,0,0,1295,B
+11171,Master,58,3640,Married,2,1,Australia,60,21,56962.0,0,0,411,C
+1600,Master,58,3640,Married,2,1,Saudi Arabia,60,21,56962.0,0,0,411,C
+7851,Graduation,74,3659,Widow,0,0,Spain,60,22,70165.0,0,0,926,B
+10701,Graduation,50,3670,Married,0,0,USA,60,28,65308.0,2,0,1211,B
+891,Master,72,3674,Together,1,1,Spain,60,4,29298.0,0,0,11,A
+6912,PhD,56,3692,Married,0,2,Spain,60,22,63246.0,0,0,772,C
+5967,Graduation,71,3725,Together,1,1,Germany,60,9,33402.0,0,0,70,A
+2109,Graduation,33,3811,Single,0,0,Spain,60,28,96843.0,1,0,1544,D
+6292,PhD,37,3835,Married,0,0,Germany,60,18,82333.0,1,0,1822,D
+8537,Graduation,74,3866,Widow,0,0,Spain,60,21,72643.0,1,0,1429,B
+9576,PhD,41,3882,Together,1,0,Spain,60,11,32313.0,0,0,159,A
+5935,Master,67,3931,Single,0,1,India,60,23,55284.0,0,0,764,C
+10264,Graduation,44,4006,Divorced,1,0,Saudi Arabia,60,6,15287.0,1,0,31,A
+234,Graduation,44,4006,Divorced,1,0,Spain,60,6,15287.0,1,0,31,A
+3202,PhD,36,4015,Married,0,0,Saudi Arabia,60,19,51563.0,2,0,1250,B
+1103,Master,47,4017,Married,1,0,Australia,60,20,81929.0,2,0,2053,D
+610,PhD,70,4070,Together,1,1,Australia,60,23,53593.0,0,0,480,C
+4480,Master,50,3491,Married,0,1,Saudi Arabia,61,19,60432.0,0,0,401,C
+10660,Master,66,3547,Married,1,1,Spain,61,17,66726.0,1,0,438,C
+9353,Graduation,64,3553,Single,0,1,India,61,16,62450.0,1,0,995,B
+4120,2n Cycle,48,3573,Single,1,0,India,61,13,49514.0,0,0,369,C
+2836,PhD,51,3665,Married,1,0,Germany,61,4,43269.0,0,0,19,A
+9579,PhD,64,3736,Married,2,1,Canada,61,9,33762.0,0,0,106,A
+5841,Graduation,57,3745,Together,0,1,Spain,61,26,60894.0,0,0,832,C
+3174,Graduation,64,3782,Together,0,1,Spain,61,20,87771.0,4,0,1957,D
+5536,Graduation,64,3782,Together,0,1,Canada,61,20,87771.0,4,0,1957,D
+2061,Graduation,68,3793,Married,0,1,Spain,61,7,50737.0,1,0,99,A
+8477,Graduation,67,3854,Divorced,2,1,Spain,61,5,26150.0,0,0,28,A
+640,Graduation,72,3854,Married,0,1,Spain,61,25,57304.0,0,0,1026,B
+3828,Graduation,72,3876,Married,0,1,Spain,61,28,71107.0,0,0,1327,B
+4093,Master,48,3882,Together,1,1,Canada,61,19,53253.0,0,0,436,C
+8624,Graduation,65,3887,Married,0,0,Saudi Arabia,61,18,81320.0,0,0,928,B
+2802,2n Cycle,31,3940,Married,0,0,Australia,61,18,87000.0,0,0,961,B
+368,Graduation,49,3956,Married,0,1,India,61,14,40049.0,0,0,290,A
+3599,Graduation,53,3959,Married,0,1,Spain,61,23,63684.0,0,0,1464,D
+3389,Graduation,53,3963,Married,0,1,Spain,61,34,69016.0,0,0,1533,D
+10710,Graduation,44,4048,Married,0,1,Spain,61,4,7500.0,0,0,18,A
+7118,Graduation,66,4076,Married,0,1,Canada,61,22,73803.0,1,0,1528,D
+4937,2n Cycle,50,3398,Married,1,1,Spain,62,5,46094.0,0,0,44,A
+1127,PhD,50,3410,Married,0,0,Spain,62,20,85844.0,1,0,1958,D
+833,Master,68,3470,Married,1,1,Spain,62,9,38452.0,0,0,72,A
+3565,Master,68,3470,Married,1,1,Spain,62,9,38452.0,0,0,72,A
+6086,Graduation,68,3597,Married,0,0,Australia,62,24,80395.0,1,0,1380,B
+1763,Graduation,35,3716,Together,0,0,Canada,62,29,87679.0,3,0,2524,D
+4697,Master,74,3760,Divorced,0,0,Saudi Arabia,62,16,35416.0,0,0,390,C
+182,PhD,77,3793,Together,0,1,Spain,62,17,44124.0,0,0,397,C
+1165,PhD,65,3802,Single,1,1,Saudi Arabia,62,24,50729.0,0,0,496,C
+5386,Graduation,70,3861,Together,0,0,Saudi Arabia,62,18,94384.0,3,0,2302,D
+6024,Graduation,70,3861,Together,0,0,Spain,62,18,94384.0,3,0,2302,D
+2678,Graduation,33,3880,Single,1,0,Australia,62,11,34412.0,0,0,209,A
+5790,Graduation,38,3897,Married,1,0,Spain,62,7,31158.0,0,0,72,A
+236,Graduation,72,3905,Married,1,1,Canada,62,10,34838.0,0,0,170,A
+6001,Graduation,44,3922,Married,0,1,Spain,62,25,56775.0,0,0,937,B
+6250,PhD,74,3966,Widow,0,1,Spain,62,24,54356.0,0,0,775,C
+1168,PhD,45,3987,Married,0,0,Spain,62,21,72159.0,0,0,1401,B
+10749,Graduation,32,4028,Single,0,0,Spain,62,16,8028.0,0,0,178,A
+2926,Master,71,4054,Together,0,1,Saudi Arabia,62,23,55951.0,2,0,1374,B
+716,PhD,74,3417,Together,0,1,Spain,63,27,67911.0,0,0,976,B
+6544,PhD,74,3417,Together,0,1,Germany,63,27,67911.0,0,0,976,B
+4298,PhD,50,3476,Together,1,0,Spain,63,4,20427.0,0,0,10,A
+5823,PhD,53,3492,Single,0,1,India,63,7,32303.0,0,0,39,A
+8375,PhD,55,3497,Married,0,1,Australia,63,19,55954.0,0,0,518,C
+5723,PhD,47,3548,Together,0,1,Spain,63,8,49187.0,0,0,116,A
+5763,Master,51,3610,Together,1,0,Canada,63,18,49854.0,0,0,380,C
+8727,Graduation,45,3637,Divorced,0,1,Saudi Arabia,63,29,63693.0,0,0,1150,B
+3056,Graduation,45,3637,Divorced,0,1,Saudi Arabia,63,29,63693.0,0,0,1150,B
+8442,Master,38,3677,Married,2,0,Canada,63,6,19510.0,0,0,30,A
+3712,Graduation,64,3684,Divorced,0,0,India,63,12,52332.0,1,0,259,A
+10722,Graduation,50,3691,Together,0,1,India,63,17,55593.0,1,0,546,C
+2406,Graduation,74,3707,Together,0,1,Australia,63,19,54591.0,0,0,519,C
+7313,2n Cycle,74,3770,Widow,0,0,Canada,63,23,74859.0,1,0,1565,D
+2656,Graduation,52,3872,Divorced,1,1,Canada,63,5,40851.0,0,0,59,A
+1993,PhD,74,3932,Married,0,1,USA,63,17,58607.0,1,0,972,B
+4136,Basic,31,3952,Single,1,0,Spain,63,11,7500.0,0,0,119,A
+2928,PhD,48,3954,Single,0,1,Spain,63,16,52614.0,0,0,990,B
+2920,PhD,48,3954,Single,0,1,Mexico,63,16,52614.0,0,0,990,B
+6661,Graduation,49,4065,Married,0,1,Spain,63,32,67445.0,0,0,1174,B
+5462,Graduation,49,4065,Married,0,1,India,63,32,67445.0,0,0,1174,B
+10897,Graduation,49,4065,Married,0,1,Australia,63,32,67445.0,0,0,1174,B
+10542,PhD,55,4072,Married,1,1,Spain,63,9,36778.0,0,0,77,A
+5756,Graduation,40,3466,Together,1,0,Spain,64,7,39453.0,0,0,55,A
+3570,PhD,54,3630,Together,1,0,Saudi Arabia,64,13,42731.0,0,0,244,A
+1072,PhD,58,3682,Single,0,1,Canada,64,8,40760.0,0,0,93,A
+9606,PhD,58,3685,Married,0,0,Spain,64,13,69969.0,2,0,1536,D
+2730,Graduation,68,3692,Single,0,0,Canada,64,18,80317.0,0,0,1231,B
+2995,Master,66,3695,Together,0,0,Spain,64,17,66636.0,0,0,1084,B
+8210,Master,48,3697,Married,0,1,Spain,64,18,54730.0,0,0,405,C
+773,Master,52,3743,Divorced,1,1,India,64,23,42835.0,0,0,595,C
+5272,Master,58,3746,Married,0,1,Saudi Arabia,64,20,53843.0,0,0,562,C
+5125,Graduation,63,3787,Married,0,0,Spain,64,26,79530.0,0,0,1348,B
+4391,Master,55,3813,Divorced,0,1,Saudi Arabia,64,22,63841.0,0,0,908,B
+6283,Master,55,3813,Divorced,0,1,Spain,64,22,63841.0,0,0,908,B
+3421,Master,55,3813,Divorced,0,1,Australia,64,22,63841.0,0,0,908,B
+5731,Master,40,3829,Married,1,0,Spain,64,5,27100.0,0,0,37,A
+7152,Master,40,3829,Married,1,0,Germany,64,5,27100.0,0,0,37,A
+3919,Master,47,3854,Single,0,0,Canada,64,20,72309.0,1,0,1931,D
+6097,Graduation,64,3908,Single,1,1,Saudi Arabia,64,24,50664.0,0,0,561,C
+5150,Basic,44,3938,Single,1,0,Spain,64,7,20194.0,0,0,47,A
+10479,PhD,48,3948,Married,0,0,Australia,64,11,76618.0,0,0,1511,D
+5966,PhD,49,3975,Married,1,1,Spain,64,15,45207.0,1,0,215,A
+3439,Graduation,51,3985,Married,1,1,Spain,64,15,56721.0,0,0,296,A
+6609,Graduation,57,4028,Widow,0,0,Saudi Arabia,64,7,27038.0,0,0,107,A
+5393,Graduation,46,4070,Single,1,0,Spain,64,5,23763.0,0,0,42,A
+9014,Graduation,48,3382,Married,1,1,India,65,10,37085.0,0,0,61,A
+4050,Master,57,3387,Married,0,0,Canada,65,8,49605.0,0,0,127,A
+6862,Graduation,52,3421,Divorced,0,0,Spain,65,15,1730.0,0,0,8,A
+8315,Graduation,28,3474,Single,0,0,USA,65,4,34824.0,0,0,23,A
+5184,Graduation,28,3474,Single,0,0,Spain,65,4,34824.0,0,0,23,A
+3643,Master,49,3480,Married,0,0,Canada,65,14,63206.0,1,0,928,B
+2589,Graduation,51,3521,Divorced,1,0,Australia,65,8,26759.0,0,0,59,A
+4887,PhD,47,3598,Divorced,1,1,Canada,65,6,55412.0,0,0,63,A
+10104,Graduation,49,3617,Together,2,1,Canada,65,4,33590.0,0,0,8,A
+3254,Graduation,52,3637,Married,1,0,Spain,65,14,70886.0,0,0,960,B
+2004,Graduation,54,3663,Single,0,1,Spain,65,17,72679.0,0,0,1168,B
+6142,Master,80,3692,Married,0,0,Spain,65,14,65073.0,0,1,900,B
+8553,Graduation,58,3750,Married,1,1,Spain,65,6,44300.0,0,0,42,A
+9805,Master,70,3753,Together,0,1,Canada,65,22,56129.0,0,0,660,C
+849,Master,70,3753,Together,0,1,Spain,65,22,56129.0,0,0,660,C
+1606,Graduation,52,3789,Together,1,0,Saudi Arabia,65,4,38590.0,0,0,22,A
+125,2n Cycle,65,3789,Together,1,1,India,65,17,53083.0,1,0,271,A
+9305,2n Cycle,47,3792,Single,0,0,Spain,65,27,79689.0,0,0,1315,B
+4706,Graduation,57,3807,Single,0,1,Canada,65,5,34704.0,0,0,40,A
+4437,Graduation,61,3810,Married,1,1,Spain,65,12,65316.0,0,0,260,A
+3081,PhD,45,3812,Married,1,0,Spain,65,4,41014.0,0,0,20,A
+3536,Graduation,63,3841,Together,0,1,India,65,7,19740.0,0,0,55,A
+8686,Basic,44,3916,Together,1,0,Spain,65,7,23724.0,0,0,75,A
+9707,PhD,54,3962,Married,0,1,Spain,65,20,55212.0,2,0,1182,B
+10872,PhD,54,3962,Married,0,1,Spain,65,20,55212.0,2,0,1182,B
+9058,Graduation,68,4023,Widow,0,0,Spain,65,22,79800.0,3,0,1867,D
+4640,Graduation,56,4025,Divorced,0,1,Saudi Arabia,65,26,70647.0,0,0,1079,B
+2525,PhD,49,4032,Married,0,0,Canada,65,18,38410.0,0,0,534,C
+9503,Graduation,43,4048,Single,0,0,Spain,65,13,28071.0,0,0,313,A
+10704,Graduation,54,4056,Single,0,1,Spain,65,19,54803.0,0,0,693,C
+2669,Graduation,30,3435,Single,0,0,Spain,66,16,74293.0,0,0,1127,B
+10037,Graduation,30,3435,Single,0,0,Saudi Arabia,66,16,74293.0,0,0,1127,B
+5680,2n Cycle,39,3447,Married,1,0,Spain,66,5,35684.0,0,0,30,A
+3726,PhD,37,3512,Together,1,0,Saudi Arabia,66,4,34320.0,0,0,17,A
+4548,Graduation,42,3597,Single,1,1,Canada,66,5,41967.0,0,0,54,A
+4599,Master,47,3616,Married,0,2,Canada,66,21,49681.0,0,0,458,C
+879,Master,47,3616,Married,0,2,Saudi Arabia,66,21,49681.0,0,0,458,C
+7409,Graduation,53,3625,Together,1,0,Spain,66,13,53187.0,0,0,267,A
+1964,Graduation,72,3676,Together,0,0,Spain,66,18,86610.0,0,0,1603,D
+0,Graduation,38,3800,Married,0,0,Saudi Arabia,66,17,70951.0,0,0,1198,B
+4860,Graduation,53,3857,Single,1,0,Spain,66,5,24206.0,0,0,25,A
+425,Graduation,38,3874,Married,2,0,India,66,22,55357.0,0,0,727,C
+9500,Graduation,64,3899,Married,0,1,Spain,66,22,58113.0,0,1,758,C
+3074,PhD,39,4001,Married,0,0,Spain,66,18,70643.0,0,0,1828,D
+5140,PhD,38,4053,Married,1,0,Spain,66,21,64355.0,0,0,1445,B
+2611,Master,64,4076,Together,0,0,Saudi Arabia,66,19,82576.0,1,0,1910,D
+916,PhD,51,3430,Single,1,1,Spain,67,6,41644.0,0,0,31,A
+10413,Graduation,39,3444,Married,0,0,Spain,67,23,72570.0,0,0,1089,B
+3696,Graduation,58,3532,Divorced,1,1,Spain,67,7,30630.0,0,0,52,A
+304,Master,42,3567,Single,1,0,Spain,67,9,22944.0,0,0,76,A
+5113,PhD,52,3613,Divorced,0,0,Spain,67,16,86979.0,1,0,1702,D
+4597,PhD,53,3741,Together,0,0,Saudi Arabia,67,19,82072.0,0,0,2018,D
+675,Master,50,3787,Divorced,1,1,Spain,67,16,52034.0,0,0,332,A
+4483,Graduation,30,3817,Single,0,0,Saudi Arabia,67,19,72354.0,0,0,1228,B
+1502,Graduation,40,3844,Together,1,0,Spain,67,7,28427.0,0,0,52,A
+736,Graduation,40,3844,Together,1,0,India,67,7,28427.0,0,0,52,A
+4487,Master,54,3900,Single,1,0,Saudi Arabia,67,7,39858.0,0,0,95,A
+3412,Master,72,3909,Married,0,1,Spain,67,17,67381.0,1,0,957,B
+1744,Basic,58,3917,Single,0,1,Spain,67,5,23529.0,0,0,54,A
+5837,Graduation,56,3927,Married,1,1,Spain,67,22,51479.0,0,0,494,C
+3422,Graduation,48,3956,Married,0,1,Germany,67,10,76068.0,2,0,1376,B
+7462,Graduation,69,3961,Single,0,0,Canada,67,19,22507.0,0,0,570,C
+10702,Graduation,39,3982,Single,1,0,Spain,67,17,52413.0,0,0,450,C
+2115,Graduation,66,3388,Together,1,1,Germany,68,7,50116.0,1,0,66,A
+4138,Graduation,61,3415,Single,0,1,Spain,68,23,76624.0,1,0,899,B
+11091,Graduation,70,3423,Together,1,1,Germany,68,6,34587.0,0,0,22,A
+7712,PhD,77,3441,Single,0,0,USA,68,19,62159.0,0,0,634,C
+3535,Graduation,58,3483,Single,0,0,Spain,68,13,66294.0,0,0,967,B
+5899,PhD,73,3487,Together,1,1,USA,68,2,5648.0,1,0,49,A
+8749,Graduation,39,3527,Together,1,0,Spain,68,5,37235.0,0,0,61,A
+10955,Graduation,59,3552,Widow,0,0,Spain,68,14,85620.0,0,0,1600,D
+9491,Graduation,39,3563,Together,1,0,Saudi Arabia,68,10,23976.0,0,0,66,A
+5286,Master,36,3623,Single,0,0,Canada,68,10,41020.0,0,0,217,A
+3409,Graduation,39,3636,Single,1,0,Saudi Arabia,68,15,36108.0,1,0,339,C
+2544,Master,72,3639,Divorced,0,1,India,68,7,57530.0,0,0,92,A
+2118,2n Cycle,59,3671,Married,0,1,Spain,68,20,62905.0,0,0,622,C
+9370,PhD,78,3787,Married,0,0,Canada,68,16,65846.0,0,0,1120,B
+4864,Graduation,46,3802,Married,1,0,Canada,68,12,34380.0,0,0,175,A
+405,Graduation,59,3880,Divorced,0,1,Spain,68,17,41638.0,1,0,441,C
+10513,Graduation,31,3904,Together,0,0,Spain,68,12,63207.0,1,0,1502,D
+5138,Graduation,73,3910,Together,0,1,Spain,68,5,28320.0,0,0,43,A
+8387,Graduation,66,3919,Married,0,1,Spain,68,11,43140.0,0,0,235,A
+378,Graduation,52,3925,Married,0,0,Spain,68,21,52531.0,0,0,794,C
+5846,Graduation,46,3936,Divorced,1,0,Germany,68,4,40246.0,0,0,13,A
+8870,Graduation,39,3972,Together,1,0,Spain,68,18,35196.0,0,0,497,C
+10340,Graduation,39,3972,Together,1,0,Spain,68,18,35196.0,0,0,497,C
+7290,Graduation,38,4011,Single,0,0,Spain,68,21,70596.0,0,0,968,B
+8895,Graduation,38,4011,Single,0,0,Spain,68,21,70596.0,0,0,968,B
+3635,PhD,61,3432,Single,0,1,Saudi Arabia,69,20,52597.0,0,0,578,C
+11178,Master,51,3477,Single,1,0,Germany,69,5,42394.0,0,0,32,A
+2410,Graduation,54,3537,Single,0,0,Spain,69,16,81657.0,0,0,1097,B
+3281,PhD,63,3617,Married,1,1,Spain,69,19,49154.0,0,0,411,C
+9905,Graduation,71,3730,Together,1,1,Spain,69,14,34074.0,1,0,255,A
+2565,Master,68,3772,Divorced,0,0,Saudi Arabia,69,20,70638.0,1,0,1334,B
+7912,Graduation,45,3812,Married,1,0,USA,69,8,38136.0,1,0,103,A
+7072,Graduation,50,3836,Married,0,1,Australia,69,19,67432.0,0,0,1335,B
+1409,Graduation,72,3847,Together,0,1,USA,69,20,40689.0,0,0,444,C
+5314,Graduation,72,3847,Together,0,1,Spain,69,20,40689.0,0,0,444,C
+7215,Graduation,40,3853,Single,0,0,Canada,69,27,101970.0,3,0,1135,B
+8858,PhD,51,3858,Married,0,1,Canada,69,21,44325.0,1,0,542,C
+895,PhD,75,3946,Married,0,2,Spain,69,20,61467.0,0,0,594,C
+10313,Graduation,48,3988,Married,1,1,Spain,69,16,48178.0,0,0,254,A
+642,Basic,43,4063,Married,1,0,Canada,69,8,16005.0,0,0,103,A
+8504,Graduation,50,3427,Married,0,0,Germany,70,19,79593.0,1,0,1366,B
+1020,Graduation,50,3427,Married,0,0,Spain,70,19,79593.0,1,0,1366,B
+3717,Graduation,64,3446,Married,0,1,Spain,70,18,61180.0,1,0,704,C
+7646,Graduation,34,3510,Single,1,0,Spain,70,24,64449.0,0,0,805,C
+5796,Graduation,60,3594,Married,0,0,Spain,70,23,77437.0,1,0,1125,B
+8625,Graduation,47,3608,Married,1,0,USA,70,9,17649.0,0,0,45,A
+5407,Graduation,69,3669,Together,0,1,Saudi Arabia,70,28,53103.0,1,0,1085,B
+4356,Graduation,52,3684,Together,0,1,Spain,70,14,71819.0,2,0,1574,D
+2886,Master,52,3700,Divorced,0,1,Spain,70,32,74290.0,2,0,1217,B
+10057,Graduation,72,3724,Single,0,0,Spain,70,22,72282.0,0,0,1331,B
+10741,Master,72,3823,Together,0,1,Spain,70,16,47352.0,0,0,319,A
+5491,Master,72,3823,Together,0,1,Australia,70,16,47352.0,0,0,319,A
+4442,Graduation,62,3829,Single,0,1,Canada,70,9,46524.0,0,0,177,A
+3972,Graduation,47,3831,Together,1,1,Spain,70,19,50200.0,0,0,401,C
+2431,Graduation,33,3924,Married,0,0,Spain,70,6,18222.0,0,0,67,A
+7899,PhD,71,3987,Married,0,1,Australia,70,17,77610.0,0,0,1680,D
+9703,PhD,53,4001,Married,1,1,Saudi Arabia,70,11,38097.0,1,0,184,A
+6927,PhD,55,4011,Married,1,1,Saudi Arabia,70,19,44377.0,0,0,264,A
+7005,Graduation,42,3392,Single,0,0,Saudi Arabia,71,21,58684.0,1,0,813,C
+246,Graduation,58,3408,Married,1,1,Spain,71,19,66480.0,0,0,312,A
+4796,Graduation,71,3450,Divorced,0,1,Spain,71,5,49638.0,0,0,39,A
+4725,PhD,73,3456,Together,0,1,Spain,71,7,50616.0,0,0,67,A
+3286,PhD,56,3499,Divorced,1,0,Spain,71,7,26642.0,0,0,42,A
+10680,Graduation,37,3523,Together,1,0,Spain,71,7,33235.0,0,0,70,A
+4297,Graduation,54,3533,Together,1,0,India,71,7,23228.0,0,0,40,A
+7327,PhD,64,3561,Married,1,1,Spain,71,9,36732.0,0,0,47,A
+1553,Graduation,77,3654,Together,0,0,Germany,71,23,82657.0,2,0,2283,D
+1665,PhD,59,3658,Divorced,0,2,Saudi Arabia,71,18,64140.0,3,0,1750,D
+10640,Graduation,49,3676,Together,1,1,Spain,71,14,44392.0,0,0,211,A
+7620,Basic,33,3707,Single,1,0,India,71,8,16185.0,0,0,106,A
+7761,2n Cycle,45,3711,Together,1,0,Australia,71,9,38702.0,0,0,109,A
+5062,PhD,60,3716,Married,1,1,Saudi Arabia,71,5,54072.0,0,0,39,A
+6349,Master,36,3737,Divorced,0,0,Spain,71,19,61787.0,0,0,1319,B
+3386,Graduation,31,3752,Married,0,0,Spain,71,8,34935.0,0,0,137,A
+8175,Graduation,31,3752,Married,0,0,Saudi Arabia,71,8,34935.0,0,0,137,A
+6245,PhD,73,3760,Together,0,1,Spain,71,18,59292.0,0,0,507,C
+8780,PhD,73,3760,Together,0,1,Spain,71,18,59292.0,0,0,507,C
+2276,Graduation,68,3802,Single,0,1,Spain,71,27,57959.0,0,0,868,B
+1172,PhD,40,3803,Married,0,0,Spain,71,25,92491.0,3,0,2034,D
+3225,Master,39,3833,Married,1,0,Spain,71,14,42207.0,1,0,265,A
+8629,Graduation,67,3839,Widow,1,1,Canada,71,5,46984.0,0,0,41,A
+798,Graduation,36,3931,Single,1,0,Spain,71,5,23442.0,0,0,27,A
+269,PhD,60,3969,Single,0,1,Spain,71,21,46757.0,0,0,1143,B
+8213,2n Cycle,43,3976,Together,1,0,Spain,71,11,14515.0,0,0,96,A
+10245,2n Cycle,37,3985,Single,0,0,Spain,71,15,80910.0,0,0,756,C
+2447,Graduation,44,3999,Together,1,0,India,71,7,30545.0,0,0,69,A
+9817,Master,53,4056,Single,0,0,India,71,27,44802.0,0,0,1049,B
+1371,Graduation,47,3380,Single,0,0,Australia,72,16,79941.0,0,0,984,B
+8093,Master,54,3380,Married,0,0,Spain,72,14,79734.0,1,0,914,B
+713,Master,46,3400,Married,0,0,Spain,72,15,50353.0,0,0,442,C
+11051,PhD,67,3429,Together,1,1,Canada,72,23,77376.0,0,0,661,C
+5545,PhD,51,3464,Married,0,0,Spain,72,14,78075.0,0,0,988,B
+5283,PhD,47,3511,Single,1,1,Spain,72,10,42473.0,0,0,144,A
+5010,Graduation,35,3526,Single,1,0,Spain,72,6,25008.0,0,0,34,A
+7495,PhD,75,3570,Married,0,1,Spain,72,10,56223.0,0,0,156,A
+4368,Graduation,43,3587,Married,1,0,Spain,72,8,47850.0,0,0,134,A
+6303,PhD,37,3597,Together,0,0,Canada,72,22,91820.0,0,0,1497,D
+1030,PhD,58,3726,Single,1,1,Saudi Arabia,72,6,40637.0,0,0,38,A
+10364,Graduation,64,3730,Divorced,0,0,Spain,72,4,23295.0,0,0,20,A
+6945,Graduation,71,3769,Single,0,0,Spain,72,32,84574.0,0,0,1375,B
+8562,Graduation,54,3776,Together,0,0,Spain,72,11,54165.0,0,0,236,A
+2918,Graduation,42,3821,Divorced,1,1,Spain,72,9,28510.0,0,0,91,A
+9167,Graduation,67,3839,Married,0,1,Spain,72,26,67131.0,0,0,976,B
+4743,PhD,54,3862,Married,0,1,USA,72,28,56242.0,0,0,971,B
+10742,PhD,40,3866,Married,0,0,Spain,72,11,86580.0,1,0,746,C
+10965,Graduation,68,3871,Together,0,0,Spain,72,22,76005.0,1,0,1722,D
+7129,PhD,61,3876,Married,0,1,Spain,72,31,54693.0,0,0,929,B
+3732,Master,68,3889,Married,0,1,Canada,72,27,52750.0,0,0,860,B
+7124,Graduation,55,3892,Divorced,1,1,Canada,72,12,36997.0,0,0,94,A
+10686,PhD,58,3929,Together,1,1,Spain,72,4,34230.0,0,0,21,A
+7247,Graduation,63,3963,Widow,0,1,Germany,72,22,47916.0,1,0,606,C
+1513,2n Cycle,44,4049,Together,1,1,Spain,72,29,60839.0,0,0,1250,B
+460,PhD,51,4069,Married,0,0,Saudi Arabia,72,17,79930.0,0,0,1753,D
+6653,PhD,53,4078,Married,1,1,Spain,72,18,55158.0,0,0,418,C
+9400,2n Cycle,65,3387,Single,0,0,Spain,73,19,85485.0,0,0,1383,B
+7106,PhD,80,3469,Married,0,0,Spain,73,19,75865.0,0,0,1242,B
+4252,Graduation,58,3477,Married,0,1,Spain,73,12,44375.0,0,0,301,A
+9240,PhD,52,3521,Single,0,1,Spain,73,18,60504.0,0,0,526,C
+10770,Graduation,64,3533,Married,0,0,Canada,73,26,65492.0,0,0,1045,B
+176,2n Cycle,43,3557,Single,0,1,Spain,73,12,67506.0,0,0,331,A
+6870,PhD,64,3664,Divorced,0,1,Spain,73,12,68805.0,0,0,283,A
+143,Graduation,53,3687,Single,0,0,USA,73,13,61209.0,0,0,957,B
+6445,Graduation,56,3729,Together,0,0,Saudi Arabia,73,16,66825.0,0,0,858,B
+4278,PhD,40,3770,Single,0,0,India,73,19,87188.0,0,0,1923,D
+6906,Master,70,3770,Widow,0,0,Spain,73,18,84953.0,3,0,1024,B
+4637,PhD,69,3786,Single,0,0,Saudi Arabia,73,25,74637.0,1,0,1650,D
+8690,Graduation,61,3815,Married,0,0,Canada,73,23,86111.0,0,0,1385,B
+1173,Master,76,3855,Together,0,0,Spain,73,13,77632.0,2,0,2252,D
+1928,Graduation,50,3884,Married,1,0,Saudi Arabia,73,7,31814.0,1,0,83,A
+9029,PhD,51,3898,Married,0,0,Spain,73,23,70116.0,0,0,1536,D
+10299,PhD,54,3976,Single,0,0,Spain,73,25,48240.0,0,0,882,B
+9246,Master,38,4002,Together,1,0,India,73,17,40101.0,0,0,415,C
+4943,Graduation,70,4016,Married,0,0,Spain,73,16,70503.0,2,0,1727,D
+4122,Graduation,48,4048,Married,0,0,Spain,73,16,79205.0,1,0,895,B
+2853,Graduation,43,3489,Single,1,0,Canada,74,12,51766.0,0,0,275,A
+902,Graduation,43,3496,Together,1,0,Canada,74,13,62994.0,0,0,312,A
+1672,PhD,49,3499,Together,0,1,Saudi Arabia,74,15,65640.0,0,0,461,C
+7254,Graduation,54,3563,Together,1,0,Saudi Arabia,74,10,38361.0,0,0,137,A
+8775,Graduation,54,3563,Together,1,0,Australia,74,10,38361.0,0,0,137,A
+9543,Graduation,38,3606,Married,1,0,Spain,74,4,19986.0,0,0,22,A
+7093,Graduation,38,3606,Married,1,0,Spain,74,4,19986.0,0,0,22,A
+2894,Graduation,38,3622,Single,0,0,Spain,74,21,72903.0,3,0,2013,D
+5956,PhD,75,3635,Divorced,1,2,Australia,74,16,45072.0,0,0,284,A
+1921,PhD,56,3648,Married,2,1,Spain,74,7,59062.0,0,0,71,A
+5057,Master,62,3667,Married,0,1,Spain,74,20,61794.0,0,0,611,C
+10260,Master,58,3686,Together,0,1,Spain,74,15,45143.0,0,0,311,A
+2262,Master,58,3686,Together,0,1,Saudi Arabia,74,15,45143.0,0,0,311,A
+7930,Master,54,3693,Single,0,0,Spain,74,12,26877.0,0,0,268,A
+1461,PhD,58,3715,Divorced,1,1,Canada,74,7,36921.0,0,0,38,A
+7514,2n Cycle,67,3740,Together,1,1,Australia,74,12,54342.0,0,0,177,A
+6461,Master,54,3785,Single,0,1,Spain,74,23,62772.0,1,0,946,B
+257,PhD,64,3806,Married,0,1,Spain,74,20,75032.0,0,0,1215,B
+9460,Graduation,60,3816,Married,0,0,Spain,74,8,22419.0,0,0,162,A
+3855,Graduation,60,3816,Married,0,0,Canada,74,8,22419.0,0,0,162,A
+367,2n Cycle,45,3874,Married,1,0,Canada,74,20,36550.0,0,0,577,C
+9265,Graduation,70,3915,Married,0,1,Saudi Arabia,74,21,75027.0,0,0,1390,B
+1990,PhD,49,3980,Single,0,0,Spain,74,17,63159.0,1,0,1797,D
+3594,Master,50,3980,Married,1,1,Canada,74,32,54108.0,0,0,747,C
+9292,Graduation,71,3990,Married,0,0,Spain,74,23,81795.0,0,0,1382,B
+6218,Graduation,58,3996,Married,0,1,Spain,74,17,59594.0,1,0,499,C
+6528,Master,41,3403,Together,1,0,Spain,75,4,18492.0,0,0,10,A
+10164,Graduation,65,3466,Single,0,1,Spain,75,16,94472.0,2,0,1691,D
+9937,Graduation,44,3557,Single,0,0,USA,75,17,70337.0,0,0,576,C
+274,Graduation,50,3567,Single,1,1,Germany,75,7,34853.0,0,0,34,A
+11010,PhD,39,3682,Single,1,0,Spain,75,9,16269.0,0,0,44,A
+6969,Graduation,41,3705,Together,1,0,Australia,75,13,50272.0,0,0,233,A
+10735,Graduation,52,3712,Single,1,0,Saudi Arabia,75,5,22804.0,0,0,26,A
+5068,Graduation,52,3712,Single,1,0,Spain,75,5,22804.0,0,0,26,A
+9974,Graduation,49,3731,Married,1,0,Saudi Arabia,75,7,30631.0,0,0,70,A
+7053,PhD,57,3744,Single,0,0,Saudi Arabia,75,22,78420.0,0,0,1453,D
+3179,Graduation,43,3757,Single,0,0,Spain,75,19,81741.0,0,0,1572,D
+8082,Graduation,52,3783,Married,1,0,Australia,75,5,25721.0,0,0,34,A
+1362,Graduation,51,3861,Single,0,0,Germany,75,14,31907.0,0,0,449,C
+6768,Graduation,61,3912,Divorced,1,2,Canada,75,6,37859.0,0,0,36,A
+2375,Graduation,51,4021,Together,1,2,Spain,75,4,30261.0,0,0,22,A
+6856,Graduation,44,4043,Together,1,0,Germany,75,9,21645.0,0,0,65,A
+4066,2n Cycle,45,3428,Divorced,1,0,Spain,76,7,21282.0,0,0,46,A
+4333,Graduation,69,3477,Together,1,1,India,76,10,32144.0,1,0,54,A
+2948,Master,69,3499,Divorced,0,1,Canada,76,10,62637.0,0,0,185,A
+4927,Graduation,52,3544,Together,2,0,Saudi Arabia,76,9,16626.0,0,0,68,A
+7426,2n Cycle,52,3613,Married,1,1,Spain,76,12,54690.0,0,0,198,A
+8360,2n Cycle,52,3613,Married,1,1,Spain,76,12,54690.0,0,0,198,A
+4058,PhD,68,3639,Single,0,0,Spain,76,22,61284.0,1,0,811,C
+10755,2n Cycle,47,3679,Married,1,0,Australia,76,9,23718.0,0,0,81,A
+8414,PhD,61,3695,Single,0,1,Spain,76,8,33419.0,0,0,86,A
+6810,Graduation,40,3776,Divorced,0,0,Saudi Arabia,76,12,82025.0,1,0,1187,B
+3839,Basic,65,3801,Single,1,1,Spain,76,12,15056.0,0,0,88,A
+3483,Graduation,65,3828,Married,0,0,Canada,76,25,48192.0,3,0,1526,D
+238,2n Cycle,56,3901,Together,1,1,Spain,76,39,67309.0,0,0,1082,B
+591,Graduation,66,3904,Widow,0,1,India,76,20,66033.0,0,0,677,C
+5063,Graduation,46,3937,Single,1,0,Spain,76,12,28769.0,0,0,191,A
+4303,PhD,66,3947,Together,0,1,Canada,76,1,6835.0,0,0,137,A
+2258,Graduation,37,3951,Married,1,0,Spain,76,5,32880.0,0,0,42,A
+7301,2n Cycle,41,3968,Single,1,0,Spain,76,8,23616.0,0,0,79,A
+11121,Graduation,42,3975,Married,1,0,India,76,11,19419.0,0,0,70,A
+5287,Graduation,50,3389,Married,1,0,Spain,77,10,34961.0,0,0,79,A
+6457,Graduation,47,3410,Divorced,0,1,Saudi Arabia,77,24,64892.0,0,0,902,B
+3559,2n Cycle,35,3429,Married,1,0,India,77,9,16248.0,0,0,57,A
+5577,Graduation,40,3436,Together,1,0,Spain,77,4,43776.0,0,0,23,A
+641,Graduation,56,3465,Single,0,1,India,77,7,52074.0,1,0,119,A
+954,Basic,63,3473,Widow,0,0,Australia,77,7,22123.0,0,0,102,A
+1834,Master,45,3492,Single,1,0,Saudi Arabia,77,6,35544.0,0,0,67,A
+8789,2n Cycle,34,3548,Married,1,0,Spain,77,14,59060.0,0,0,274,A
+10584,Graduation,47,3588,Married,0,1,Spain,77,24,65665.0,0,0,945,B
+2337,Graduation,52,3627,Divorced,1,0,Spain,77,9,29819.0,0,0,39,A
+6071,Graduation,34,3724,Single,0,0,Spain,77,22,81217.0,0,0,1157,B
+295,Graduation,34,3724,Single,0,0,Spain,77,22,81217.0,0,0,1157,B
+10203,Graduation,33,3743,Single,1,0,Spain,77,5,26095.0,0,0,42,A
+3968,2n Cycle,53,3745,Divorced,0,0,Canada,77,27,65706.0,3,0,1199,B
+4037,Graduation,47,3759,Divorced,1,0,Saudi Arabia,77,4,31859.0,0,0,20,A
+6932,PhD,82,3821,Married,0,0,Spain,77,22,93027.0,1,0,2119,D
+10159,Graduation,53,3834,Divorced,0,1,Australia,77,31,58710.0,0,0,1185,B
+1177,Master,57,3898,Together,1,1,Spain,77,11,49618.0,0,0,129,A
+9426,Master,59,3912,Single,0,1,Spain,77,15,58308.0,0,0,900,B
+10637,Graduation,59,3923,Married,1,2,Spain,77,8,40800.0,0,1,99,A
+10826,Graduation,64,3927,Married,0,0,Spain,77,5,18690.0,0,0,60,A
+4086,Graduation,64,3927,Married,0,0,Germany,77,5,18690.0,0,0,60,A
+10304,Graduation,64,3927,Married,0,0,Spain,77,5,18690.0,0,0,60,A
+7998,Graduation,65,3944,Together,1,1,India,77,9,28087.0,0,0,112,A
+10992,Graduation,56,4048,Together,1,1,Saudi Arabia,77,26,75702.0,0,0,1148,B
+6383,PhD,52,3414,Together,1,0,Saudi Arabia,78,8,32892.0,0,0,46,A
+10536,PhD,52,3414,Together,1,0,Spain,78,8,32892.0,0,0,46,A
+6036,Master,64,3483,Together,0,0,Spain,78,19,89120.0,1,0,1924,D
+11092,Graduation,62,3498,Married,1,1,Saudi Arabia,78,7,27116.0,0,0,41,A
+538,Graduation,34,3518,Single,1,0,Saudi Arabia,78,7,46107.0,0,0,125,A
+10022,PhD,50,3519,Single,1,1,Spain,78,4,54466.0,0,0,16,A
+10157,Graduation,58,3534,Single,0,1,Canada,78,12,59686.0,0,0,274,A
+3503,Graduation,73,3588,Divorced,0,0,Saudi Arabia,78,15,82460.0,0,0,974,B
+146,PhD,63,3605,Single,0,0,Spain,78,21,76045.0,1,0,1323,B
+5538,Graduation,48,3643,Divorced,0,0,Spain,78,17,83829.0,3,0,1862,D
+3910,Graduation,48,3643,Divorced,0,0,Spain,78,17,83829.0,3,0,1862,D
+4227,Master,55,3675,Together,1,1,Spain,78,9,32889.0,0,0,55,A
+6634,Master,44,3705,Divorced,1,0,Saudi Arabia,78,6,33462.0,0,0,54,A
+8916,Graduation,48,3720,Divorced,2,0,Saudi Arabia,78,4,36627.0,0,0,16,A
+6460,Graduation,41,3730,Married,1,0,India,78,7,28718.0,0,0,57,A
+5883,Graduation,51,3778,Married,1,0,Spain,78,21,77981.0,0,0,664,C
+10091,Graduation,67,3784,Single,0,1,Spain,78,17,60230.0,0,0,1067,B
+697,Graduation,54,3853,Together,0,0,Spain,78,21,74918.0,1,0,2047,D
+2607,Graduation,70,3913,Single,0,1,Spain,78,24,40464.0,0,0,630,C
+8427,Master,67,3962,Single,0,0,Spain,78,23,64857.0,0,0,1540,D
+217,Master,67,3962,Single,0,0,Canada,78,23,64857.0,0,0,1540,D
+6202,Graduation,63,4011,Together,0,1,Spain,78,26,63381.0,0,0,1005,B
+3856,Graduation,63,4011,Together,0,1,Spain,78,26,63381.0,0,0,1005,B
+10648,2n Cycle,41,4021,Together,0,0,Spain,78,19,66664.0,0,0,1289,B
+5120,2n Cycle,41,4021,Together,0,0,Saudi Arabia,78,19,66664.0,0,0,1289,B
+6749,Graduation,57,4069,Single,1,1,Spain,78,18,86358.0,0,0,1722,D
+1584,Graduation,46,3468,Married,1,0,Saudi Arabia,79,20,41443.0,0,0,482,C
+9559,PhD,62,3535,Married,0,1,Canada,79,27,57072.0,1,0,1034,B
+771,Graduation,56,3538,Together,0,1,Germany,79,10,54178.0,0,0,194,A
+5237,PhD,73,3558,Single,1,2,Australia,79,9,48767.0,0,0,63,A
+2461,Master,68,3572,Single,1,1,Canada,79,6,51124.0,0,0,43,A
+5474,Graduation,53,3590,Single,1,0,USA,79,12,43020.0,0,0,223,A
+2895,Graduation,60,3628,Single,0,1,India,79,11,49980.0,0,0,195,A
+7972,Graduation,68,3664,Single,0,0,Spain,79,17,72906.0,0,0,1151,B
+10067,2n Cycle,47,3702,Together,1,1,Germany,79,4,25176.0,0,0,13,A
+500,Graduation,46,3706,Together,0,0,Spain,79,24,96876.0,3,0,1941,D
+922,2n Cycle,44,3800,Married,1,1,Germany,79,6,31086.0,1,0,48,A
+2861,Graduation,40,3818,Single,1,0,Spain,79,4,24072.0,0,0,23,A
+375,Graduation,69,3868,Divorced,0,0,Spain,79,16,76773.0,0,0,1156,B
+10936,Graduation,58,3880,Married,0,0,Australia,79,16,72190.0,0,0,1947,D
+10314,PhD,75,3939,Married,0,0,India,79,25,83837.0,2,0,1318,B
+4240,Graduation,45,3982,Married,1,0,Spain,79,7,17345.0,0,0,58,A
+2674,Master,65,4042,Single,0,1,USA,79,16,75154.0,0,0,1143,B
+2563,Basic,62,3393,Married,0,0,India,80,6,28249.0,0,0,43,A
+8312,Basic,62,3393,Married,0,0,Spain,80,6,28249.0,0,0,43,A
+6999,Master,43,3426,Married,0,0,India,80,23,69661.0,0,0,834,C
+7574,PhD,44,3429,Together,1,0,Saudi Arabia,80,6,27922.0,0,0,41,A
+5223,Master,57,3446,Together,0,1,Saudi Arabia,80,8,45903.0,0,0,66,A
+2952,Master,46,3453,Single,1,0,Spain,80,8,36273.0,0,0,76,A
+7683,Master,55,3503,Married,0,1,Spain,80,23,70777.0,0,0,787,C
+9481,Graduation,47,3531,Married,1,0,Canada,80,11,17148.0,0,0,68,A
+9907,Master,54,3586,Together,0,1,Germany,80,26,66476.0,0,0,1013,B
+5454,Master,44,3589,Married,1,0,USA,80,6,45057.0,0,0,50,A
+3798,Graduation,55,3614,Married,1,1,Spain,80,9,41120.0,0,0,81,A
+4259,Master,37,3657,Single,2,0,India,80,4,19485.0,0,0,10,A
+2549,PhD,40,3722,Together,1,0,Spain,80,5,21840.0,0,0,27,A
+6437,2n Cycle,38,3754,Single,1,0,Spain,80,6,41473.0,0,0,76,A
+2488,2n Cycle,67,3842,Divorced,1,1,Spain,80,10,31395.0,0,0,64,A
+3945,PhD,76,3855,Widow,0,1,Spain,80,25,68117.0,1,0,930,B
+702,2n Cycle,48,3878,Widow,0,1,Spain,80,19,47682.0,0,0,521,C
+9010,Master,51,3883,Married,0,0,Spain,80,23,83151.0,3,0,2346,D
+9710,PhD,54,3904,Divorced,0,1,Spain,80,23,58086.0,0,0,792,C
+1509,PhD,65,3920,Together,0,0,Spain,80,22,84460.0,4,0,523,C
+9120,Graduation,61,3950,Single,0,1,Spain,80,19,66565.0,0,0,1065,B
+5252,Graduation,54,3990,Divorced,1,0,Spain,80,6,23910.0,0,0,67,A
+5959,Graduation,55,4001,Single,1,1,India,80,15,35893.0,0,0,199,A
+7441,Graduation,50,4010,Divorced,1,0,USA,80,27,71128.0,0,0,1615,D
+4271,2n Cycle,34,4012,Together,1,0,India,80,17,38683.0,0,0,341,C
+4095,Graduation,52,4035,Married,1,0,USA,80,21,37150.0,0,0,467,C
+8852,Graduation,47,4046,Married,0,1,Spain,80,28,61064.0,0,0,1080,B
+7698,PhD,47,3428,Married,0,1,India,81,10,51650.0,0,0,191,A
+4174,Master,67,3452,Together,0,1,Spain,81,8,55249.0,0,0,130,A
+3182,PhD,50,3469,Single,1,1,India,81,15,46854.0,1,0,263,A
+193,Basic,27,3511,Married,0,0,Spain,81,4,14421.0,1,0,16,A
+5229,PhD,54,3512,Together,0,1,Germany,81,5,54132.0,0,0,42,A
+5555,Graduation,48,3521,Divorced,0,0,Spain,81,0,153924.0,0,0,6,A
+7732,Graduation,45,3557,Married,1,0,Spain,81,20,64813.0,0,0,745,C
+310,Master,53,3577,Married,0,1,Canada,81,21,61872.0,0,0,573,C
+6261,Graduation,44,3594,Married,0,1,India,81,18,58025.0,0,0,470,C
+6274,Master,75,3605,Married,0,0,Saudi Arabia,81,25,83790.0,2,0,1615,D
+1655,Graduation,44,3632,Together,1,0,Australia,81,5,34350.0,0,0,48,A
+2740,PhD,65,3659,Widow,1,1,Spain,81,11,33438.0,0,0,90,A
+4328,2n Cycle,37,3674,Married,1,0,Spain,81,8,21955.0,0,0,55,A
+17,PhD,52,3675,Married,0,1,Spain,81,28,60491.0,0,0,1028,B
+9153,PhD,59,3714,Married,0,1,Spain,81,28,59304.0,0,0,1048,B
+520,Graduation,49,3742,Married,1,0,Spain,81,4,34421.0,0,0,30,A
+8372,Graduation,49,3742,Married,1,0,Saudi Arabia,81,4,34421.0,0,0,30,A
+73,PhD,70,3778,Single,1,2,India,81,4,51411.0,0,0,18,A
+2002,Graduation,65,3784,Divorced,0,0,Spain,81,17,71964.0,0,0,1870,D
+6059,PhD,70,3861,Together,1,2,Spain,81,25,64504.0,0,0,1314,B
+11166,Graduation,62,3891,Married,0,1,Spain,81,14,49678.0,0,0,315,A
+6257,Master,47,3901,Single,0,1,Saudi Arabia,81,17,60482.0,0,0,507,C
+9224,PhD,51,3943,Single,0,1,Saudi Arabia,81,25,55260.0,0,0,1139,B
+8732,Master,54,3968,Widow,0,1,Spain,81,25,67369.0,2,0,1461,D
+955,Master,61,3988,Together,1,1,Saudi Arabia,81,17,47175.0,1,0,240,A
+4910,Graduation,56,4047,Divorced,0,0,USA,81,30,68743.0,0,0,2074,D
+564,PhD,42,4073,Together,1,0,Spain,81,30,56937.0,1,0,906,B
+8931,Graduation,37,3421,Together,1,0,Saudi Arabia,82,26,83033.0,1,0,1761,D
+1998,Graduation,47,3521,Single,1,0,India,82,7,37697.0,0,0,84,A
+1250,Graduation,47,3521,Single,1,0,Spain,82,7,37697.0,0,0,84,A
+8397,Graduation,72,3549,Married,1,1,Spain,82,6,44689.0,1,0,34,A
+9672,2n Cycle,53,3569,Married,1,1,Canada,82,8,23162.0,0,0,65,A
+2125,Graduation,64,3605,Divorced,0,0,USA,82,16,63033.0,0,0,1102,B
+5975,PhD,56,3651,Single,1,0,Canada,82,6,40304.0,0,0,57,A
+983,Graduation,39,3653,Married,1,0,USA,82,12,40059.0,1,0,414,C
+9938,Graduation,69,3662,Married,0,0,India,82,17,80067.0,1,0,1600,D
+4385,PhD,42,3773,Single,1,0,Spain,82,8,36038.0,0,0,47,A
+803,Graduation,55,3829,Together,1,1,Spain,82,4,40521.0,0,0,21,A
+10675,PhD,67,3831,Married,0,1,Spain,82,19,66334.0,0,0,1161,B
+7004,Graduation,39,3849,Single,1,0,India,82,9,11012.0,1,0,84,A
+4432,Graduation,47,3849,Divorced,1,0,Spain,82,7,31615.0,0,0,51,A
+4475,PhD,74,3877,Married,0,0,Spain,82,25,69098.0,0,0,2440,D
+10868,Graduation,72,3887,Widow,0,0,Spain,82,19,70792.0,0,0,1272,B
+6742,Graduation,44,3911,Married,1,0,Spain,82,4,17688.0,0,1,11,A
+5692,Basic,34,3933,Married,1,0,Saudi Arabia,82,5,25443.0,0,0,32,A
+339,PhD,51,3962,Married,0,1,Spain,82,18,57091.0,1,0,496,C
+10398,2n Cycle,42,4050,Single,1,0,Spain,82,4,24336.0,0,0,31,A
+8017,2n Cycle,42,3389,Married,1,1,Saudi Arabia,83,7,51111.0,0,0,55,A
+3722,Graduation,51,3453,Single,1,1,Spain,83,7,44503.0,0,0,48,A
+7326,Master,52,3477,Married,0,1,Canada,83,6,56850.0,0,0,63,A
+2416,PhD,54,3497,Single,0,0,Spain,83,20,66582.0,0,0,1288,B
+1878,2n Cycle,38,3510,Married,0,0,Spain,83,6,23148.0,0,0,37,A
+5278,Graduation,59,3534,Married,0,0,Germany,83,21,82224.0,1,0,902,B
+5734,PhD,49,3600,Married,1,1,Spain,83,7,61917.0,0,0,91,A
+4370,Graduation,57,3607,Together,2,1,India,83,9,43482.0,0,0,88,A
+8405,Graduation,44,3651,Divorced,1,1,Saudi Arabia,83,13,68274.0,0,0,305,A
+7617,Graduation,49,3697,Single,1,1,Spain,83,13,42373.0,0,0,163,A
+6376,Graduation,44,3763,Single,1,0,Australia,83,19,57537.0,0,0,545,C
+2150,PhD,65,3793,Widow,0,1,Canada,83,22,80995.0,0,0,1482,D
+7386,Graduation,47,3812,Divorced,1,0,Canada,83,5,30992.0,0,0,43,A
+3006,Graduation,47,3812,Divorced,1,0,Canada,83,5,30992.0,0,0,43,A
+11088,PhD,52,3813,Together,0,1,Spain,83,18,78642.0,0,0,1816,D
+5185,Graduation,68,3879,Married,0,0,Saudi Arabia,83,13,74268.0,0,0,892,B
+3523,Graduation,61,3901,Together,0,1,Spain,83,19,75072.0,0,0,1073,B
+55,Graduation,60,3948,Together,0,1,Spain,83,22,56253.0,0,0,597,C
+3807,Graduation,68,3955,Together,0,1,Spain,83,23,59925.0,0,0,766,C
+2453,Graduation,63,4046,Together,0,1,Spain,83,23,62807.0,0,0,819,C
+7787,Graduation,63,4046,Together,0,1,Canada,83,23,62807.0,0,0,819,C
+2230,PhD,53,3415,Married,1,0,Germany,84,10,23626.0,0,0,43,A
+8146,Master,47,3428,Together,1,1,Saudi Arabia,84,5,46106.0,0,0,54,A
+988,Graduation,58,3432,Married,0,0,Spain,84,18,81168.0,1,0,1193,B
+4832,Graduation,44,3493,Married,1,0,Spain,84,8,27244.0,0,0,101,A
+3152,Graduation,66,3503,Together,1,1,India,84,9,26091.0,0,0,89,A
+11188,Graduation,66,3503,Together,1,1,Spain,84,9,26091.0,0,0,89,A
+361,Master,54,3510,Married,1,1,Australia,84,4,43142.0,0,0,20,A
+5939,Graduation,52,3542,Together,1,1,Spain,84,11,38232.0,0,0,122,A
+9349,Graduation,38,3571,Married,0,0,Germany,84,23,92533.0,2,0,1131,B
+819,Graduation,78,3615,Widow,0,0,Spain,84,25,63285.0,0,0,1103,B
+10120,Graduation,68,3627,Together,0,1,USA,84,12,38946.0,0,0,257,A
+4541,Graduation,68,3627,Together,0,1,Canada,84,12,38946.0,0,0,257,A
+2456,PhD,48,3637,Married,0,1,Saudi Arabia,84,13,40233.0,0,0,149,A
+2516,2n Cycle,54,3765,Married,1,1,Spain,84,7,46831.0,0,0,78,A
+11013,Graduation,36,3834,Together,0,0,Spain,84,17,67605.0,0,0,938,B
+9988,Master,47,3862,Single,0,1,Canada,84,25,70379.0,0,0,860,B
+1627,2n Cycle,66,3898,Divorced,0,0,Spain,84,22,77297.0,1,0,789,C
+1490,Graduation,61,3957,Married,0,1,Canada,84,26,55759.0,0,0,854,B
+6710,Master,72,3968,Single,2,1,Spain,84,7,58217.0,0,0,103,A
+7375,Graduation,47,3991,Together,0,1,Saudi Arabia,84,16,51369.0,0,0,576,C
+10144,Graduation,47,3991,Together,0,1,Saudi Arabia,84,16,51369.0,0,0,576,C
+3138,Graduation,67,3996,Single,0,0,Spain,84,22,91249.0,4,0,1676,D
+1440,2n Cycle,45,4042,Together,0,0,Spain,84,25,52513.0,0,0,1149,B
+4200,Master,53,3391,Married,1,0,Saudi Arabia,85,15,44159.0,0,0,275,A
+4998,Graduation,61,3416,Together,0,0,Spain,85,14,76081.0,1,0,1033,B
+7321,Graduation,61,3416,Together,0,0,India,85,14,76081.0,1,0,1033,B
+8663,Graduation,49,3417,Divorced,1,1,Australia,85,4,39996.0,0,0,15,A
+1958,PhD,50,3479,Together,0,1,Spain,85,25,55012.0,0,0,660,C
+6963,Graduation,76,3495,Single,0,0,Saudi Arabia,85,18,77457.0,1,0,1157,B
+1065,Graduation,60,3561,Single,0,0,USA,85,19,80695.0,0,0,1918,D
+2712,Graduation,67,3565,Married,0,1,Australia,85,20,71866.0,0,0,715,C
+6049,Master,41,3585,Together,0,0,Spain,85,27,73450.0,2,0,1804,D
+6605,PhD,79,3593,Divorced,0,0,Spain,85,20,55614.0,1,0,682,C
+11181,PhD,74,3683,Married,0,0,Canada,85,0,156924.0,0,0,8,A
+5234,2n Cycle,56,3732,Together,1,1,Canada,85,7,30753.0,0,0,81,A
+5253,Master,67,3734,Together,1,1,Spain,85,16,54603.0,0,0,227,A
+11148,Graduation,48,3785,Together,1,0,Spain,85,4,22280.0,0,0,13,A
+6289,Master,72,3806,Together,1,1,Spain,85,10,59385.0,0,0,185,A
+9743,Graduation,68,3913,Married,0,1,Canada,85,29,76998.0,1,0,1910,D
+9209,Master,52,4002,Together,0,0,Saudi Arabia,85,24,80573.0,0,0,1564,D
+6417,Master,52,4002,Together,0,0,Spain,85,24,80573.0,0,0,1564,D
+7937,Graduation,41,3451,Married,0,0,Spain,86,7,24711.0,0,0,58,A
+6488,PhD,64,3463,Married,0,1,Germany,86,8,38829.0,0,0,99,A
+3194,PhD,49,3464,Single,0,0,Canada,86,19,71466.0,0,0,1230,B
+231,Master,67,3489,Together,1,1,Spain,86,7,28839.0,0,0,32,A
+9697,Graduation,72,3494,Married,0,2,Spain,86,20,53790.0,0,0,542,C
+4676,Master,72,3495,Widow,0,2,Spain,86,25,73705.0,0,0,1695,D
+8079,Graduation,41,3502,Married,1,0,Saudi Arabia,86,9,22448.0,0,0,55,A
+10032,Graduation,47,3541,Divorced,1,0,Saudi Arabia,86,11,12571.0,0,0,53,A
+10505,Master,63,3564,Together,0,0,Saudi Arabia,86,15,73113.0,0,0,1001,B
+2005,Graduation,33,3579,Married,1,0,Canada,86,8,35765.0,0,0,75,A
+6940,PhD,57,3630,Single,1,2,Spain,86,12,46734.0,1,0,223,A
+2304,PhD,60,3665,Together,0,1,Saudi Arabia,86,23,66313.0,0,0,770,C
+3170,Master,66,3681,Together,0,0,Spain,86,15,68148.0,0,0,1042,B
+10466,Graduation,58,3690,Married,1,1,Spain,86,7,44393.0,0,0,60,A
+7325,PhD,37,3744,Together,1,0,Spain,86,5,38197.0,0,0,40,A
+455,PhD,77,3816,Married,0,0,Spain,86,10,51012.0,0,0,209,A
+7592,PhD,77,3816,Married,0,0,Spain,86,10,51012.0,0,0,209,A
+4547,Graduation,63,3817,Together,1,1,Spain,86,6,13672.0,0,0,25,A
+6825,Graduation,70,3859,Together,1,1,Canada,86,4,41452.0,0,0,16,A
+2961,Graduation,41,3867,Married,1,0,Spain,86,15,42081.0,1,0,382,C
+8700,Basic,37,3933,Single,0,0,Saudi Arabia,86,9,14906.0,0,0,66,A
+2278,2n Cycle,38,3982,Single,1,0,USA,86,8,33812.0,0,0,133,A
+10703,Master,48,4059,Single,1,1,Spain,86,11,46098.0,0,0,120,A
+9,Master,48,4059,Single,1,1,Canada,86,11,46098.0,0,0,120,A
+2804,Master,48,4059,Single,1,1,India,86,11,46098.0,0,0,120,A
+4915,2n Cycle,67,4074,Married,0,1,Germany,86,23,53230.0,0,0,732,C
+3010,Master,34,3437,Together,0,0,Spain,87,20,88420.0,3,0,2069,D
+4279,2n Cycle,60,3469,Single,1,1,Spain,87,7,39548.0,0,0,54,A
+2564,Graduation,70,3555,Together,0,1,Spain,87,10,61278.0,0,0,165,A
+1137,Graduation,59,3561,Single,0,0,Spain,87,17,81246.0,2,0,1379,B
+5084,Graduation,48,3565,Widow,0,1,Spain,87,24,58330.0,0,0,1064,B
+7094,Graduation,48,3565,Widow,0,1,Germany,87,24,58330.0,0,0,1064,B
+6327,Graduation,56,3571,Together,0,0,USA,87,17,65777.0,0,0,1146,B
+6131,2n Cycle,43,3589,Married,1,1,Spain,87,16,70829.0,0,0,431,C
+10379,Master,61,3612,Single,0,2,Spain,87,21,59247.0,0,0,574,C
+606,Graduation,56,3641,Single,1,1,Spain,87,4,25930.0,0,0,15,A
+7801,Graduation,64,3669,Together,0,1,Saudi Arabia,87,21,54753.0,0,0,728,C
+2445,PhD,49,3736,Together,1,0,Spain,87,6,28440.0,0,0,63,A
+5346,2n Cycle,50,3740,Married,1,0,Germany,87,9,23559.0,0,0,79,A
+550,Graduation,71,3781,Divorced,0,1,Spain,87,21,62335.0,0,0,708,C
+4478,Graduation,44,3841,Married,1,1,India,87,26,63777.0,0,0,653,C
+2350,Graduation,51,3843,Married,1,1,Canada,87,20,59666.0,1,0,1027,B
+1118,Master,67,3873,Married,0,1,Spain,87,22,50965.0,1,0,685,C
+1491,2n Cycle,58,3875,Together,0,0,Canada,87,16,71488.0,0,0,559,C
+4507,Graduation,71,3958,Single,0,0,Spain,87,22,72228.0,0,0,1250,B
+7023,PhD,70,3959,Single,2,1,Saudi Arabia,87,15,46231.0,0,0,263,A
+6977,Graduation,49,4002,Together,0,1,Spain,87,29,75702.0,1,0,1921,D
+4042,Graduation,52,4003,Divorced,0,1,Canada,87,11,43300.0,0,0,180,A
+7274,Graduation,66,4018,Married,0,0,Spain,87,22,78618.0,1,0,2153,D
+3332,Graduation,38,4048,Single,1,0,Germany,87,12,29760.0,0,0,165,A
+7433,Graduation,38,4048,Single,1,0,Spain,87,12,29760.0,0,0,165,A
+9386,Graduation,61,3410,Together,0,1,Spain,88,13,50127.0,1,0,320,A
+5176,Graduation,35,3582,Together,1,0,Saudi Arabia,88,5,29604.0,1,0,53,A
+10323,Graduation,71,3626,Married,0,1,Spain,88,13,49413.0,0,0,304,A
+4682,Graduation,65,3636,Married,0,0,Germany,88,13,51876.0,0,0,310,A
+3083,Graduation,49,3717,Married,1,1,Spain,88,18,45837.0,0,0,373,C
+8015,PhD,61,3801,Divorced,0,0,Spain,88,20,85696.0,0,0,1313,B
+1745,PhD,61,3801,Divorced,0,0,Spain,88,20,85696.0,0,0,1313,B
+3136,Master,61,3821,Divorced,0,1,Spain,88,22,59432.0,0,0,663,C
+6991,Graduation,72,3824,Divorced,0,1,Australia,88,20,43185.0,0,0,637,C
+8132,PhD,48,3829,Married,1,1,Germany,88,24,60631.0,1,0,661,C
+503,Master,38,3853,Married,1,0,Australia,88,7,20559.0,0,0,53,A
+8148,Master,67,3916,Together,1,1,Saudi Arabia,88,33,50898.0,0,0,859,B
+2736,Graduation,45,3922,Married,0,1,India,88,23,73807.0,0,0,849,B
+8162,Master,67,3923,Together,0,0,Spain,88,5,14661.0,0,0,26,A
+692,Graduation,69,3935,Together,1,1,India,88,4,36807.0,0,0,16,A
+7706,2n Cycle,48,3978,Together,0,1,Canada,88,30,46772.0,1,0,1048,B
+9298,PhD,76,3441,Together,0,0,Saudi Arabia,89,18,81574.0,2,0,1798,D
+2986,Graduation,47,3488,Married,1,1,Canada,89,4,30772.0,0,0,20,A
+10812,PhD,45,3499,Married,1,0,Saudi Arabia,89,7,46377.0,0,0,90,A
+2909,PhD,49,3509,Married,0,1,Germany,89,20,78128.0,2,0,1264,B
+6974,PhD,51,3559,Together,0,0,Germany,89,22,83443.0,0,0,1497,D
+9140,2n Cycle,63,3565,Together,1,1,USA,89,8,50523.0,0,0,91,A
+4554,Graduation,58,3650,Together,0,1,Spain,89,17,47009.0,0,0,448,C
+7791,Master,56,3666,Married,1,1,Saudi Arabia,89,6,37054.0,0,0,25,A
+5455,PhD,52,3690,Married,1,0,Spain,89,10,32011.0,0,0,122,A
+7960,2n Cycle,61,3697,Together,0,0,Spain,89,26,82122.0,1,0,1382,B
+3426,Graduation,48,3728,Divorced,1,0,Spain,89,26,70300.0,0,0,1596,D
+5316,Master,47,3739,Together,0,0,Spain,89,7,21024.0,0,0,84,A
+1404,Graduation,55,3789,Together,2,0,Saudi Arabia,89,13,34916.0,0,0,231,A
+10598,Graduation,56,3819,Together,1,1,Spain,89,8,27943.0,0,0,37,A
+8212,Master,52,3837,Married,0,1,Spain,89,10,39791.0,0,0,174,A
+3233,PhD,58,3842,Married,0,1,Saudi Arabia,89,29,62745.0,0,0,1117,B
+7892,Graduation,54,3922,Single,0,0,USA,89,8,18589.0,0,0,75,A
+2975,Graduation,47,3973,Together,0,1,Spain,89,24,85606.0,1,0,1956,D
+5043,Basic,72,3980,Married,0,0,Spain,89,13,26997.0,0,0,434,C
+3104,Graduation,62,4029,Single,0,0,Germany,89,21,82332.0,1,0,2006,D
+10854,PhD,53,3416,Married,1,1,India,90,7,38853.0,0,0,45,A
+7419,Master,55,3446,Divorced,1,0,Spain,90,7,27071.0,0,0,35,A
+5558,PhD,69,3469,Single,0,0,Spain,90,15,90933.0,1,0,1685,D
+832,PhD,57,3498,Together,0,1,Spain,90,23,65814.0,0,0,747,C
+4964,PhD,65,3533,Together,0,0,Canada,90,18,74250.0,0,0,1158,B
+11030,Master,47,3556,Married,1,0,Spain,90,4,33181.0,1,0,16,A
+4587,Master,79,3725,Widow,0,0,Spain,90,12,45006.0,0,0,266,A
+450,Master,65,3731,Together,0,1,USA,90,12,42315.0,0,0,270,A
+11031,PhD,73,3783,Married,1,1,Australia,90,5,48699.0,0,0,40,A
+4990,Graduation,69,3802,Married,0,0,Australia,90,21,59111.0,0,0,869,B
+221,Graduation,68,3807,Married,0,1,Germany,90,12,48726.0,0,0,242,A
+4351,Graduation,68,3807,Divorced,1,1,Spain,90,5,37244.0,1,0,55,A
+1357,Graduation,53,3826,Together,1,2,Germany,90,19,74854.0,0,0,1562,D
+5667,PhD,59,4005,Married,0,1,Canada,90,26,60896.0,0,0,1701,D
+8867,PhD,35,4046,Married,0,0,Saudi Arabia,90,20,67546.0,0,0,2126,D
+2747,PhD,35,4046,Married,0,0,Spain,90,20,67546.0,0,0,2126,D
+7422,Graduation,36,4055,Single,1,0,Spain,90,16,46923.0,0,0,369,C
+4148,Graduation,51,4057,Married,1,2,Spain,90,19,38988.0,0,0,348,C
+9516,2n Cycle,52,4059,Divorced,0,0,Spain,90,28,49118.0,2,0,1229,B
+1291,PhD,45,4073,Together,1,0,Spain,90,16,27683.0,0,0,351,C
+1833,PhD,49,3443,Single,1,0,Spain,91,9,39190.0,0,0,133,A
+7270,Graduation,42,3534,Divorced,0,0,Saudi Arabia,91,19,56981.0,1,0,1241,B
+8182,Graduation,39,3554,Married,1,0,Canada,91,11,23228.0,0,0,121,A
+10394,Graduation,39,3567,Married,0,0,Canada,91,18,90000.0,3,0,1479,D
+1142,PhD,70,3568,Married,0,1,Spain,91,16,55707.0,0,0,428,C
+451,Graduation,34,3570,Single,1,0,India,91,5,9255.0,0,0,22,A
+7128,PhD,46,3583,Single,1,1,Spain,91,4,42997.0,0,0,15,A
+10678,Graduation,64,3592,Together,0,1,Spain,91,25,71232.0,0,0,917,B
+7755,PhD,69,3608,Married,0,1,Spain,91,16,57744.0,0,0,411,C
+4754,Master,57,3656,Married,0,1,Spain,91,7,33585.0,0,0,122,A
+20,2n Cycle,58,3680,Married,0,1,Germany,91,8,46891.0,0,0,183,A
+2246,2n Cycle,58,3680,Married,0,1,Spain,91,8,46891.0,0,0,183,A
+10307,Graduation,67,3681,Married,0,2,Spain,91,19,50387.0,0,0,525,C
+2147,Graduation,54,3696,Together,0,0,Spain,91,23,76653.0,2,0,2279,D
+10590,PhD,67,3835,Together,0,0,Spain,91,23,76542.0,0,0,1483,D
+6565,Master,74,3837,Married,0,1,USA,91,26,76995.0,1,0,1782,D
+6619,Graduation,45,3922,Married,1,1,Spain,91,6,38415.0,0,0,44,A
+4817,Graduation,67,4073,Divorced,0,0,Spain,91,4,22304.0,0,0,18,A
+4508,Graduation,71,3417,Single,0,0,Germany,92,19,75127.0,0,0,833,C
+4843,Graduation,71,3417,Single,0,0,Saudi Arabia,92,19,75127.0,0,0,833,C
+9197,Graduation,70,3504,Married,0,1,Spain,92,7,39722.0,0,0,47,A
+6237,PhD,57,3583,Single,0,2,Spain,92,25,7144.0,0,0,416,C
+6515,Graduation,46,3584,Together,1,0,Saudi Arabia,92,6,39771.0,0,0,50,A
+5954,Master,51,3642,Divorced,1,0,Spain,92,11,42618.0,0,0,192,A
+7938,PhD,65,3648,Together,0,1,Germany,92,17,51518.0,0,0,449,C
+961,Graduation,51,3669,Married,0,1,Spain,92,17,74716.0,0,0,860,B
+1764,Graduation,48,3703,Single,1,0,Saudi Arabia,92,15,33955.0,0,0,270,A
+1916,Master,69,3719,Married,0,1,Germany,92,19,45736.0,0,0,437,C
+6941,Graduation,52,3729,Single,0,0,Spain,92,6,31632.0,0,0,95,A
+5562,Graduation,49,3747,Married,0,1,Spain,92,21,60093.0,0,0,735,C
+1517,Graduation,54,3759,Single,1,0,Spain,92,5,30822.0,0,0,51,A
+7286,Graduation,55,3780,Together,1,0,Australia,92,5,41728.0,0,0,55,A
+4687,Master,65,3781,Married,0,0,Spain,92,24,80739.0,0,0,1633,D
+5631,Graduation,32,3802,Single,0,0,USA,92,18,49767.0,0,0,692,C
+1951,Basic,42,3897,Married,0,0,Spain,92,27,34445.0,0,0,839,C
+123,Graduation,72,3918,Widow,0,1,Australia,92,15,67046.0,0,0,993,B
+9451,Graduation,58,3960,Married,0,1,Canada,92,26,73538.0,0,0,1658,D
+7396,Graduation,57,3975,Married,0,0,Spain,92,26,80398.0,1,0,1597,D
+3298,Master,67,3977,Married,0,1,Saudi Arabia,92,31,52973.0,0,0,1152,B
+6730,Graduation,69,3982,Married,1,1,Spain,92,8,38998.0,0,1,54,A
+9916,Graduation,69,3982,Married,1,1,Saudi Arabia,92,8,38998.0,0,1,54,A
+2227,2n Cycle,65,4024,Together,0,0,Saudi Arabia,92,11,26490.0,0,0,210,A
+946,2n Cycle,65,4024,Together,0,0,Spain,92,11,26490.0,0,0,210,A
+3745,2n Cycle,35,4042,Married,1,0,India,92,8,23331.0,0,0,103,A
+4094,Graduation,62,4052,Married,1,1,Australia,92,15,60544.0,0,0,289,A
+8588,Graduation,62,4052,Married,1,1,Germany,92,15,60544.0,0,0,289,A
+3916,PhD,52,4062,Together,1,0,Spain,92,25,49269.0,0,0,890,B
+9135,Graduation,73,4071,Together,1,1,Spain,92,6,27203.0,0,0,64,A
+1755,2n Cycle,35,3458,Together,1,0,Saudi Arabia,93,7,45204.0,0,0,114,A
+2875,Graduation,45,3496,Married,0,0,Spain,93,24,67023.0,0,1,906,B
+2008,Graduation,45,3518,Married,0,0,Saudi Arabia,93,19,77583.0,1,0,1149,B
+10925,Graduation,40,3545,Married,0,0,Saudi Arabia,93,25,76630.0,0,0,1003,B
+1604,Master,63,3607,Married,0,1,Spain,93,13,47353.0,0,0,225,A
+5389,Graduation,59,3631,Married,0,2,Spain,93,16,48920.0,1,0,347,C
+2878,PhD,76,3653,Married,0,1,Spain,93,15,67472.0,0,0,414,C
+4440,Master,59,3671,Married,0,1,Saudi Arabia,93,18,64100.0,1,0,546,C
+1324,Graduation,35,3774,Married,1,0,India,93,8,38872.0,0,0,91,A
+6262,Master,61,3824,Single,0,0,Germany,93,22,72217.0,0,0,1573,D
+3628,Basic,36,3895,Single,1,0,Spain,93,7,15038.0,0,0,80,A
+3641,Graduation,47,3904,Married,1,0,Spain,93,7,13624.0,0,0,36,A
+322,Graduation,45,3912,Together,1,1,Australia,93,7,42554.0,0,0,41,A
+175,Graduation,37,3914,Married,1,0,Spain,93,22,71952.0,2,0,1443,B
+6988,Graduation,37,3914,Married,1,0,Australia,93,22,71952.0,2,0,1443,B
+8204,2n Cycle,52,3939,Married,0,0,Germany,93,18,78041.0,0,0,1319,B
+7476,Master,59,3953,Single,0,1,Saudi Arabia,93,23,63972.0,1,0,1269,B
+5221,Graduation,66,3954,Married,0,1,Germany,93,26,52852.0,1,0,879,B
+8970,PhD,51,3993,Married,0,1,Spain,93,19,62010.0,0,0,530,C
+9286,Master,63,4006,Together,0,0,Spain,93,19,83151.0,0,0,747,C
+5831,Graduation,56,4055,Married,0,1,Spain,93,18,77870.0,2,0,1815,D
+1010,Graduation,46,3445,Together,2,1,Spain,94,7,46931.0,0,0,78,A
+11074,Graduation,46,3460,Single,0,0,Saudi Arabia,94,18,85072.0,0,0,1423,B
+5896,Master,36,3482,Married,0,0,Spain,94,15,73395.0,0,0,397,C
+3515,Graduation,71,3511,Single,0,1,Spain,94,9,62307.0,0,0,160,A
+5324,PhD,42,3540,Married,1,0,USA,94,19,58293.0,0,0,422,C
+6534,Graduation,49,3555,Together,1,0,Saudi Arabia,94,6,47889.0,0,0,67,A
+8373,Basic,44,3580,Together,1,0,Canada,94,5,24594.0,0,0,29,A
+3829,Basic,44,3580,Together,1,0,Saudi Arabia,94,5,24594.0,0,0,29,A
+4501,Master,58,3610,Single,0,0,Spain,94,20,69882.0,0,0,1478,D
+4179,Graduation,64,3692,Together,0,0,Spain,94,6,24221.0,0,0,55,A
+2292,Graduation,38,3710,Single,1,0,Spain,94,5,22327.0,0,0,24,A
+9239,Master,62,3717,Married,0,2,USA,94,8,61923.0,0,0,126,A
+8953,Master,58,3798,Single,2,1,Spain,94,6,35791.0,0,0,35,A
+10258,Master,58,3798,Single,2,1,USA,94,6,35791.0,0,0,35,A
+3520,Master,33,3838,Single,0,0,Canada,94,14,91172.0,4,0,1092,B
+10402,Graduation,56,3879,Married,1,1,Canada,94,6,35441.0,0,0,39,A
+11114,Graduation,53,3885,Together,1,0,Spain,94,9,19656.0,0,0,84,A
+9553,Graduation,36,3915,Married,0,0,India,94,4,7500.0,0,0,15,A
+6055,Graduation,44,3984,Married,0,0,Spain,94,19,71626.0,1,0,1305,B
+4786,Graduation,46,4012,Married,1,1,USA,94,29,75330.0,0,0,1109,B
+5015,Master,47,4032,Married,1,0,Spain,94,9,34529.0,0,0,162,A
+8560,Graduation,31,4036,Single,0,0,Canada,94,18,48789.0,0,0,680,C
+3469,PhD,46,4040,Divorced,1,1,Spain,94,9,34487.0,0,0,103,A
+5885,2n Cycle,50,4055,Married,2,1,Canada,94,16,35688.0,0,0,211,A
+3310,2n Cycle,50,4055,Married,2,1,Spain,94,16,35688.0,0,0,211,A
+2134,Graduation,71,4060,Single,0,1,Saudi Arabia,94,22,53700.0,0,0,694,C
+2532,Master,36,3499,Single,0,0,Spain,95,13,73454.0,1,0,1651,D
+2579,Graduation,66,3573,Married,0,1,Spain,95,26,71113.0,0,0,835,C
+5623,Master,43,3655,Married,1,0,Spain,95,5,31535.0,1,0,51,A
+4789,Graduation,70,3664,Together,0,0,India,95,18,80812.0,3,0,1677,D
+9523,Graduation,41,3695,Together,1,0,Spain,95,4,40479.0,0,0,15,A
+5268,Graduation,63,3701,Married,1,1,Germany,95,7,29440.0,0,0,56,A
+1545,Graduation,37,3710,Married,1,0,Spain,95,20,38508.0,0,0,443,C
+2254,Graduation,40,3736,Married,0,0,Australia,95,21,69520.0,0,0,1455,D
+2661,Graduation,59,3769,Single,1,1,Saudi Arabia,95,10,18701.0,0,0,44,A
+3130,Graduation,59,3769,Single,1,1,Spain,95,10,18701.0,0,0,44,A
+5847,Graduation,54,3775,Divorced,0,1,Spain,95,23,69901.0,0,0,882,B
+5863,Graduation,70,3775,Married,0,1,Spain,95,21,47703.0,0,0,655,C
+999,Graduation,32,3922,Single,0,0,Canada,95,25,86037.0,2,0,730,C
+2931,Graduation,45,4025,Divorced,0,0,Spain,95,22,71847.0,1,0,1192,B
+1890,2n Cycle,52,4027,Together,1,1,Spain,95,4,42033.0,0,0,25,A
+5589,Graduation,59,4046,Divorced,0,1,India,95,24,51983.0,0,0,793,C
+10172,Graduation,35,4067,Single,0,0,Spain,95,21,68655.0,0,0,1538,D
+6729,Graduation,35,4067,Single,0,0,Saudi Arabia,95,21,68655.0,0,0,1538,D
+10492,Graduation,64,3384,Together,2,1,India,96,4,38285.0,0,0,10,A
+2939,Master,53,3386,Together,0,0,Canada,96,15,79419.0,0,0,1631,D
+5948,Graduation,48,3440,Single,0,1,USA,96,12,57338.0,0,0,237,A
+574,Graduation,59,3446,Married,0,0,Germany,96,7,42523.0,0,0,125,A
+3266,Graduation,59,3446,Married,0,0,Canada,96,7,42523.0,0,0,125,A
+10500,Graduation,39,3464,Married,1,0,Australia,96,9,31761.0,0,0,98,A
+7987,Graduation,54,3493,Married,0,1,Canada,96,19,65747.0,1,0,460,C
+1135,Master,63,3513,Together,1,1,Canada,96,12,17144.0,0,0,47,A
+24,Master,63,3513,Together,1,1,Saudi Arabia,96,12,17144.0,0,0,47,A
+1966,PhD,58,3598,Married,0,0,Australia,96,26,84618.0,1,0,1672,D
+7789,PhD,58,3598,Married,0,0,Spain,96,26,84618.0,1,0,1672,D
+3336,PhD,75,3599,Together,0,1,Australia,96,14,66375.0,1,0,948,B
+5644,Graduation,66,3639,Together,0,1,Spain,96,15,42213.0,1,0,363,C
+6663,PhD,83,3735,Single,0,0,Spain,96,9,51141.0,0,0,157,A
+10262,Graduation,43,3794,Married,2,0,India,96,11,15072.0,0,0,53,A
+456,2n Cycle,37,3886,Married,1,0,Spain,96,7,7500.0,0,0,36,A
+3270,2n Cycle,45,3907,Together,1,0,Saudi Arabia,96,11,17117.0,0,0,128,A
+5748,Graduation,58,3954,Married,0,1,Saudi Arabia,96,16,59754.0,0,0,475,C
+8952,Master,70,3980,Married,0,1,Spain,96,23,65569.0,0,0,859,B
+3921,2n Cycle,71,3988,Widow,0,0,Spain,96,10,28457.0,0,0,205,A
+9826,PhD,51,4034,Single,0,0,USA,96,22,86857.0,0,0,2114,D
+5830,PhD,51,4034,Single,0,0,Saudi Arabia,96,22,86857.0,0,0,2114,D
+8310,Graduation,59,4048,Together,0,1,Spain,96,24,68142.0,0,0,1459,D
+6382,Graduation,70,3382,Together,1,1,USA,97,5,48794.0,0,0,54,A
+8439,Graduation,59,3402,Together,0,2,Spain,97,15,63404.0,1,0,902,B
+7613,2n Cycle,49,3415,Together,1,0,Spain,97,14,49669.0,0,0,326,A
+48,Graduation,59,3445,Together,0,1,Spain,97,10,55761.0,1,0,184,A
+5046,Graduation,65,3536,Divorced,0,1,Saudi Arabia,97,25,78331.0,0,0,1638,D
+3231,Graduation,50,3595,Married,1,0,USA,97,5,37971.0,0,0,30,A
+7181,Graduation,46,3613,Married,0,1,Spain,97,7,30368.0,0,0,52,A
+1663,PhD,45,3626,Together,1,0,Spain,97,5,34043.0,0,0,49,A
+5441,PhD,58,3687,Widow,0,1,Spain,97,15,54111.0,0,0,388,C
+8602,Graduation,59,3761,Divorced,0,1,Spain,97,26,69932.0,0,0,1049,B
+9925,PhD,42,3779,Together,1,0,Spain,97,12,39665.0,1,0,216,A
+9499,Graduation,69,3797,Married,1,2,Canada,97,17,93404.0,2,0,1616,D
+6568,Graduation,39,3837,Married,1,0,USA,97,6,38680.0,0,0,79,A
+3032,Graduation,39,3866,Married,1,0,Spain,97,11,24570.0,0,0,193,A
+5153,PhD,56,3871,Married,0,1,Spain,97,34,77766.0,1,0,1529,D
+4127,PhD,56,3871,Married,0,1,Spain,97,34,77766.0,1,0,1529,D
+9940,Graduation,65,3932,Together,0,1,Saudi Arabia,97,16,64961.0,0,0,1009,B
+7527,Master,55,3964,Divorced,1,0,Spain,97,9,23748.0,0,0,76,A
+3406,Graduation,59,3994,Single,0,1,Saudi Arabia,97,16,45989.0,0,0,322,A
+9771,2n Cycle,35,4011,Single,1,0,India,97,17,23331.0,0,0,269,A
+6722,PhD,69,3380,Married,0,1,Canada,98,23,70421.0,0,0,767,C
+213,PhD,60,3411,Single,1,1,Spain,98,10,23091.0,0,0,48,A
+8541,2n Cycle,33,3492,Married,1,0,Spain,98,8,24683.0,0,0,41,A
+8475,PhD,50,3499,Married,0,1,India,98,37,157243.0,0,0,1608,D
+8070,PhD,50,3499,Married,0,1,Spain,98,12,54222.0,0,0,264,A
+313,Graduation,55,3623,Widow,0,0,Saudi Arabia,98,22,73455.0,1,0,2088,D
+9757,Graduation,51,3647,Together,0,0,Spain,98,24,84906.0,3,0,1631,D
+2088,Graduation,51,3647,Together,0,0,Germany,98,24,84906.0,3,0,1631,D
+2320,2n Cycle,45,3669,Married,0,1,Spain,98,23,47025.0,0,0,635,C
+966,Graduation,57,3738,Married,0,1,Spain,98,25,44529.0,1,0,691,C
+9706,PhD,49,3749,Single,1,0,Canada,98,8,31560.0,0,0,94,A
+3979,PhD,40,3782,Divorced,0,0,Spain,98,17,90687.0,1,0,1779,D
+5602,PhD,34,3787,Together,0,0,India,98,28,66973.0,0,0,1282,B
+2202,Graduation,45,3825,Together,0,1,Spain,98,6,41154.0,0,0,69,A
+9645,Graduation,55,4002,Married,0,0,Spain,98,24,64590.0,0,0,1338,B
+7230,PhD,63,4012,Divorced,0,1,USA,98,22,50611.0,1,0,493,C
+5675,PhD,63,4012,Divorced,0,1,USA,98,22,50611.0,1,0,493,C
+4974,Graduation,53,4021,Single,1,2,USA,98,29,83273.0,0,0,1392,B
+5687,Graduation,43,4023,Divorced,0,0,Canada,98,27,81702.0,0,0,1633,D
+5871,Master,44,4046,Together,0,0,Saudi Arabia,98,16,24401.0,0,0,467,C
+3846,Graduation,49,4048,Married,0,1,Spain,98,15,42557.0,0,0,270,A
+10001,2n Cycle,38,4076,Together,1,0,Spain,98,10,7500.0,0,0,100,A
+2831,Graduation,47,3381,Together,0,1,Spain,99,26,78416.0,0,0,1179,B
+868,Graduation,57,3400,Married,0,1,Saudi Arabia,99,6,44794.0,0,0,65,A
+7212,Graduation,57,3400,Married,0,1,Australia,99,6,44794.0,0,0,65,A
+1743,Graduation,49,3413,Single,0,0,Spain,99,11,69719.0,0,0,801,C
+2415,Graduation,61,3462,Together,0,1,Spain,99,16,62568.0,1,0,953,B
+7947,Graduation,54,3475,Married,1,1,Spain,99,5,42231.0,0,0,37,A
+2106,2n Cycle,49,3483,Married,0,0,Spain,99,5,20130.0,0,0,34,A
+3363,2n Cycle,49,3483,Married,0,0,Spain,99,5,20130.0,0,0,34,A
+8595,Graduation,50,3517,Widow,0,1,Australia,99,7,42429.0,0,0,67,A
+7232,Graduation,50,3517,Widow,0,1,Spain,99,7,42429.0,0,0,67,A
+9977,Graduation,50,3664,Divorced,0,1,USA,99,20,78901.0,0,0,734,C
+10142,PhD,47,3858,Divorced,0,1,USA,99,20,66476.0,0,0,689,C
+5263,2n Cycle,46,3902,Married,1,0,Spain,99,5,31056.0,0,0,55,A
+22,Graduation,47,3952,Divorced,1,0,Spain,99,14,46310.0,0,0,309,A
+528,Graduation,45,3956,Married,0,0,India,99,20,65819.0,0,0,1383,B
+4070,PhD,54,4045,Married,0,2,Canada,99,18,94871.0,2,0,1078,B

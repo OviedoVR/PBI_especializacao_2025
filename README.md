@@ -18,7 +18,7 @@ Repositório da disciplina de Power BI, ministrado em nov/2025 na UFN.
 - Compartilhamento (público e opções)
 - Atualização com PBI Gateway
 - Funções DAX, tabela calendário e medidas rápidas 
-- Exemplos DAX** e **Dashboard Curva ABC**
+- **Exemplos DAX** e **Dashboard Curva ABC**
 - **Cartões com DAX** 
 - Compartilhamento com Senha
 - Layout de dashboards

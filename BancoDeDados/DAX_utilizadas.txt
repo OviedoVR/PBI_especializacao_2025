@@ -1,0 +1,8 @@
+Exemplos de DAX
+
+Total de vendas (un). para a bike tipo 'Mountain'.
+- CALCULTE
+
+Total de vendas (un). para a bike tipo 'Mountain' e material 'Carbon'.
+- CALCULTE
+
